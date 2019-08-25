@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "Andrew Scheer",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/02/03154814/8d9af8bb8626e81-150x150.png",
+    "riding": "Regina-Qu’Appelle",
+    "website": "https://www.conservative.ca/team-member/andrew-scheer/"
+  },
+  {
+    "name": "Ziad Aboultaif",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03040742/3b6079781876e24-150x150.png",
+    "riding": "Edmonton Manning",
+    "website": "https://www.conservative.ca/team-member/ziad-aboultaif/"
+  },
+  {
+    "name": "Leona Aglukkaq",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082646/390ed1329b40c0b-150x150.png",
+    "riding": "Nunavut",
+    "website": "https://www.conservative.ca/team-member/leona-aglukaq/"
+  },
+  {
+    "name": "Scott Aitchison",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/26092459/11c4afe2c472c19-150x150.png",
+    "riding": "Parry Sound-Muskoka",
+    "website": "https://www.conservative.ca/team-member/scott-aitchison/"
+  },
+  {
+    "name": "Dan Albas",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03045525/6f2ef15ae6e5f99-150x150.png",
+    "riding": "Central Okanagan-Similkameen-Nicola",
+    "website": "https://www.conservative.ca/team-member/dan-albas/"
+  },
+  {
+    "name": "Harold Albrecht",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155230/9cd16168a168c41-150x150.png",
+    "riding": "Kitchener-Conestoga",
+    "website": "https://www.conservative.ca/team-member/harold-albrecht/"
+  },
+  {
+    "name": "Leona Alleslev",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155228/5a9a4074c4c1aba-150x150.png",
+    "riding": "Aurora-Oak Ridges-Richmond Hill",
+    "website": "https://www.conservative.ca/team-member/leona-alleslev/"
+  },
+  {
+    "name": "Dean Allison",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155227/7866f451a9518e9-150x150.png",
+    "riding": "Niagara West",
+    "website": "https://www.conservative.ca/team-member/dean-allison/"
+  },
+  {
+    "name": "Stella Ambler",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155225/0cbc120efa50af2-150x150.png",
+    "riding": "Mississauga-Lakeshore",
+    "website": "https://www.conservative.ca/team-member/stella-ambler/"
+  },
+  {
+    "name": "Theodore Antony",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155223/18a9cb5d2e37e61-150x150.png",
+    "riding": "Markham-Stouffville",
+    "website": "https://www.conservative.ca/team-member/theodore-antony/"
+  },
+  {
+    "name": "Scott Armstrong",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080137/faaccecfa15d657-150x150.png",
+    "riding": "Cumberland-Colchester",
+    "website": "https://www.conservative.ca/team-member/scott-armstrong/"
+  },
+  {
+    "name": "Mel Arnold",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03045739/8f0058feee9acc9-150x150.png",
+    "riding": "North Okanagan-Shuswap",
+    "website": "https://www.conservative.ca/team-member/mel-arnold/"
+  },
+  {
+    "name": "Chani Aryeh",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03155220/bb670dcef27a942-150x150.png",
+    "riding": "Eglinton-Lawrence",
+    "website": "https://www.conservative.ca/team-member/chani-aryeh/"
+  },
+  {
+    "name": "Sunny Attwal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03100337/3cb6bb3d229bb88-150x150.png",
+    "riding": "Cambridge",
+    "website": "https://www.conservative.ca/team-member/sunny-attwal/"
+  },
+  {
+    "name": "Tina Bains",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093317/aa8287c4532745c-150x150.png",
+    "riding": "Surrey Centre",
+    "website": "https://www.conservative.ca/team-member/tina-bains/"
+  },
+  {
+    "name": "Tony Baldinelli",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/16122055/749bcb5087a98e5-150x150.png",
+    "riding": "Niagara Falls",
+    "website": "https://www.conservative.ca/team-member/tony-baldinelli/"
+  },
+  {
+    "name": "John Barlow",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03040954/b18264070bf9e52-150x150.png",
+    "riding": "Foothills",
+    "website": "https://www.conservative.ca/team-member/john-barlow/"
+  },
+  {
+    "name": "Bernard Barré",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03020708/ca205c6b928a40f-150x150.png",
+    "riding": "Saint-Hyacinthe-Bagot",
+    "website": "https://www.conservative.ca/team-member/bernard-barre/"
+  },
+  {
+    "name": "Michael Barrett",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/01132542/dd28fad39087f5e-150x150.png",
+    "riding": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+    "website": "https://www.conservative.ca/team-member/michael-barrett/"
+  },
+  {
+    "name": "Sonia Baudelot",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/08084424/acd8ecd4c5a8e59-150x150.png",
+    "riding": "Marc-Aurèle-Fortin",
+    "website": "https://www.conservative.ca/team-member/sonia-baudelot/"
+  },
+  {
+    "name": "Josée Bélanger",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03021131/fa92d1d9b4104eb-150x150.png",
+    "riding": "Berthier-Maskinongé",
+    "website": "https://www.conservative.ca/team-member/josee-belanger/"
+  },
+  {
+    "name": "Bob Benzen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03090344/5cfc8236fc6351b-150x150.png",
+    "riding": "Calgary Heritage",
+    "website": "https://www.conservative.ca/team-member/bob-benzen/"
+  },
+  {
+    "name": "Candice Bergen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03050844/ebb3251eaae1f85-150x150.png",
+    "riding": "Portage-Lisgar",
+    "website": "https://www.conservative.ca/team-member/candice-bergen/"
+  },
+  {
+    "name": "Joel Bernard",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03155215/d412767375966b3-150x150.png",
+    "riding": "Ottawa-Vanier",
+    "website": "https://www.conservative.ca/team-member/joel-bernard/"
+  },
+  {
+    "name": "Luc Berthold",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/14105300/b98fd32e91344aa-150x150.png",
+    "riding": "Mégantic-L’Érable",
+    "website": "https://www.conservative.ca/team-member/luc-berthold/"
+  },
+  {
+    "name": "David Bertschi",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/02194620/1089aab762b3f9c-150x150.png",
+    "riding": "Orléans",
+    "website": "https://www.conservative.ca/team-member/david-bertschi/"
+  },
+  {
+    "name": "James Bezan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/23093106/7884b1318ee7daf-150x150.png",
+    "riding": "Selkirk-Interlake-Eastman",
+    "website": "https://www.conservative.ca/team-member/james-bezan/"
+  },
+  {
+    "name": "Sanjay Bhatia",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155212/9f2fe8e765b1d3d-150x150.png",
+    "riding": "Davenport",
+    "website": "https://www.conservative.ca/team-member/sanjay-bhatia/"
+  },
+  {
+    "name": "Cyara Bird",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/12100907/5b0263432b362a9-150x150.png",
+    "riding": "Churchill-Keewatinook Aski",
+    "website": "https://www.conservative.ca/team-member/cyara-bird/"
+  },
+  {
+    "name": "Dave Blackburn",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03021537/8187cec2925eb24-150x150.png",
+    "riding": "Pontiac",
+    "website": "https://www.conservative.ca/team-member/dave-blackburn/"
+  },
+  {
+    "name": "Steven Blaney",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/02162620/307aaf96a2e833f-150x150.png",
+    "riding": "Bellechasse-Les Etchemins-Lévis",
+    "website": "https://www.conservative.ca/team-member/steven-blaney/"
+  },
+  {
+    "name": "Kelly Block",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03051722/7f9a9adceabdb5b-150x150.png",
+    "riding": "Carlton Trail-Eagle Creek",
+    "website": "https://www.conservative.ca/team-member/kelly-block/"
+  },
+  {
+    "name": "Sarah Bokhari",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/30083857/a1864b1a2ba8730-150x150.png",
+    "riding": "London North Centre",
+    "website": "https://www.conservative.ca/team-member/sarah-bokhari/"
+  },
+  {
+    "name": "Sylvie Boucher",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/13095016/5067997427dde7c-150x150.png",
+    "riding": "Beauport-Côte-de-Beaupré-Île d’Orléans-Charlevoix",
+    "website": "https://www.conservative.ca/team-member/sylvie-boucher/"
+  },
+  {
+    "name": "Bianca Boutin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/11142235/d7550f0f8f9af8a-150x150.png",
+    "riding": "Québec",
+    "website": "https://www.conservative.ca/team-member/bianca-boutin/"
+  },
+  {
+    "name": "Alex Bracci",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03090623/ddecc95fc2800d3-150x150.png",
+    "riding": "Coast of Bays-Central-Notre Dame",
+    "website": "https://www.conservative.ca/team-member/alex-bracci/"
+  },
+  {
+    "name": "Richard Bragdon",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075828/12c8887dca88a27-150x150.png",
+    "riding": "Tobique-Mactaquac",
+    "website": "https://www.conservative.ca/team-member/richard-bragdon/"
+  },
+  {
+    "name": "Pierre Branchaud",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/14095228/aa7e88b83de2c72-150x150.png",
+    "riding": "Repentigny",
+    "website": "https://www.conservative.ca/team-member/pierre-branchaud/"
+  },
+  {
+    "name": "Ramandeep Brar",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03155208/5ad0b15bbd2e9b3-150x150.png",
+    "riding": "Brampton South",
+    "website": "https://www.conservative.ca/team-member/ramdeep-brar/"
+  },
+  {
+    "name": "John Brassard",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155203/f75df3864d8526f-150x150.png",
+    "riding": "Barrie-Innisfil",
+    "website": "https://www.conservative.ca/team-member/john-brassard/"
+  },
+  {
+    "name": "Lois Brown",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155159/b09618077426f85-150x150.png",
+    "riding": "Newmarket-Aurora",
+    "website": "https://www.conservative.ca/team-member/lois-brown/"
+  },
+  {
+    "name": "David Busch",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074359/091dcd8145c774c-150x150.png",
+    "riding": "Saanich-Gulf Islands",
+    "website": "https://www.conservative.ca/team-member/david-busch/"
+  },
+  {
+    "name": "Blaine Calkins",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03041205/f1fb9678742d8a2-150x150.png",
+    "riding": "Red Deer-Lacombe",
+    "website": "https://www.conservative.ca/team-member/blaine-calkins/"
+  },
+  {
+    "name": "Robert Campbell",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081123/94d933942702f61-150x150.png",
+    "riding": "Charlottetown",
+    "website": "https://www.conservative.ca/team-member/robert-campbell/"
+  },
+  {
+    "name": "Réjeanne Caron",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075156/1d3b94cbc297eda-150x150.png",
+    "riding": "Saint Boniface-Saint Vital",
+    "website": "https://www.conservative.ca/team-member/rejeanne-caron/"
+  },
+  {
+    "name": "Richard Caron",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/13150832/a99c7100b8c3ad0-150x150.jpg",
+    "riding": "Victoria",
+    "website": "https://www.conservative.ca/team-member/richard-caron/"
+  },
+  {
+    "name": "Jordy Carr",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/09153508/b0e2869e7f52bbc1-150x150.png",
+    "riding": "Nipissing-Timiskaming",
+    "website": "https://www.conservative.ca/team-member/jordy-carr/"
+  },
+  {
+    "name": "Colin Carrie",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155157/b42d1bf6c305b67-150x150.png",
+    "riding": "Oshawa",
+    "website": "https://www.conservative.ca/team-member/colin-carrie/"
+  },
+  {
+    "name": "David Cavey",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093212/aedfea4edf7446f-150x150.png",
+    "riding": "Vancouver Centre",
+    "website": "https://www.conservative.ca/team-member/david-cavey/"
+  },
+  {
+    "name": "Matthew Chapman",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/13102047/d6aa544328ed013-150x150.png",
+    "riding": "Avalon",
+    "website": "https://www.conservative.ca/team-member/matthew-chapman/"
+  },
+  {
+    "name": "Irshad Chaudhry",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155156/d55c2a6336ee12d-150x150.png",
+    "riding": "Scarborough Centre",
+    "website": "https://www.conservative.ca/team-member/irshad-chaudhry/"
+  },
+  {
+    "name": "Kenny Chiu",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093529/0eaedb9f54aad27-1-150x150.png",
+    "riding": "Steveston-Richmond East",
+    "website": "https://www.conservative.ca/team-member/kenny-chiu/"
+  },
+  {
+    "name": "Michael Chong",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155154/897263a71de6c4b-150x150.png",
+    "riding": "Wellington-Halton Hills",
+    "website": "https://www.conservative.ca/team-member/michael-chong/"
+  },
+  {
+    "name": "Zia Choudhary",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155153/16adf862a09b62d-150x150.png",
+    "riding": "Toronto-Danforth",
+    "website": "https://www.conservative.ca/team-member/zia-choudhary/"
+  },
+  {
+    "name": "Iftikhar Choudry",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155151/eccbb5160432e84-150x150.png",
+    "riding": "Humber River-Black Creek",
+    "website": "https://www.conservative.ca/team-member/iftikhar-choudry/"
+  },
+  {
+    "name": "Monica Ciriello",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03155149/c04c74ff5c90c8d-150x150.png",
+    "riding": "Hamilton Centre",
+    "website": "https://www.conservative.ca/team-member/monica-ciriello/"
+  },
+  {
+    "name": "Alupa Clarke",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/25160325/e7a50c18b7dcc8e-150x150.png",
+    "riding": "Beauport-Limoilou",
+    "website": "https://www.conservative.ca/team-member/alupa-clarke/"
+  },
+  {
+    "name": "Carol Clemenhagen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155148/7bf662fb479dc54-150x150.png",
+    "riding": "Ottawa Centre",
+    "website": "https://www.conservative.ca/team-member/carol-clemenhagen/"
+  },
+  {
+    "name": "Nathalie Clermont",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03100441/7390fdd09ffabd8-150x150.png",
+    "riding": "Shefford",
+    "website": "https://www.conservative.ca/team-member/nathalie-clermont/"
+  },
+  {
+    "name": "Patrick Clune",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03095912/9caea7b089a122b-150x150.png",
+    "riding": "Longueuil-Saint-Hubert",
+    "website": "https://www.conservative.ca/team-member/patrick-clune/"
+  },
+  {
+    "name": "Jason Cole",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080029/f8eb737b1e97352-150x150.png",
+    "riding": "Dartmouth-Cole Harbour",
+    "website": "https://www.conservative.ca/team-member/jason-cole/"
+  },
+  {
+    "name": "Michael Cooper",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/04094245/3d9b390a6784fd5-150x150.jpg",
+    "riding": "St. Albert-Edmonton",
+    "website": "https://www.conservative.ca/team-member/michael-cooper/"
+  },
+  {
+    "name": "Kevin Copley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03091834/eca6b50434e1cb2-150x150.png",
+    "riding": "Sackville-Preston-Chezzetcook",
+    "website": "https://www.conservative.ca/team-member/kevin-copley/"
+  },
+  {
+    "name": "François Corriveau",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/08083945/4c8c5db471a7fce-150x150.png",
+    "riding": "Manicouagan",
+    "website": "https://www.conservative.ca/team-member/francois-corriveau/"
+  },
+  {
+    "name": "Bruno Côté",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03022758/5904d499b920341-150x150.png",
+    "riding": "Brome-Missisquoi",
+    "website": "https://www.conservative.ca/team-member/bruno-cote/"
+  },
+  {
+    "name": "Bruno-Pier Courchesne",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/09154235/7b53c54de25dc0e-150x150.png",
+    "riding": "Saint-Maurice-Champlain",
+    "website": "https://www.conservative.ca/team-member/bruno-pier-courchesne/"
+  },
+  {
+    "name": "Robert Coutu",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03022957/216c85496d01b7c-150x150.png",
+    "riding": "La Pointe-de-l’Île",
+    "website": "https://www.conservative.ca/team-member/robert-coutu/"
+  },
+  {
+    "name": "Karen Cox",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/17113152/d7a1fcf958c4ab3-150x150.png",
+    "riding": "Vaudreuil-Soulanges",
+    "website": "https://www.conservative.ca/team-member/karen-cox/"
+  },
+  {
+    "name": "Guy Croteau",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03023204/aa51e51eb24140f-150x150.png",
+    "riding": "Honoré-Mercier",
+    "website": "https://www.conservative.ca/team-member/guy-croteau/"
+  },
+  {
+    "name": "James Cumming",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081449/3e7160770b99e3e-150x150.png",
+    "riding": "Edmonton Centre",
+    "website": "https://www.conservative.ca/team-member/james-cumming/"
+  },
+  {
+    "name": "Yanik D’Aigle",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/14104033/1bf881de7be7b1e-150x150.png",
+    "riding": "Northwest Territories",
+    "website": "https://www.conservative.ca/team-member/yanik-daigle/"
+  },
+  {
+    "name": "Chris d’Entremont",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/04122709/5c8723ecdc00853-150x150.png",
+    "riding": "West Nova",
+    "website": "https://www.conservative.ca/team-member/chris-dentremont/"
+  },
+  {
+    "name": "Marc Dalton",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074153/7a2470476d930c1-150x150.png",
+    "riding": "Pitt Meadows-Maple Ridge",
+    "website": "https://www.conservative.ca/team-member/marc-dalton/"
+  },
+  {
+    "name": "Raquel Dancho",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075046/d0d27b739cede9a-150x150.png",
+    "riding": "Kildonan-St. Paul",
+    "website": "https://www.conservative.ca/team-member/raquel-dancho/"
+  },
+  {
+    "name": "Mathieu Daviault",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/07161624/59866d602a74690-150x150.png",
+    "riding": "Pierre-Boucher-Les Patriotes-Verchères",
+    "website": "https://www.conservative.ca/team-member/mathieu-daviault/"
+  },
+  {
+    "name": "Scot Davidson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155146/5ae616e4e9c3082-150x150.png",
+    "riding": "York-Simcoe",
+    "website": "https://www.conservative.ca/team-member/scot-davidson/"
+  },
+  {
+    "name": "Alana DeLong",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/20094840/e9dc1e837913814-150x150.png",
+    "riding": "Cowichan-Malahat-Langford",
+    "website": "https://www.conservative.ca/team-member/alana-delong/"
+  },
+  {
+    "name": "Gérard Deltell",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/25160315/797a20ab0951bca-150x150.png",
+    "riding": "Louis-Saint-Laurent",
+    "website": "https://www.conservative.ca/team-member/gerard-deltell/"
+  },
+  {
+    "name": "Leo Demarce",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03095620/e9f205c06cbe715-150x150.png",
+    "riding": "Windsor-Tecumseh",
+    "website": "https://www.conservative.ca/team-member/leo-demarce/"
+  },
+  {
+    "name": "Lise des Greniers",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/12131955/05f04a6c6c4a248-150x150.png",
+    "riding": "Laurier-Sainte-Marie",
+    "website": "https://www.conservative.ca/team-member/lise-des-greniers/"
+  },
+  {
+    "name": "François Desrochers",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/16125913/c61dbc0a2c3803b-150x150.png",
+    "riding": "Mirabel",
+    "website": "https://www.conservative.ca/team-member/francois-desrochers/"
+  },
+  {
+    "name": "Gisèle Desroches",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03024050/43d4070f45600b3-150x150.png",
+    "riding": "Montcalm",
+    "website": "https://www.conservative.ca/team-member/gisele-desroches/"
+  },
+  {
+    "name": "Tom Dingwall",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03092349/868dc0ace5a0020-150x150.png",
+    "riding": "Ajax",
+    "website": "https://www.conservative.ca/team-member/tom-dingwall/"
+  },
+  {
+    "name": "Kerry Diotte",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03041613/391d94d772c7567-150x150.png",
+    "riding": "Edmonton Griesbach",
+    "website": "https://www.conservative.ca/team-member/kerry-diotte/"
+  },
+  {
+    "name": "Kathleen Dixon",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/08121103/01627bba4cf50cb-150x150.png",
+    "riding": "Vancouver Quadra",
+    "website": "https://www.conservative.ca/team-member/kathleen-dixon/"
+  },
+  {
+    "name": "Todd Doherty",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03045947/f329e1cf1541635-150x150.png",
+    "riding": "Cariboo-Prince George",
+    "website": "https://www.conservative.ca/team-member/todd-doherty/"
+  },
+  {
+    "name": "Terry Dowdall",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155139/bc9b4cf5e82c645-150x150.png",
+    "riding": "Simcoe-Grey",
+    "website": "https://www.conservative.ca/team-member/terry-dowdall/"
+  },
+  {
+    "name": "Shelley Downey",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074832/dc76e89a892b5e5-150x150.png",
+    "riding": "North Island-Powell River",
+    "website": "https://www.conservative.ca/team-member/shelley-downey/"
+  },
+  {
+    "name": "Neil Drabkin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03100128/5998b7cdfb5e1a6-150x150.png",
+    "riding": "Notre-Dame-de-Grâce-Westmount",
+    "website": "https://www.conservative.ca/team-member/neil-drabkin/"
+  },
+  {
+    "name": "Earl Dreeshen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03053247/891984dd32795c8-150x150.png",
+    "riding": "Red Deer-Mountain View",
+    "website": "https://www.conservative.ca/team-member/earl-dreeshen/"
+  },
+  {
+    "name": "Mike Duggan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03024248/849ffad5e8be032-150x150.png",
+    "riding": "Hull-Aylmer",
+    "website": "https://www.conservative.ca/team-member/mike-duggan/"
+  },
+  {
+    "name": "Eric Duncan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155138/1f9d967f103e501-150x150.png",
+    "riding": "Stormont-Dundas-South Glengarry",
+    "website": "https://www.conservative.ca/team-member/eric-duncan/"
+  },
+  {
+    "name": "Tim Durkin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082759/08089b4ba610ced-150x150.png",
+    "riding": "Bay of Quinte",
+    "website": "https://www.conservative.ca/team-member/tim-durkin/"
+  },
+  {
+    "name": "Peter Dyakowski",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155134/b7e69daa82aed4f-150x150.png",
+    "riding": "Hamilton Mountain",
+    "website": "https://www.conservative.ca/team-member/peter-dyakowski/"
+  },
+  {
+    "name": "Ryan Dyck",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/12124641/4eaf27513270ef3-150x150.png",
+    "riding": "Winnipeg Centre",
+    "website": "https://www.conservative.ca/team-member/ryan-dyck/"
+  },
+  {
+    "name": "Jessica Ebacher",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03024443/c57d5cfdbddc525-150x150.png",
+    "riding": "Drummond",
+    "website": "https://www.conservative.ca/team-member/jessica-ebacher/"
+  },
+  {
+    "name": "Rima El-Helou",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/09160458/3ed1c9edc498cdf-150x150.png",
+    "riding": "Vimy",
+    "website": "https://www.conservative.ca/team-member/rima-el-helou/"
+  },
+  {
+    "name": "Pierre-André Émond",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/01144502/36772ffa825f372-150x150.png",
+    "riding": "Bécancour-Nicolet-Saurel",
+    "website": "https://www.conservative.ca/team-member/pierre-andre-edmond/"
+  },
+  {
+    "name": "David Epp",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155131/eda9995679d8035-150x150.png",
+    "riding": "Chatham-Kent-Leamington",
+    "website": "https://www.conservative.ca/team-member/david-epp/"
+  },
+  {
+    "name": "Angelo Esposito",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03024848/4c7fa37db0bdde8-150x150.png",
+    "riding": "Alfred-Pellan",
+    "website": "https://www.conservative.ca/team-member/angelo-esposito/"
+  },
+  {
+    "name": "Ted Falk",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03051053/10a08e9c56ec8d2-150x150.png",
+    "riding": "Provencher",
+    "website": "https://www.conservative.ca/team-member/ted-falk/"
+  },
+  {
+    "name": "Rosemarie Falk",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03051922/c03053378d1fff6-150x150.png",
+    "riding": "Battlefords-Lloydminster",
+    "website": "https://www.conservative.ca/team-member/rosemarie-falk/"
+  },
+  {
+    "name": "Frank Fang",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155129/24430d58ffabfc0-150x150.png",
+    "riding": "Spadina-Fort York",
+    "website": "https://www.conservative.ca/team-member/frank-fang/"
+  },
+  {
+    "name": "Ed Fast",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03050207/03737ec65abf957-150x150.png",
+    "riding": "Abbotsford",
+    "website": "https://www.conservative.ca/team-member/ed-fast/"
+  },
+  {
+    "name": "Kimberly Fawcett",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02211710/c23846ea12da814-150x150.png",
+    "riding": "Scarborough Southwest",
+    "website": "https://www.conservative.ca/team-member/kimberly-fawcett/"
+  },
+  {
+    "name": "Martin Ferron",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03025057/16f2e9c0f80f1dc-150x150.png",
+    "riding": "Abitibi-Baie-James-Nunavik-Eeyou",
+    "website": "https://www.conservative.ca/team-member/martin-ferron/"
+  },
+  {
+    "name": "Kerry-Lynne Findlay",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074611/60d66ab62add96c-150x150.png",
+    "riding": "South Surrey-White Rock",
+    "website": "https://www.conservative.ca/team-member/kerry-lynne-findlay/"
+  },
+  {
+    "name": "Diane Finley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02211811/6138ade9a325de7-150x150.png",
+    "riding": "Haldimand-Norfolk",
+    "website": "https://www.conservative.ca/team-member/diane-finley/"
+  },
+  {
+    "name": "Sarah Fischer",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02212015/234362c62edefb9-150x150.png",
+    "riding": "Don Valley North",
+    "website": "https://www.conservative.ca/team-member/sarah-fischer/"
+  },
+  {
+    "name": "Larry Flemming",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/08161251/19ec2fe3737861f-150x150.png",
+    "riding": "Labrador",
+    "website": "https://www.conservative.ca/team-member/larry-flemming/"
+  },
+  {
+    "name": "Michael Forian",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/08083606/3ad95b4dc431e2a-150x150.png",
+    "riding": "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+    "website": "https://www.conservative.ca/team-member/michael-forian/"
+  },
+  {
+    "name": "Marie Claude Fournier",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/16143326/583996c26adac70-150x150.png",
+    "riding": "Thérèse-De Blainville",
+    "website": "https://www.conservative.ca/team-member/marie-claude-fournier/"
+  },
+  {
+    "name": "Nelson Fox",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075403/0b29e4b427b19d9-150x150.png",
+    "riding": "Madawaska-Restigouche",
+    "website": "https://www.conservative.ca/team-member/nelson-fox/"
+  },
+  {
+    "name": "Jocelyn Fradette",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/16145135/ca110748e0ca485-150x150.jpg",
+    "riding": "Lac-Saint-Jean",
+    "website": "https://www.conservative.ca/team-member/jocelyn-fradette/"
+  },
+  {
+    "name": "Ann Francis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/01142132/8803dbff655f7fd-150x150.png",
+    "riding": "Lac-Saint-Louis",
+    "website": "https://www.conservative.ca/team-member/ann-francis/"
+  },
+  {
+    "name": "Philippe Gagnon",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/16130456/0527f8a31092402-150x150.jpg",
+    "riding": "Jonquière",
+    "website": "https://www.conservative.ca/team-member/philippe-gagnon/"
+  },
+  {
+    "name": "Cheryl Gallant",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02212220/5b0eefd4b2fb99a-150x150.png",
+    "riding": "Renfrew-Nipissing-Pembroke",
+    "website": "https://www.conservative.ca/team-member/cheryl-gallant/"
+  },
+  {
+    "name": "Bernard Généreux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/06121701/637d77dbd245082-150x150.png",
+    "riding": "Montmagny-L’Islet-Kamouraska-Rivière-du-Loup",
+    "website": "https://www.conservative.ca/team-member/bernard-genereux/"
+  },
+  {
+    "name": "Garnett Genuis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03041823/4a77043bbec3ef0-150x150.png",
+    "riding": "Sherwood Park-Fort Saskatchewan",
+    "website": "https://www.conservative.ca/team-member/garnett-genuis/"
+  },
+  {
+    "name": "Marilyn Gladu",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02212422/1b9cd3b5e96cd89-150x150.png",
+    "riding": "Sarnia-Lambton",
+    "website": "https://www.conservative.ca/team-member/marilyn-gladu/"
+  },
+  {
+    "name": "Joël Godin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/01140636/f648faa7c56d2b1-150x150.jpg",
+    "riding": "Portneuf-Jacques-Cartier",
+    "website": "https://www.conservative.ca/team-member/joel-godin/"
+  },
+  {
+    "name": "Sylvie Godin-Charest",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075512/bb8eee0205c83a0-150x150.png",
+    "riding": "Moncton-Riverview-Dieppe",
+    "website": "https://www.conservative.ca/team-member/sylvie-godin-charest/"
+  },
+  {
+    "name": "Sylvie Goneau",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093841/83307e11b6f2438-150x150.png",
+    "riding": "Gatineau",
+    "website": "https://www.conservative.ca/team-member/sylvie-goneau/"
+  },
+  {
+    "name": "Pawanjit Gosal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093943/ca5fac2857030e5-150x150.png",
+    "riding": "Brampton Centre",
+    "website": "https://www.conservative.ca/team-member/pawanjit-gosal/"
+  },
+  {
+    "name": "Jacques Gourde",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03030729/4a9f48dd9f0bf35-150x150.png",
+    "riding": "Lévis-Lotbinière",
+    "website": "https://www.conservative.ca/team-member/jacques-gourde/"
+  },
+  {
+    "name": "Tracy Gray",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03154840/1ddf8f6d28a7405-150x150.jpg",
+    "riding": "Kelowna-Lake Country",
+    "website": "https://www.conservative.ca/team-member/tracey-gray/"
+  },
+  {
+    "name": "Serge Grégoire",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03030942/fbc7350fcbfe2e3-150x150.png",
+    "riding": "Laurentides-Labelle",
+    "website": "https://www.conservative.ca/team-member/serge-gregoire/"
+  },
+  {
+    "name": "Kraymr Grenke",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/09152516/c9fe0f00c3e9142-150x150.png",
+    "riding": "Timmins-James Bay",
+    "website": "https://www.conservative.ca/team-member/kraymr-grenke/"
+  },
+  {
+    "name": "Marie-Josée Guérette",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03100229/ece5c9eac191c24-150x150.png",
+    "riding": "Louis-Hébert",
+    "website": "https://www.conservative.ca/team-member/marie-josee-guerette/"
+  },
+  {
+    "name": "Rachael Harder",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03042031/2c80d13b2b4703b-150x150.png",
+    "riding": "Lethbridge",
+    "website": "https://www.conservative.ca/team-member/rachael-harder/"
+  },
+  {
+    "name": "John Hirst",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073946/b33e47ac4668a4c-150x150.png",
+    "riding": "Nanaimo-Ladysmith",
+    "website": "https://www.conservative.ca/team-member/john-hirst/"
+  },
+  {
+    "name": "Glenn Hoa",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/06121718/757c8c3165089dc-150x150.png",
+    "riding": "Brossard-Saint-Lambert",
+    "website": "https://www.conservative.ca/team-member/glenn-hoa/"
+  },
+  {
+    "name": "Randy Hoback",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03052128/dfb0177972a40fc-150x150.png",
+    "riding": "Prince Albert",
+    "website": "https://www.conservative.ca/team-member/randy-hoback/"
+  },
+  {
+    "name": "Bruce Holland",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075928/8b1d6187d93ab4b-150x150.png",
+    "riding": "Halifax",
+    "website": "https://www.conservative.ca/team-member/bruce-holland/"
+  },
+  {
+    "name": "Byron Horner",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073527/9f01a03ed9a2028-150x150.png",
+    "riding": "Courtenay-Alberni",
+    "website": "https://www.conservative.ca/team-member/byron-horner/"
+  },
+  {
+    "name": "Sean Hu",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02221009/a9e1ee26d0f6935-150x150.png",
+    "riding": "Scarborough-Agincourt",
+    "website": "https://www.conservative.ca/team-member/sean-hu/"
+  },
+  {
+    "name": "Nicholas Insley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073329/6f042d7ba949c26-150x150.png",
+    "riding": "Coquitlam-Port Coquitlam",
+    "website": "https://www.conservative.ca/team-member/nicholas-insley/"
+  },
+  {
+    "name": "Mariam Ishak",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/06121737/efe34f3c671b12f-150x150.png",
+    "riding": "Pierrefonds-Dollard",
+    "website": "https://www.conservative.ca/team-member/mariam-ishak/"
+  },
+  {
+    "name": "Tamara Jansen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073318/9fc2e74481ca6fe-150x150.png",
+    "riding": "Cloverdale-Langley City",
+    "website": "https://www.conservative.ca/team-member/tamara-jansen/"
+  },
+  {
+    "name": "April Jeffs",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02221156/0127ede21fa8c40-150x150.png",
+    "riding": "Niagara Centre",
+    "website": "https://www.conservative.ca/team-member/april-jeffs/"
+  },
+  {
+    "name": "Matt Jeneroux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03042232/6dcea91153e7512-150x150.png",
+    "riding": "Edmonton Riverbend",
+    "website": "https://www.conservative.ca/team-member/matt-jeneroux/"
+  },
+  {
+    "name": "Andrea Johnson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/08085359/4a842bcd1e3f45a-150x150.png",
+    "riding": "Fredericton",
+    "website": "https://www.conservative.ca/team-member/andrea-johnson/"
+  },
+  {
+    "name": "Nikki Kaur",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02221614/1b3d10cbed47bf9-150x150.png",
+    "riding": "Hamilton East-Stoney Creek",
+    "website": "https://www.conservative.ca/team-member/nikki-kaur/"
+  },
+  {
+    "name": "Sarabjit Kaur",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/02221354/5033f779b2504fd-150x150.png",
+    "riding": "Etobicoke North",
+    "website": "https://www.conservative.ca/team-member/sarabjit-kaur/"
+  },
+  {
+    "name": "Alan Keeso",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03051521/6330b19c6935da5-1-150x150.png",
+    "riding": "Kitchener South-Hespeler",
+    "website": "https://www.conservative.ca/team-member/alan-keeso/"
+  },
+  {
+    "name": "Pat Kelly",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/24101824/f68235996e47855-150x150.png",
+    "riding": "Calgary Rocky Ridge",
+    "website": "https://www.conservative.ca/team-member/pat-kelly/"
+  },
+  {
+    "name": "Peter Kent",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02221919/5530fcdfee05b00-150x150.png",
+    "riding": "Thornhill",
+    "website": "https://www.conservative.ca/team-member/peter-kent/"
+  },
+  {
+    "name": "Arpan Khanna",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222017/09ef5243013ac1f-150x150.png",
+    "riding": "Brampton North",
+    "website": "https://www.conservative.ca/team-member/arpan-khanna/"
+  },
+  {
+    "name": "Robert Kitchen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080702/8fda4c42a2f65cf-150x150.png",
+    "riding": "Souris-Moose Mountain",
+    "website": "https://www.conservative.ca/team-member/robert-kitchen/"
+  },
+  {
+    "name": "Tom Kmiec",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03042433/d9180476e942d97-150x150.png",
+    "riding": "Calgary Shepard",
+    "website": "https://www.conservative.ca/team-member/tom-kmiec/"
+  },
+  {
+    "name": "Helena Konanz",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074501/a02d65d7645c546-150x150.png",
+    "riding": "South Okanagan-West Kootenay",
+    "website": "https://www.conservative.ca/team-member/helena-konanz/"
+  },
+  {
+    "name": "David Kong",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222222/6040a0fc85bf406-150x150.png",
+    "riding": "Scarborough North",
+    "website": "https://www.conservative.ca/team-member/david-kong/"
+  },
+  {
+    "name": "Micheal Kram",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080450/bb2ae03f79b0631-150x150.png",
+    "riding": "Regina-Wascana",
+    "website": "https://www.conservative.ca/team-member/micheal-kram/"
+  },
+  {
+    "name": "Teresa Kruze",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/15172136/3844935abf2636f-150x150.png",
+    "riding": "Vaughan-Woodbridge",
+    "website": "https://www.conservative.ca/team-member/teresa-kruze/"
+  },
+  {
+    "name": "Damien Kurek",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/31093536/0a5def489f3bb58-150x150.png",
+    "riding": "Battle River-Crowfoot",
+    "website": "https://www.conservative.ca/team-member/damien-kurek/"
+  },
+  {
+    "name": "Stephanie Kusie",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03042644/1b6c36ea9569fd4-150x150.png",
+    "riding": "Calgary Midnapore",
+    "website": "https://www.conservative.ca/team-member/stephanie-kusie/"
+  },
+  {
+    "name": "Aino Laamanen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222421/1026c8d8093d066-150x150.png",
+    "riding": "Nickel Belt",
+    "website": "https://www.conservative.ca/team-member/aino-laamanen/"
+  },
+  {
+    "name": "Kathy Laframboise",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/13124441/ebfdcf76497776a-150x150.png",
+    "riding": "Ahuntsic-Cartierville",
+    "website": "https://www.conservative.ca/team-member/kathy-laframboise/"
+  },
+  {
+    "name": "Mike Lake",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03042853/e209ca37f0b2242-150x150.png",
+    "riding": "Edmonton-Wetaskiwin",
+    "website": "https://www.conservative.ca/team-member/mike-lake/"
+  },
+  {
+    "name": "Hugues Laplante",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/20093957/46550a8436d30cc-150x150.png",
+    "riding": "Châteauguay-Lacolle",
+    "website": "https://www.conservative.ca/team-member/hugues-laplante/"
+  },
+  {
+    "name": "Isabelle Lapointe",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/15094321/f7dc469a4514db8-150x150.png",
+    "riding": "La Prairie",
+    "website": "https://www.conservative.ca/team-member/isabelle-lapointe/"
+  },
+  {
+    "name": "Celine Laquerre",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/02103715/ba44cb13ecd3368-150x150.png",
+    "riding": "Dorval-Lachine-LaSalle",
+    "website": "https://www.conservative.ca/team-member/celine-laquerre/"
+  },
+  {
+    "name": "Bert Laranjo",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222816/ef21fad3ded3227-150x150.png",
+    "riding": "Hamilton West-Ancaster-Dundas",
+    "website": "https://www.conservative.ca/team-member/bert-laranjo/"
+  },
+  {
+    "name": "Cynthia Larivière",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03032506/28f2b3c71c1864d-150x150.png",
+    "riding": "Salaberry-Suroît",
+    "website": "https://www.conservative.ca/team-member/cynthia-lariviere/"
+  },
+  {
+    "name": "Henry Lau",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/04123237/d622ef27013bbcc-150x150.png",
+    "riding": "Windsor West",
+    "website": "https://www.conservative.ca/team-member/henry-lau/"
+  },
+  {
+    "name": "Philip Lawrence",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02223019/ac8ebc79b047070-150x150.png",
+    "riding": "Northumberland-Peterborough South",
+    "website": "https://www.conservative.ca/team-member/philip-lawrence/"
+  },
+  {
+    "name": "Daniel Lee",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02223218/2de6cd0ecb4f647-150x150.png",
+    "riding": "Willowdale",
+    "website": "https://www.conservative.ca/team-member/daniel-lee/"
+  },
+  {
+    "name": "Catherine Lefebvre",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03032713/11a4f23373e98c5-150x150.png",
+    "riding": "Bourassa",
+    "website": "https://www.conservative.ca/team-member/catherine-lefebvre/"
+  },
+  {
+    "name": "Richard Lehoux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/12123257/d6aa544328ed013-150x150.png",
+    "riding": "Beauce",
+    "website": "https://www.conservative.ca/team-member/richard-lehoux/"
+  },
+  {
+    "name": "Pierre Lemieux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02223409/d8f36fccb922c32-150x150.png",
+    "riding": "Glengarry-Prescott-Russell",
+    "website": "https://www.conservative.ca/team-member/pierre-lemieux/"
+  },
+  {
+    "name": "Ryan Lester",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02223611/4daeff956e6e656-150x150.png",
+    "riding": "Toronto Centre",
+    "website": "https://www.conservative.ca/team-member/ryan-lester/"
+  },
+  {
+    "name": "Yves Lévesque",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/12124038/55bbd7946ec80b6-150x150.jpg",
+    "riding": "Trois-Rivières",
+    "website": "https://www.conservative.ca/team-member/yves-levesque/"
+  },
+  {
+    "name": "Chris Lewis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02223810/7223e04dd13479b-150x150.png",
+    "riding": "Essex",
+    "website": "https://www.conservative.ca/team-member/chris-lewis/"
+  },
+  {
+    "name": "Ron Liepert",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03043059/dd868c564b8120e-150x150.png",
+    "riding": "Calgary Signal Hill",
+    "website": "https://www.conservative.ca/team-member/ron-liepert/"
+  },
+  {
+    "name": "Sam Lilly",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/02083448/5ab6a3715282421-150x150.png",
+    "riding": "Edmonton Strathcona",
+    "website": "https://www.conservative.ca/team-member/sam-lilly/"
+  },
+  {
+    "name": "Wladyslaw Lizon",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02224008/5719650197d8509-150x150.png",
+    "riding": "Mississauga East-Cooksville",
+    "website": "https://www.conservative.ca/team-member/wladyslaw-lizon/"
+  },
+  {
+    "name": "Dane Lloyd",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03043311/de91ec584145b52-150x150.png",
+    "riding": "Sturgeon River-Parkland",
+    "website": "https://www.conservative.ca/team-member/dane-lloyd/"
+  },
+  {
+    "name": "Ben Lobb",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02224215/4d9dbd84d4bf709-150x150.png",
+    "riding": "Huron-Bruce",
+    "website": "https://www.conservative.ca/team-member/ben-lobb/"
+  },
+  {
+    "name": "Marie Louis-Seize",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/03033337/eee22489317915c-150x150.png",
+    "riding": "Argenteuil-La Petite-Nation",
+    "website": "https://www.conservative.ca/team-member/marie-louis-seize/"
+  },
+  {
+    "name": "Jasmine Louras",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03033535/192fd7ed607192a-150x150.png",
+    "riding": "Outremont",
+    "website": "https://www.conservative.ca/team-member/jasmine-louras/"
+  },
+  {
+    "name": "Tom Lukiwski",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03052443/5fb90ec11476d49-150x150.png",
+    "riding": "Moose Jaw-Lake Centre-Lanigan",
+    "website": "https://www.conservative.ca/team-member/tom-lukiwski/"
+  },
+  {
+    "name": "Michael Ma",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03001050/17d7fa5ac559e98-150x150.png",
+    "riding": "Don Valley East",
+    "website": "https://www.conservative.ca/team-member/micheal-ma/"
+  },
+  {
+    "name": "Dave Mackenzie",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02224424/b22d81dbfb64691-150x150.png",
+    "riding": "Oxford",
+    "website": "https://www.conservative.ca/team-member/dave-mackenzie/"
+  },
+  {
+    "name": "Alfie MacLeod",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/08150212/ee9e3d2f6a687e9-150x150.png",
+    "riding": "Cape Breton-Canso",
+    "website": "https://www.conservative.ca/team-member/alfie-macleod/"
+  },
+  {
+    "name": "Martha MacQuarrie",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081014/ca9b51686ce0d2d-150x150.png",
+    "riding": "Kings-Hants",
+    "website": "https://www.conservative.ca/team-member/martha-macquarrie/"
+  },
+  {
+    "name": "Larry Maguire",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03051307/bfe9a55407a8fa7-150x150.png",
+    "riding": "Brandon-Souris",
+    "website": "https://www.conservative.ca/team-member/larry-maguire/"
+  },
+  {
+    "name": "Melanie Maher",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/04121320/7960119e7a942e4-150x150.png",
+    "riding": "Winnipeg South",
+    "website": "https://www.conservative.ca/team-member/melanie-maher/"
+  },
+  {
+    "name": "Ilario Maiolo",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/06102752/a8eb9292ff55a1b-150x150.png",
+    "riding": "Saint-Léonard-Saint-Michel",
+    "website": "https://www.conservative.ca/team-member/ilario-maiolo/"
+  },
+  {
+    "name": "Christine Marcoux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03034155/a4583b076ed9772-150x150.png",
+    "riding": "Hochelaga",
+    "website": "https://www.conservative.ca/team-member/christine-marcoux/"
+  },
+  {
+    "name": "Richard Martel",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/15132630/c1459a6b08ed2d0-150x150.png",
+    "riding": "Chicoutimi-Le Fjord",
+    "website": "https://www.conservative.ca/team-member/richard-martel/"
+  },
+  {
+    "name": "Terry Martin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/22115656/45d26e6de8696b6-150x150.png",
+    "riding": "St. John’s South-Mount Pearl",
+    "website": "https://www.conservative.ca/team-member/terry-martin/"
+  },
+  {
+    "name": "Jean-Martin Masse",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/12110318/a3d85a58a42ec25-150x150.png",
+    "riding": "Joliette",
+    "website": "https://www.conservative.ca/team-member/jean-martin-masse/"
+  },
+  {
+    "name": "Daniel Mazier",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080914/9967a84d5a7daee-150x150.png",
+    "riding": "Dauphin-Swan River-Neepawa",
+    "website": "https://www.conservative.ca/team-member/daniel-mazier/"
+  },
+  {
+    "name": "Justina McCaffrey",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02224623/01eb5bfa1dc0273-150x150.png",
+    "riding": "Kanata-Carleton",
+    "website": "https://www.conservative.ca/team-member/justina-mccaffrey/"
+  },
+  {
+    "name": "Todd McCarthy",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02224819/cfccc2a309e4939-150x150.png",
+    "riding": "Whitby",
+    "website": "https://www.conservative.ca/team-member/todd-mccarthy/"
+  },
+  {
+    "name": "Kelly McCauley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03043527/0fa82286409c9c5-150x150.png",
+    "riding": "Edmonton West",
+    "website": "https://www.conservative.ca/team-member/kelly-mccauley/"
+  },
+  {
+    "name": "Phil McColeman",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02225020/d1273f59c7c119d-150x150.png",
+    "riding": "Brantford-Brant",
+    "website": "https://www.conservative.ca/team-member/phil-mccoleman/"
+  },
+  {
+    "name": "Greg McLean",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081229/53e3d9f8cdba719-150x150.png",
+    "riding": "Calgary Centre",
+    "website": "https://www.conservative.ca/team-member/greg-mclean/"
+  },
+  {
+    "name": "Peggy McLean",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/18094542/1147ff32bee69fd-150x150.png",
+    "riding": "Miramichi-Grand Lake",
+    "website": "https://www.conservative.ca/team-member/peggy-mclean/"
+  },
+  {
+    "name": "Logan McLellan",
+    "image": "",
+    "riding": "Egmont",
+    "website": "https://www.conservative.ca/team-member/logan-mclellan/"
+  },
+  {
+    "name": "Cathy McLeod",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222121/6d45e429a728aa5-150x150.png",
+    "riding": "Kamloops-Thompson-Cariboo",
+    "website": "https://www.conservative.ca/team-member/cathy-mcleod/"
+  },
+  {
+    "name": "Jessy McNeil",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/25143920/bf8641ac1aeae51-150x150.png",
+    "riding": "Compton-Stanstead",
+    "website": "https://www.conservative.ca/team-member/jessy-mcneil/"
+  },
+  {
+    "name": "Ghada Melek",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02225226/7fc1182d88efdd3-150x150.png",
+    "riding": "Mississauga-Streetsville",
+    "website": "https://www.conservative.ca/team-member/ghada-melek/"
+  },
+  {
+    "name": "Eric Melillo",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03093102/f12ca67047eda8d-150x150.png",
+    "riding": "Kenora",
+    "website": "https://www.conservative.ca/team-member/eric-melillo/"
+  },
+  {
+    "name": "Costas Menegakis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02225436/fa547644ba72d60-150x150.png",
+    "riding": "Richmond Hill",
+    "website": "https://www.conservative.ca/team-member/costas-menegakis/"
+  },
+  {
+    "name": "Jane Michael",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02225637/567084287a61c51-150x150.png",
+    "riding": "Burlington",
+    "website": "https://www.conservative.ca/team-member/jane-michael/"
+  },
+  {
+    "name": "Milad Mikael",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03094046/7f18367c1cfb283-150x150.png",
+    "riding": "Mississauga Centre",
+    "website": "https://www.conservative.ca/team-member/milad-mikael/"
+  },
+  {
+    "name": "Maikel Mikhael",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/30133208/b1d2cb2ca8e0625-150x150.png",
+    "riding": "Rivière-des-Mille-Îles",
+    "website": "https://www.conservative.ca/team-member/maikel-mikhael/"
+  },
+  {
+    "name": "Rob Moore",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075300/059abe5c0cf01d6-150x150.png",
+    "riding": "Fundy Royal",
+    "website": "https://www.conservative.ca/team-member/rob-moore/"
+  },
+  {
+    "name": "Marty Morantz",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082220/b08eb77c506a3c6-150x150.png",
+    "riding": "Charleswood-St. James-Assiniboia-Headingley",
+    "website": "https://www.conservative.ca/team-member/marty-morantz/"
+  },
+  {
+    "name": "Rob Morrison",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073738/c4d34584c2cdcb6-150x150.png",
+    "riding": "Kootenay-Columbia",
+    "website": "https://www.conservative.ca/team-member/rob-morrison/"
+  },
+  {
+    "name": "Glen Motz",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03043732/4cad167d834bf3f-150x150.png",
+    "riding": "Medicine Hat-Cardston-Warner",
+    "website": "https://www.conservative.ca/team-member/glen-motz/"
+  },
+  {
+    "name": "Cyma Musarat",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03154820/de29eacd0354ee8-150x150.jpg",
+    "riding": "Pickering-Uxbridge",
+    "website": "https://www.conservative.ca/team-member/cyma-musarat/"
+  },
+  {
+    "name": "John Nater",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02225839/249131864600051-150x150.png",
+    "riding": "Perth-Wellington",
+    "website": "https://www.conservative.ca/team-member/john-nater/"
+  },
+  {
+    "name": "Nadirah Nazeer",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02230041/e347ba60411d6ae-150x150.png",
+    "riding": "Beaches-East York",
+    "website": "https://www.conservative.ca/team-member/nadirah-nazeer/"
+  },
+  {
+    "name": "Erin O’Toole",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02230747/4aa3a377ab1b100-150x150.png",
+    "riding": "Durham",
+    "website": "https://www.conservative.ca/team-member/erin-otoole/"
+  },
+  {
+    "name": "Barry O’Brien",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02230342/31709da6bac5499-150x150.png",
+    "riding": "Etobicoke-Lakeshore",
+    "website": "https://www.conservative.ca/team-member/barry-obrien/"
+  },
+  {
+    "name": "Cameron Ogilive",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/19165633/0e58f7215fa42a2-150x150.png",
+    "riding": "Winnipeg North",
+    "website": "https://www.conservative.ca/team-member/cameron-ogilvie/"
+  },
+  {
+    "name": "Ted Opitz",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02230541/f1fb7d8ddd6c6e8-150x150.png",
+    "riding": "Etobicoke Centre",
+    "website": "https://www.conservative.ca/team-member/ted-opitz/"
+  },
+  {
+    "name": "Eddie Orrell",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/30150523/3481d44c134d672-150x150.png",
+    "riding": "Sydney-Victoria",
+    "website": "https://www.conservative.ca/team-member/eddie-orrell/"
+  },
+  {
+    "name": "Jeremy Patzer",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/08145410/1b8d860d05aaa98-150x150.png",
+    "riding": "Cypress Hills-Grasslands",
+    "website": "https://www.conservative.ca/team-member/jeremy-patzer/"
+  },
+  {
+    "name": "Pierre Paul-Hus",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/06121810/6d63b05cb8977d9-150x150.png",
+    "riding": "Charlesbourg-Haute-Saint-Charles",
+    "website": "https://www.conservative.ca/team-member/pierre-paul-hus/"
+  },
+  {
+    "name": "Tom Pentefountas",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03034816/8f1883b86a5abb1-150x150.png",
+    "riding": "Laval-Les Îles",
+    "website": "https://www.conservative.ca/team-member/tom-pentefountas/"
+  },
+  {
+    "name": "Rick Perkins",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082902/df551e643c7c4c4-150x150.png",
+    "riding": "South Shore-St. Margarets",
+    "website": "https://www.conservative.ca/team-member/rick-perkins/"
+  },
+  {
+    "name": "Randall Pewarchuk",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074254/5584b9858f8a20f-150x150.png",
+    "riding": "Esquimalt-Saanich-Sooke",
+    "website": "https://www.conservative.ca/team-member/randall-pewarchuk/"
+  },
+  {
+    "name": "Adam Pham",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02230952/f08f3c8fb095546-150x150.png",
+    "riding": "Parkdale-High Park",
+    "website": "https://www.conservative.ca/team-member/adam-pham/"
+  },
+  {
+    "name": "Wayne Phelan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/10142307/dcb8a38cf98a92c-150x150.png",
+    "riding": "Cardigan",
+    "website": "https://www.conservative.ca/team-member/wayne-phelan/"
+  },
+  {
+    "name": "Jean-Pierre Pigeon",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03035025/e56ade529c34e6e-150x150.png",
+    "riding": "Gaspésie-Les Îles-de-la-Madeleine",
+    "website": "https://www.conservative.ca/team-member/jean-pierre-pigeon/"
+  },
+  {
+    "name": "Pierre Poilievre",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02231153/650d7ce19bf86ea-150x150.png",
+    "riding": "Carleton",
+    "website": "https://www.conservative.ca/team-member/pierre-poilievre/"
+  },
+  {
+    "name": "Mario Provencher",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03035138/0ed16a6762d8ef0-150x150.png",
+    "riding": "Abitibi-Témiscamingue",
+    "website": "https://www.conservative.ca/team-member/mario-provencher/"
+  },
+  {
+    "name": "Frank Pullia",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03094308/5d6e19fa21bd338-150x150.png",
+    "riding": "Thunder Bay-Superior North",
+    "website": "https://www.conservative.ca/team-member/frank-pullia/"
+  },
+  {
+    "name": "Shinder Purewal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073635/1c9a671cb8f7b97-150x150.png",
+    "riding": "Fleetwood-Port Kells",
+    "website": "https://www.conservative.ca/team-member/shinder-purewal/"
+  },
+  {
+    "name": "Helen Quan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/09162453/c44297355070ff3-150x150.jpg",
+    "riding": "Vancouver Kingsway",
+    "website": "https://www.conservative.ca/team-member/helen-quan/"
+  },
+  {
+    "name": "Lisa Raitt",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02231558/760a0a0fd822458-150x150.png",
+    "riding": "Milton",
+    "website": "https://www.conservative.ca/team-member/lisa-raitt/"
+  },
+  {
+    "name": "Jasveen Rattan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03101125/b12d5cf1fe030bd-150x150.png",
+    "riding": "York South-Weston",
+    "website": "https://www.conservative.ca/team-member/jasveen-rattan/"
+  },
+  {
+    "name": "Claire Rattée",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03154841/ececbecff2ab509-150x150.jpg",
+    "riding": "Skeena-Bulkley Valley",
+    "website": "https://www.conservative.ca/team-member/claire-rattee/"
+  },
+  {
+    "name": "Alain Rayes",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/16153017/087fd60ef2eb7ad-150x150.jpg",
+    "riding": "Richmond-Arthabaska",
+    "website": "https://www.conservative.ca/team-member/alain-rayes/"
+  },
+  {
+    "name": "Brad Redekopp",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080550/58a06c7626b28ff-150x150.png",
+    "riding": "Saskatoon West",
+    "website": "https://www.conservative.ca/team-member/brad-redekopp/"
+  },
+  {
+    "name": "Scott Reid",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02231802/07f828f83b3baa5-150x150.png",
+    "riding": "Lanark-Frontenac-Kingston",
+    "website": "https://www.conservative.ca/team-member/scott-reid/"
+  },
+  {
+    "name": "Michelle Rempel",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03043938/e905c6c503a88f3-150x150.png",
+    "riding": "Calgary Nose Hill",
+    "website": "https://www.conservative.ca/team-member/michelle-rempel/"
+  },
+  {
+    "name": "Blake Richards",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03044146/fc03d0353e41009-150x150.png",
+    "riding": "Banff-Airdrie",
+    "website": "https://www.conservative.ca/team-member/blake-richards/"
+  },
+  {
+    "name": "Anna Roberts",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03094511/b994148c11ed8f7-1-150x150.png",
+    "riding": "King-Vaughan",
+    "website": "https://www.conservative.ca/team-member/anna-roberts/"
+  },
+  {
+    "name": "Yvonne Robertson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02232005/39133f982f550ce-150x150.png",
+    "riding": "Don Valley West",
+    "website": "https://www.conservative.ca/team-member/yvonne-robertson/"
+  },
+  {
+    "name": "Stéphane Robichaud",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03035710/ea9f5017e9528e3-150x150.png",
+    "riding": "Longueuil-Charles-LeMoyne",
+    "website": "https://www.conservative.ca/team-member/stephane-robichaud/"
+  },
+  {
+    "name": "Claudio Rocchi",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03035914/cb412be8a0caf22-150x150.png",
+    "riding": "LaSalle-Émard-Verdun",
+    "website": "https://www.conservative.ca/team-member/claudio-rocchi/"
+  },
+  {
+    "name": "Lianne Rood",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/05/02232207/b64fbee91a2210a-150x150.png",
+    "riding": "Lambton-Kent-Middlesex",
+    "website": "https://www.conservative.ca/team-member/lianne-rood/"
+  },
+  {
+    "name": "Alex Ruff",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03094835/8f600be038ad66f-1-150x150.png",
+    "riding": "Bruce-Grey-Owen Sound",
+    "website": "https://www.conservative.ca/team-member/alex-ruff/"
+  },
+  {
+    "name": "Linda Rydholm",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02232609/62b77de3209567a-150x150.png",
+    "riding": "Thunder Bay-Rainy River",
+    "website": "https://www.conservative.ca/team-member/linda-rydholm/"
+  },
+  {
+    "name": "Ashish Sachan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03092657/19e9d702eae03ce-150x150.png",
+    "riding": "Guelph",
+    "website": "https://www.conservative.ca/team-member/ashish-sachan/"
+  },
+  {
+    "name": "Jagdeep Sahota",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081339/10bee07c9f28ade-150x150.png",
+    "riding": "Calgary Skyview",
+    "website": "https://www.conservative.ca/team-member/jagdeep-sahota/"
+  },
+  {
+    "name": "Johanna Sarfati",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03040119/1e29c71b4a3c44a-150x150.png",
+    "riding": "Rosemont-La Petite-Patrie",
+    "website": "https://www.conservative.ca/team-member/johanna-sarfati/"
+  },
+  {
+    "name": "Bob Saroya",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02232820/b441ce3b7b188b9-150x150.png",
+    "riding": "Markham-Unionville",
+    "website": "https://www.conservative.ca/team-member/bob-saroya/"
+  },
+  {
+    "name": "Julie Sauvageau",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03040331/74ddb489647399b-150x150.png",
+    "riding": "Montarville",
+    "website": "https://www.conservative.ca/team-member/julie-sauvageau/"
+  },
+  {
+    "name": "Martine Savoie",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/14100946/9b4a30403e97ef8-150x150.jpg",
+    "riding": "Acadie-Bathurst",
+    "website": "https://www.conservative.ca/team-member/martine-savoie/"
+  },
+  {
+    "name": "Jamie Schmale",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02233034/c62881a5f614aa7-150x150.png",
+    "riding": "Haliburton-Kawartha Lakes-Brock",
+    "website": "https://www.conservative.ca/team-member/jamie-schmale/"
+  },
+  {
+    "name": "Zach Segal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/09124217/e21d757aeb7fae5-150x150.png",
+    "riding": "Vancouver Granville",
+    "website": "https://www.conservative.ca/team-member/zach-segal/"
+  },
+  {
+    "name": "Richard Serour",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03040534/1c7c45804ebf29b-150x150.png",
+    "riding": "Saint-Laurent",
+    "website": "https://www.conservative.ca/team-member/richard-serour/"
+  },
+  {
+    "name": "Dany Sévigny",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03095043/deab7e2a7ab1352-150x150.png",
+    "riding": "Sherbrooke",
+    "website": "https://www.conservative.ca/team-member/dany-sevigny/"
+  },
+  {
+    "name": "Martin Shields",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/07134013/bab610a7a6e75e9-150x150.png",
+    "riding": "Bow River",
+    "website": "https://www.conservative.ca/team-member/martin-shields/"
+  },
+  {
+    "name": "Jay Shin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081918/b462a7eb253de41-150x150.png",
+    "riding": "Burnaby South",
+    "website": "https://www.conservative.ca/team-member/jay-shin/"
+  },
+  {
+    "name": "Doug Shipley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/04104537/6ab61bd0e59509d-150x150.png",
+    "riding": "Barrie-Springwater-Oro-Medonte",
+    "website": "https://www.conservative.ca/team-member/doug-shipley/"
+  },
+  {
+    "name": "Fred Shuman",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/19113634/c67e540a3fa0991-150x150.png",
+    "riding": "Halifax West",
+    "website": "https://www.conservative.ca/team-member/fred-shuman/"
+  },
+  {
+    "name": "Harpreet Singh",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074727/d1f590043dbc6f6-150x150.png",
+    "riding": "Surrey-Newton",
+    "website": "https://www.conservative.ca/team-member/harpreet-singh/"
+  },
+  {
+    "name": "Ramona Singh",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03000951/3ec4110b26c1f36-150x150.png",
+    "riding": "Brampton East",
+    "website": "https://www.conservative.ca/team-member/ramona-singh/"
+  },
+  {
+    "name": "Bobby Singh",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02233505/6381249bd974b61-150x150.png",
+    "riding": "Scarborough-Rouge Park",
+    "website": "https://www.conservative.ca/team-member/bobby-singh/"
+  },
+  {
+    "name": "Michael Skinner",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02233704/61568515c0af96c-150x150.png",
+    "riding": "Peterborough-Kawartha",
+    "website": "https://www.conservative.ca/team-member/michael-skinner/"
+  },
+  {
+    "name": "Derek Sloan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02233901/115fe20720171c4-150x150.png",
+    "riding": "Hastings-Lennox and Addington",
+    "website": "https://www.conservative.ca/team-member/derek-sloan/"
+  },
+  {
+    "name": "Jonas Smith",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080804/06b65fe6952226a-150x150.png",
+    "riding": "Yukon",
+    "website": "https://www.conservative.ca/team-member/jonas-smith/"
+  },
+  {
+    "name": "Liz Snelgrove",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02234100/076002fbb12cc6f-150x150.png",
+    "riding": "London West",
+    "website": "https://www.conservative.ca/team-member/liz-snelgrove/"
+  },
+  {
+    "name": "Gerald Soroka",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081812/00222f55846c2af-150x150.png",
+    "riding": "Yellowhead",
+    "website": "https://www.conservative.ca/team-member/gerald-soroka/"
+  },
+  {
+    "name": "Sonny Spina",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03092900/2f1f493b33d4602-150x150.png",
+    "riding": "Sault Ste. Marie",
+    "website": "https://www.conservative.ca/team-member/sonny-spina/"
+  },
+  {
+    "name": "Pierre St-Amant",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03092803/3051fe6af418c0b-150x150.png",
+    "riding": "Sudbury",
+    "website": "https://www.conservative.ca/team-member/pierre-st-amant/"
+  },
+  {
+    "name": "Brian St. Louis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02234504/ea92b0092fcc16e-150x150.png",
+    "riding": "Nepean",
+    "website": "https://www.conservative.ca/team-member/brian-st-louis/"
+  },
+  {
+    "name": "Bruce Stanton",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/22115640/702e705f648bf5d-150x150.png",
+    "riding": "Simcoe North",
+    "website": "https://www.conservative.ca/team-member/bruce-stanton/"
+  },
+  {
+    "name": "Warren Steinley",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080354/b183a71a65fc9c4-150x150.png",
+    "riding": "Regina-Lewvan",
+    "website": "https://www.conservative.ca/team-member/warren-steinley/"
+  },
+  {
+    "name": "Stephen Stewart",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03101243/cc8ca31156a41bb-150x150.png",
+    "riding": "Malpeque",
+    "website": "https://www.conservative.ca/team-member/stephen-stewart/"
+  },
+  {
+    "name": "Mark Strahl",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03053732/d70694dcc55b9e7-150x150.png",
+    "riding": "Chilliwack-Hope",
+    "website": "https://www.conservative.ca/team-member/mark-strahl/"
+  },
+  {
+    "name": "Shannon Stubbs",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03044611/1f485755cb1f568-150x150.png",
+    "riding": "Lakeland",
+    "website": "https://www.conservative.ca/team-member/shannon-stubbs/"
+  },
+  {
+    "name": "David Sweet",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02234708/e27b266f4a9dd98-150x150.png",
+    "riding": "Flamborough-Glanbrook",
+    "website": "https://www.conservative.ca/team-member/david-sweet/"
+  },
+  {
+    "name": "Eli Tannis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02234906/9a581c6344e47e0-150x150.png",
+    "riding": "Ottawa South",
+    "website": "https://www.conservative.ca/team-member/eli-tannis/"
+  },
+  {
+    "name": "Hani Tawfilis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02235111/996d93eb14614de-150x150.png",
+    "riding": "Mississauga-Erin Mills",
+    "website": "https://www.conservative.ca/team-member/hani-tawfilis/"
+  },
+  {
+    "name": "Murarilal Thapliyal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02235328/7e41106291e2d70-150x150.png",
+    "riding": "Brampton West",
+    "website": "https://www.conservative.ca/team-member/murarilal-thapliyal/"
+  },
+  {
+    "name": "Martin Thibert",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/21145523/e7c95df26f5abed-150x150.jpg",
+    "riding": "Saint-Jean",
+    "website": "https://www.conservative.ca/team-member/martin-thibert/"
+  },
+  {
+    "name": "Quintus Thuraisingham",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02231354/8010fa3e55df43b-150x150.png",
+    "riding": "Scarborough-Guildwood",
+    "website": "https://www.conservative.ca/team-member/quintus-thuraisingham/"
+  },
+  {
+    "name": "Helen-Claire Tingling",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02235539/f8aa08c97948bb9-150x150.png",
+    "riding": "University-Rosedale",
+    "website": "https://www.conservative.ca/team-member/helen-claire-tingling/"
+  },
+  {
+    "name": "Corey Tochor",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082436/1deee9c888d8e40-150x150.png",
+    "riding": "Saskatoon-University",
+    "website": "https://www.conservative.ca/team-member/corey-tochor/"
+  },
+  {
+    "name": "Lawrence Toet",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074938/7f476226ea42f0f-150x150.png",
+    "riding": "Elmwood-Transcona",
+    "website": "https://www.conservative.ca/team-member/lawrence-toet/"
+  },
+  {
+    "name": "David Tordjman",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/19132200/b237e77fdba8ffa-150x150.png",
+    "riding": "Mount Royal",
+    "website": "https://www.conservative.ca/team-member/david-tordjman/"
+  },
+  {
+    "name": "Annie Trudel",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03095334/8ab8ca155fbbd44-150x150.png",
+    "riding": "Terrebonne",
+    "website": "https://www.conservative.ca/team-member/annie-trudel/"
+  },
+  {
+    "name": "Jae Truesdell",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/04123819/c510c215274a601-150x150.png",
+    "riding": "Toronto-St. Paul’s",
+    "website": "https://www.conservative.ca/team-member/jae-truesdell/"
+  },
+  {
+    "name": "Tim Uppal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081552/cca89418ef35bc2-150x150.png",
+    "riding": "Edmonton Mill Woods",
+    "website": "https://www.conservative.ca/team-member/tim-uppal/"
+  },
+  {
+    "name": "Michael van Holst",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02235955/05c03c23f2f663e-150x150.png",
+    "riding": "London-Fanshawe",
+    "website": "https://www.conservative.ca/team-member/michael-vol-holst/"
+  },
+  {
+    "name": "Tom Varughese",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03154823/69b6f020166afae-150x150.jpg",
+    "riding": "Mississauga-Malton",
+    "website": "https://www.conservative.ca/team-member/tom-varughese/"
+  },
+  {
+    "name": "Karen Vecchio",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02235751/bd8b02f0e0d0ebe-150x150.png",
+    "riding": "Elgin-Middlesex-London",
+    "website": "https://www.conservative.ca/team-member/karen-vecchio/"
+  },
+  {
+    "name": "Megan Veck",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03074049/6242fa8464be722-150x150.png",
+    "riding": "New Westminster-Burnaby",
+    "website": "https://www.conservative.ca/team-member/megan-veck/"
+  },
+  {
+    "name": "Sophie Veilleux",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/16145854/1d8a20b2e51a82b-150x150.jpg",
+    "riding": "Papineau",
+    "website": "https://www.conservative.ca/team-member/sophie-veilleux/"
+  },
+  {
+    "name": "Gary Vidal",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03080241/7bc36c18356237e-150x150.png",
+    "riding": "Desnethé-Missinippi-Churchill River",
+    "website": "https://www.conservative.ca/team-member/gary-vidal/"
+  },
+  {
+    "name": "Arnold Viersen",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03044825/c7720dd8dd40d98-150x150.png",
+    "riding": "Peace River-Westlock",
+    "website": "https://www.conservative.ca/team-member/arnold-viersen/"
+  },
+  {
+    "name": "Brad Vis",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03073841/f22d3c5ac45868b-150x150.png",
+    "riding": "Mission-Matsqui-Fraser Canyon",
+    "website": "https://www.conservative.ca/team-member/brad-vis/"
+  },
+  {
+    "name": "Cathay Wagantall",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03053030/df010b621a58254-150x150.png",
+    "riding": "Yorkton-Melville",
+    "website": "https://www.conservative.ca/team-member/cathay-wagantall/"
+  },
+  {
+    "name": "Krystina Waler",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02222324/bc6208ca0504da0-150x150.png",
+    "riding": "St. Catharines",
+    "website": "https://www.conservative.ca/team-member/krystina-waler/"
+  },
+  {
+    "name": "Joedy Wall",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/13093354/c310a623e830cf0-150x150.jpg",
+    "riding": "St. John’s East",
+    "website": "https://www.conservative.ca/team-member/joedy-wall/"
+  },
+  {
+    "name": "Chris Warkentin",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03081703/983dae5016ab137-150x150.png",
+    "riding": "Grande Prairie-Mackenzie",
+    "website": "https://www.conservative.ca/team-member/chris-warketin/"
+  },
+  {
+    "name": "Kevin Waugh",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03052554/6a8a97326e6cac6-150x150.png",
+    "riding": "Saskatoon-Grasswood",
+    "website": "https://www.conservative.ca/team-member/kevin-waugh/"
+  },
+  {
+    "name": "Len Webber",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03045043/346397cb5997b84-150x150.png",
+    "riding": "Calgary Confederation",
+    "website": "https://www.conservative.ca/team-member/len-webber/"
+  },
+  {
+    "name": "Sean Weir",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03000152/d0d043cdf9c4cb1-150x150.png",
+    "riding": "Oakville North-Burlington",
+    "website": "https://www.conservative.ca/team-member/sean-weir/"
+  },
+  {
+    "name": "Rodney Weston",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03091015/520d643a2c21381-150x150.png",
+    "riding": "Saint John-Rothesay",
+    "website": "https://www.conservative.ca/team-member/rodney-weston/"
+  },
+  {
+    "name": "John Williamson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03075731/b96d519aa0b6ccc-150x150.png",
+    "riding": "New Brunswick Southwest",
+    "website": "https://www.conservative.ca/team-member/john-williamson/"
+  },
+  {
+    "name": "Dave Williamson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/09154109/b2ede8863c6765b-150x150.png",
+    "riding": "Algoma-Manitoulin-Kapuskasing",
+    "website": "https://www.conservative.ca/team-member/dave-williamson/"
+  },
+  {
+    "name": "Rachel Willson",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03000354/3dc29503ca2a06f-150x150.png",
+    "riding": "York Centre",
+    "website": "https://www.conservative.ca/team-member/rachel-willson/"
+  },
+  {
+    "name": "Mike Windsor",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082328/d0acabbb42d2074-150x150.png",
+    "riding": "Bonavista-Burin-Trinity",
+    "website": "https://www.conservative.ca/team-member/mike-windsor/"
+  },
+  {
+    "name": "Alice Wong",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03082018/fa55798401d26fb-150x150.png",
+    "riding": "Richmond Centre",
+    "website": "https://www.conservative.ca/team-member/alice-wong/"
+  },
+  {
+    "name": "Stephen Woodworth",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/06/03095439/d295be8291e1ad3-150x150.png",
+    "riding": "Kitchener Centre",
+    "website": "https://www.conservative.ca/team-member/stephen-woodworth/"
+  },
+  {
+    "name": "Ruslan Yakoviychuk",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/02232410/e49f6cd2476807e-150x150.png",
+    "riding": "Kingston and the Islands",
+    "website": "https://www.conservative.ca/team-member/ruslan-yakoviychuk/"
+  },
+  {
+    "name": "Terence Young",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/08/08102526/aa75686b9fc2ff3-150x150.png",
+    "riding": "Oakville",
+    "website": "https://www.conservative.ca/team-member/terence-young/"
+  },
+  {
+    "name": "Wai Young",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/07/15084823/f243108378a1a5d-150x150.png",
+    "riding": "Vancouver South",
+    "website": "https://www.conservative.ca/team-member/wai-young/"
+  },
+  {
+    "name": "Alex Yuan",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03000557/f78e00362fc2910-150x150.png",
+    "riding": "Markham-Thornhill",
+    "website": "https://www.conservative.ca/team-member/alex-yuan/"
+  },
+  {
+    "name": "David Yurdiga",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03045307/cf783f523551ea6-150x150.png",
+    "riding": "Fort McMurray-Cold Lake",
+    "website": "https://www.conservative.ca/team-member/david-yurdiga/"
+  },
+  {
+    "name": "Jerry Zhang",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03000750/ac1de974ec987ef-150x150.png",
+    "riding": "Waterloo",
+    "website": "https://www.conservative.ca/team-member/jerry-zhang/"
+  },
+  {
+    "name": "Bob Zimmer",
+    "image": "https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03050632/e89a66d24af4e46-150x150.png",
+    "riding": "Prince George-Peace River-Northern Rockies",
+    "website": "https://www.conservative.ca/team-member/bob-zimmer/"
+  }
+]

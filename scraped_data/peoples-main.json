@@ -1,0 +1,2815 @@
+[
+  null,
+  {
+    "name": "Nadine Wellwood",
+    "image": "http://www.twitter.com/nadinewellwood/profile_image?size=original",
+    "riding": "Banff-Airdrie",
+    "twitter": "http://www.twitter.com/nadinewellwood",
+    "facebook": "http://www.facebook.com/nadinewellwoodppc",
+    "website": "http://www.nadinewellwood.ca/"
+  },
+  {
+    "name": "David Michaud",
+    "image": "https://twitter.com/DavidMichaud53/profile_image?size=original",
+    "riding": "Battle River-Crowfoot",
+    "twitter": "https://twitter.com/DavidMichaud53",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Thomas Ikert",
+    "image": "https://twitter.com/TomIkert/profile_image?size=original",
+    "riding": "Bow River",
+    "twitter": "https://twitter.com/TomIkert",
+    "facebook": "https://www.facebook.com/tomikert1/",
+    "website": "http://www.ppcbowriver.com/"
+  },
+  {
+    "name": "Chevy Johnston",
+    "image": "https://twitter.com/Chevy_Johnston/profile_image?size=original",
+    "riding": "Calgary Centre",
+    "twitter": "https://twitter.com/Chevy_Johnston",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Colin Korol",
+    "image": "https://twitter.com/colinkorolppc/profile_image?size=original",
+    "riding": "Calgary Confederation",
+    "twitter": "https://twitter.com/colinkorolppc",
+    "facebook": "https://www.facebook.com/korolppc",
+    "website": "http://ppccolinkorol.ca/"
+  },
+  {
+    "name": "Dave Levesque",
+    "image": "",
+    "riding": "Calgary Forest Lawn",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Stephanie Hoeppner",
+    "image": "https://twitter.com/STEPHANIEHOEPP6/profile_image?size=original",
+    "riding": "Calgary Heritage",
+    "twitter": "https://twitter.com/STEPHANIEHOEPP6",
+    "facebook": "https://www.facebook.com/StephanieHoeppnerPPC",
+    "website": "https://stephaniehoeppner.ca/"
+  },
+  {
+    "name": "Edward Gao",
+    "image": "https://twitter.com/EdwardGaoPPC/profile_image?size=original",
+    "riding": "Calgary Midnapore",
+    "twitter": "https://twitter.com/EdwardGaoPPC",
+    "facebook": "https://twitter.com/EdwardGaoPPC",
+    "website": "https://calgarymidnaporeppc.nationbuilder.com/"
+  },
+  {
+    "name": "Kelly Lorencz",
+    "image": "https://twitter.com/KellyLorenczPPC/profile_image?size=original",
+    "riding": "Calgary Nose Hill",
+    "twitter": "https://twitter.com/KellyLorenczPPC",
+    "facebook": "https://www.facebook.com/PPC.CalgaryNoseHill/",
+    "website": "http://www.ppccalgarynosehill.com/"
+  },
+  {
+    "name": "Tyler Poulin",
+    "image": "https://twitter.com/TylerPoulinPPC/profile_image?size=original",
+    "riding": "Calgary Rocky Ridge",
+    "twitter": "https://twitter.com/TylerPoulinPPC",
+    "facebook": "https://www.facebook.com/TylerPoulinPPC/",
+    "website": "https://www.tylerpoulinppc.com/"
+  },
+  {
+    "name": "Kyle Scott",
+    "image": "https://twitter.com/KyleScottPPC/profile_image?size=original",
+    "riding": "Calgary Shepard",
+    "twitter": "https://twitter.com/KyleScottPPC",
+    "facebook": "",
+    "website": "https://scott4mp-shepard.com/"
+  },
+  {
+    "name": "Gordon Squire",
+    "image": "https://twitter.com/SignalHillPPC/profile_image?size=original",
+    "riding": "Calgary Signal Hill",
+    "twitter": "https://twitter.com/SignalHillPPC",
+    "facebook": "https://www.facebook.com/SignalHillPPC/",
+    "website": "http://www.ppcstrongandfree.ca/"
+  },
+  {
+    "name": "Harry Dhillon",
+    "image": "https://twitter.com/HarryDhillonPPC/profile_image?size=original",
+    "riding": "Calgary Skyview",
+    "twitter": "https://twitter.com/HarryDhillonPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Paul Hookham",
+    "image": "",
+    "riding": "Edmonton Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Barbara Nichols",
+    "image": "https://twitter.com/BN4PPC/profile_image?size=original",
+    "riding": "Edmonton Griesbach",
+    "twitter": "https://twitter.com/BN4PPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Daniel Summers",
+    "image": "https://twitter.com/DanSummersPPC/profile_image?size=original",
+    "riding": "Edmonton Manning",
+    "twitter": "https://twitter.com/DanSummersPPC",
+    "facebook": "https://www.facebook.com/DanSummersPPC",
+    "website": ""
+  },
+  {
+    "name": "Annie Young",
+    "image": "https://twitter.com/VoteAnnieYoung/profile_image?size=original",
+    "riding": "Edmonton Mill Woods",
+    "twitter": "https://twitter.com/VoteAnnieYoung",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Kevin L. Morris",
+    "image": "",
+    "riding": "Edmonton Riverbend",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ian Cameron",
+    "image": "https://twitter.com/ICameronScona/profile_image?size=original",
+    "riding": "Edmonton Strathcona",
+    "twitter": "https://twitter.com/ICameronScona",
+    "facebook": "https://www.facebook.com/SconaPPC",
+    "website": "https://www.iankaelcameron.ca/"
+  },
+  {
+    "name": "Matthew Armstrong",
+    "image": "https://twitter.com/Marmstrongppc/profile_image?size=original",
+    "riding": "Edmonton West",
+    "twitter": "https://twitter.com/Marmstrongppc",
+    "facebook": "https://www.facebook.com/MattArmstrongPPC/",
+    "website": ""
+  },
+  {
+    "name": "Neil Doell",
+    "image": "https://twitter.com/votefordoell/profile_image?size=original",
+    "riding": "Edmonton-Wetaskiwin",
+    "twitter": "https://twitter.com/votefordoell",
+    "facebook": "",
+    "website": "https://ppcedmontonwetaskiwin.nationbuilder.com/neil_doell"
+  },
+  {
+    "name": "Gregory Hession",
+    "image": "https://twitter.com/ppc_greg/profile_image?size=original",
+    "riding": "Foothills",
+    "twitter": "https://twitter.com/ppc_greg",
+    "facebook": "https://www.facebook.com/greghessionFoothillsPPC",
+    "website": ""
+  },
+  {
+    "name": "Matthew Barrett",
+    "image": "https://twitter.com/therealmcat/profile_image?size=original",
+    "riding": "Fort McMurray-Cold Lake",
+    "twitter": "https://twitter.com/therealmcat",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Doug G. Burchill",
+    "image": "https://twitter.com/BurchillDoug/profile_image?size=original",
+    "riding": "Grande Prairie-Mackenzie",
+    "twitter": "https://twitter.com/BurchillDoug",
+    "facebook": "https://www.facebook.com/dougburchillPPC/",
+    "website": "http://www.dougburchill.ca/"
+  },
+  {
+    "name": "Alain Houle",
+    "image": "https://twitter.com/AlainHoule5/profile_image?size=original",
+    "riding": "Lakeland",
+    "twitter": "https://twitter.com/AlainHoule5",
+    "facebook": "https://www.facebook.com/alain.houle.5454",
+    "website": ""
+  },
+  {
+    "name": "Grant Hepworth",
+    "image": "https://twitter.com/ppclethbridge/profile_image?size=original",
+    "riding": "Lethbridge",
+    "twitter": "https://twitter.com/ppclethbridge",
+    "facebook": "https://www.facebook.com/PPCLethbridge/",
+    "website": ""
+  },
+  {
+    "name": "Andrew Nelson",
+    "image": "https://twitter.com/AlbertaPpc/profile_image?size=original",
+    "riding": "Medicine Hat-Cardston-Warner",
+    "twitter": "https://twitter.com/AlbertaPpc",
+    "facebook": "http://www.facebook.com/Altappc",
+    "website": ""
+  },
+  {
+    "name": "John Schrader",
+    "image": "",
+    "riding": "Peace River-Westlock",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Laura Lynn Tyler Thompson",
+    "image": "https://twitter.com/LauraLynnTT/profile_image?size=original",
+    "riding": "Red Deer-Lacombe",
+    "twitter": "https://twitter.com/LauraLynnTT",
+    "facebook": "https://www.facebook.com/LauraLynnRedDeerLacombe/",
+    "website": ""
+  },
+  {
+    "name": "Paul Mitchell",
+    "image": "https://twitter.com/PaulMitchellPPC/profile_image?size=original",
+    "riding": "Red Deer-Mountain View",
+    "twitter": "https://twitter.com/PaulMitchellPPC",
+    "facebook": "https://www.facebook.com/profile.php?id=100035826884484",
+    "website": ""
+  },
+  {
+    "name": "Darren Villetard",
+    "image": "",
+    "riding": "Sherwood Park-Fort Saskatchewan",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Brigitte Cecelia",
+    "image": "",
+    "riding": "St. Albert-Edmonton",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Tyler Beauchamp",
+    "image": "https://twitter.com/TylerBeaucham20/profile_image?size=original",
+    "riding": "Sturgeon River-Parkland",
+    "twitter": "https://twitter.com/TylerBeaucham20",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Douglas Galavan",
+    "image": "",
+    "riding": "Yellowhead",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "James Duncan",
+    "image": "https://twitter.com/LockeDuncan1/profile_image?size=original",
+    "riding": "Abbotsford",
+    "twitter": "https://twitter.com/LockeDuncan1",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Rocky Dong",
+    "image": "https://twitter.com/Rocky4PPC/profile_image?size=original",
+    "riding": "Burnaby North-Seymour",
+    "twitter": "https://twitter.com/Rocky4PPC",
+    "facebook": "",
+    "website": "https://ppcburnabynorthseymour.nationbuilder.com/"
+  },
+  {
+    "name": "Al Rawdah",
+    "image": "https://twitter.com/AL4PPC/profile_image?size=original",
+    "riding": "Burnaby South",
+    "twitter": "https://twitter.com/AL4PPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jing Lan Yang",
+    "image": "https://twitter.com/Young_JLY/profile_image?size=original",
+    "riding": "Cariboo-Prince George",
+    "twitter": "https://twitter.com/Young_JLY",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Allan G. Duncan",
+    "image": "https://twitter.com/allanduncanppc/profile_image?size=original",
+    "riding": "Central Okanagan-Similkameen-Nicola",
+    "twitter": "https://twitter.com/allanduncanppc",
+    "facebook": "https://www.facebook.com/allan.duncan.58118",
+    "website": ""
+  },
+  {
+    "name": "Rob Bogunovic",
+    "image": "https://twitter.com/robbogunovic/profile_image?size=original",
+    "riding": "Chilliwack-Hope",
+    "twitter": "https://twitter.com/robbogunovic",
+    "facebook": "https://www.facebook.com/Rob-Bogunovic-2350621965156900/",
+    "website": ""
+  },
+  {
+    "name": "Gurmant Grewal",
+    "image": "https://twitter.com/GurmantGrewal/profile_image?size=original",
+    "riding": "Cloverdale-Langley City",
+    "twitter": "https://twitter.com/GurmantGrewal",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Brian Misera",
+    "image": "https://twitter.com/BrianMisera/profile_image?size=original",
+    "riding": "Coquitlam-Port Coquitlam",
+    "twitter": "https://twitter.com/BrianMisera",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Troy Whitley",
+    "image": "https://twitter.com/PPCTroy/profile_image?size=original",
+    "riding": "Courtenay-Alberni",
+    "twitter": "https://twitter.com/PPCTroy",
+    "facebook": "",
+    "website": "https://www.troywhitley.ca/"
+  },
+  {
+    "name": "Rhonda Chen",
+    "image": "",
+    "riding": "Cowichan-Malahat-Langford",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Angelina Ireland",
+    "image": "https://twitter.com/deltairelandfor/profile_image?size=original",
+    "riding": "Delta",
+    "twitter": "https://twitter.com/deltairelandfor",
+    "facebook": "https://www.facebook.com/angelina.ireland.1",
+    "website": "http://www.aireland.ca/"
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Esquimalt-Saanich-Sooke",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mike Poulin",
+    "image": "https://twitter.com/MikePoulinPPC/profile_image?size=original",
+    "riding": "Fleetwood-Port Kells",
+    "twitter": "https://twitter.com/MikePoulinPPC",
+    "facebook": "https://www.facebook.com/MikePoulinPPC",
+    "website": ""
+  },
+  {
+    "name": "Kenneth Finlayson",
+    "image": "",
+    "riding": "Kamloops-Thompson-Cariboo",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Salomon Rayek",
+    "image": "https://twitter.com/ppcsalrayek/profile_image?size=original",
+    "riding": "Kelowna-Lake Country",
+    "twitter": "https://twitter.com/ppcsalrayek",
+    "facebook": "https://www.facebook.com/sal.rayekppc.5",
+    "website": "https://www.klcppc.com/"
+  },
+  {
+    "name": "Rick Stewart",
+    "image": "https://twitter.com/rickstewartppc/profile_image?size=original",
+    "riding": "Kootenay-Columbia",
+    "twitter": "https://twitter.com/rickstewartppc",
+    "facebook": "https://www.facebook.com/rickstewartppc",
+    "website": ""
+  },
+  {
+    "name": "Natalie DiPietra",
+    "image": "https://twitter.com/CudmoreDipietra/profile_image?size=original",
+    "riding": "Langley-Aldergrove",
+    "twitter": "https://twitter.com/CudmoreDipietra",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Julius \"Nick\" Csaszar",
+    "image": "https://twitter.com/csaszar_nick/profile_image?size=original",
+    "riding": "Mission-Matsqui-Fraser Canyon",
+    "twitter": "https://twitter.com/csaszar_nick",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jennifer Clarke",
+    "image": "https://twitter.com/JenniferMClarke/profile_image?size=original",
+    "riding": "Nanaimo-Ladysmith",
+    "twitter": "https://twitter.com/JenniferMClarke",
+    "facebook": "https://www.facebook.com/1jennyclarke",
+    "website": ""
+  },
+  {
+    "name": "Hansen Ginn",
+    "image": "https://twitter.com/hansginn/profile_image?size=original",
+    "riding": "New Westminster-Burnaby",
+    "twitter": "https://twitter.com/hansginn",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Brian Rundle",
+    "image": "",
+    "riding": "North Island-Powell River",
+    "twitter": "",
+    "facebook": "",
+    "website": "http://www.rundle2019ppc.ca/"
+  },
+  {
+    "name": "Kyle Delfing",
+    "image": "https://twitter.com/DelfingKyle/profile_image?size=original",
+    "riding": "North Okanagan-Shuswap",
+    "twitter": "https://twitter.com/DelfingKyle",
+    "facebook": "https://www.facebook.com/DelfingKyle/",
+    "website": "https://www.kyledelfing4theppc.com/"
+  },
+  {
+    "name": "Azmairnin Jadavji",
+    "image": "https://twitter.com/Azmairnin2019/profile_image?size=original",
+    "riding": "North Vancouver",
+    "twitter": "https://twitter.com/Azmairnin2019",
+    "facebook": "https://www.facebook.com/azmairnin2019/",
+    "website": "https://www.azmairnin2019.ca/"
+  },
+  {
+    "name": "Bryton Cherrier",
+    "image": "https://twitter.com/BrytonCherrier/profile_image?size=original",
+    "riding": "Pitt Meadows-Maple Ridge",
+    "twitter": "https://twitter.com/BrytonCherrier",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jayson Chabot",
+    "image": "https://twitter.com/ChabotJayson/profile_image?size=original",
+    "riding": "Port Moody-Coquitlam",
+    "twitter": "https://twitter.com/ChabotJayson",
+    "facebook": "https://www.facebook.com/ChabotJayson/",
+    "website": ""
+  },
+  {
+    "name": "Ron Vaillant",
+    "image": "https://twitter.com/RonVaillant/profile_image?size=original",
+    "riding": "Prince George-Peace River-Northern Rockies",
+    "twitter": "https://twitter.com/RonVaillant",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ivan Pak",
+    "image": "https://twitter.com/ivanpak8/profile_image?size=original",
+    "riding": "Richmond Centre",
+    "twitter": "https://twitter.com/ivanpak8",
+    "facebook": "",
+    "website": "https://ivanpak.ca/"
+  },
+  {
+    "name": "Ron Broda",
+    "image": "",
+    "riding": "Saanich-Gulf Islands",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jody Craven",
+    "image": "https://twitter.com/PPCSkeenaBV/profile_image?size=original",
+    "riding": "Skeena-Bulkley Valley",
+    "twitter": "https://twitter.com/PPCSkeenaBV",
+    "facebook": "https://www.facebook.com/jody.craven.501",
+    "website": "http://www.voteppc.ca/"
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "South Okanagan-West Kootenay",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Joel Poulin",
+    "image": "https://twitter.com/joelpoulinppc/profile_image?size=original",
+    "riding": "South Surrey-White Rock",
+    "twitter": "https://twitter.com/joelpoulinppc",
+    "facebook": "",
+    "website": "https://www.sswr-ppc.ca/help_donate"
+  },
+  {
+    "name": "Derek Rathbun",
+    "image": "",
+    "riding": "Steveston-Richmond East",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jaswinder Singh Dilawari",
+    "image": "https://twitter.com/JazzDilawari/profile_image?size=original",
+    "riding": "Surrey Centre",
+    "twitter": "https://twitter.com/JazzDilawari",
+    "facebook": "https://www.facebook.com/dilawari.jaswinder",
+    "website": ""
+  },
+  {
+    "name": "Benjamin Sears",
+    "image": "",
+    "riding": "Surrey-Newton",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Louise A. Kierans",
+    "image": "https://twitter.com/PPCVanCentre/profile_image?size=original",
+    "riding": "Vancouver Centre",
+    "twitter": "https://twitter.com/PPCVanCentre",
+    "facebook": "https://www.facebook.com/votelouise.ca",
+    "website": "https://louise.nationbuilder.com/"
+  },
+  {
+    "name": "Karin Litzcke",
+    "image": "https://twitter.com/KarinLitzcke/profile_image?size=original",
+    "riding": "Vancouver East",
+    "twitter": "https://twitter.com/KarinLitzcke",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Naomi Chocyk",
+    "image": "https://twitter.com/MoxieMimi/profile_image?size=original",
+    "riding": "Vancouver Granville",
+    "twitter": "https://twitter.com/MoxieMimi",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ian Torn",
+    "image": "https://twitter.com/Ian_Torn/profile_image?size=original",
+    "riding": "Vancouver Kingsway",
+    "twitter": "https://twitter.com/Ian_Torn",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sandra Filosof-Schipper",
+    "image": "https://twitter.com/FilosofSandra/profile_image?size=original",
+    "riding": "Vancouver Quadra",
+    "twitter": "https://twitter.com/FilosofSandra",
+    "facebook": "https://www.facebook.com/ppcvanquadra/",
+    "website": "https://ppcvanquadra.ca/"
+  },
+  {
+    "name": "Alain Deng",
+    "image": "https://twitter.com/Alaindeng88/profile_image?size=original",
+    "riding": "Vancouver South",
+    "twitter": "https://twitter.com/Alaindeng88",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Alyson Culbert",
+    "image": "https://twitter.com/CulbertAlyson/profile_image?size=original",
+    "riding": "Victoria",
+    "twitter": "https://twitter.com/CulbertAlyson",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Robert Bebb",
+    "image": "https://twitter.com/DougBebb/profile_image?size=original",
+    "riding": "West Vancouver-Sunshine Coast-Sea to Sky Country",
+    "twitter": "https://twitter.com/DougBebb",
+    "facebook": "",
+    "website": "http://www.bebb2019ppc.ca/"
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Rob Lussier",
+    "image": "https://twitter.com/RobLussier/profile_image?size=original",
+    "riding": "Brandon-Souris",
+    "twitter": "https://twitter.com/RobLussier",
+    "facebook": "https://www.facebook.com/PPCRobLussier/",
+    "website": "http://www.roblussier.ca/"
+  },
+  {
+    "name": "Steven Fletcher",
+    "image": "https://twitter.com/HonSFletcher/profile_image?size=original",
+    "riding": "Charleswood-St. James-Assiniboia-Headingley",
+    "twitter": "https://twitter.com/HonSFletcher",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Kenneth M. Klyne",
+    "image": "",
+    "riding": "Churchill-Keewatinook Aski",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Frank Godon",
+    "image": "https://twitter.com/FrankGodon/profile_image?size=original",
+    "riding": "Dauphin-Swan River-Neepawa",
+    "twitter": "https://twitter.com/FrankGodon",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Noel Gautron",
+    "image": "",
+    "riding": "Elmwood-Transcona",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Martin W. Deck",
+    "image": "",
+    "riding": "Kildonan-St. Paul",
+    "twitter": "",
+    "facebook": "",
+    "website": "https://martindeck.com/"
+  },
+  {
+    "name": "Aaron Archer",
+    "image": "",
+    "riding": "Portage-Lisgar",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Wayne Sturby",
+    "image": "",
+    "riding": "Provencher",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Adam McAllister",
+    "image": "",
+    "riding": "Saint Boniface-Saint Vital",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ian Kathwaroon",
+    "image": "",
+    "riding": "Selkirk-Interlake-Eastman",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Yogi Henderson",
+    "image": "",
+    "riding": "Winnipeg Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Victor Ong",
+    "image": "",
+    "riding": "Winnipeg North",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mirwais Nasiri",
+    "image": "",
+    "riding": "Winnipeg South",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jane MacDiarmid",
+    "image": "https://twitter.com/macdiarmidjane1/profile_image?size=original",
+    "riding": "Winnipeg South Centre",
+    "twitter": "https://twitter.com/macdiarmidjane1",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Acadie-Bathurst",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Pastor Nancy Mercier",
+    "image": "https://twitter.com/ArcadiaNancy/profile_image?size=original",
+    "riding": "Beauséjour",
+    "twitter": "https://twitter.com/ArcadiaNancy",
+    "facebook": "https://www.facebook.com/NancyMercierPPC",
+    "website": "https://www.beausejourppc.ca/our-candidate"
+  },
+  {
+    "name": "Jason Paull",
+    "image": "",
+    "riding": "Fredericton",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Rudolf Neumayer",
+    "image": "https://twitter.com/Rudolf_Neumayer/profile_image?size=original",
+    "riding": "Fundy Royal",
+    "twitter": "https://twitter.com/Rudolf_Neumayer",
+    "facebook": "https://www.facebook.com/rudy.neumayer",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Madawaska-Restigouche",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Miramichi-Grand Lake",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Stephen Driver",
+    "image": "https://twitter.com/sdriverppc2019/profile_image?size=original",
+    "riding": "Moncton-Riverview-Dieppe",
+    "twitter": "https://twitter.com/sdriverppc2019",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Meryl Sarty",
+    "image": "https://twitter.com/MerylSartyPPC/profile_image?size=original",
+    "riding": "New Brunswick Southwest",
+    "twitter": "https://twitter.com/MerylSartyPPC",
+    "facebook": "https://www.facebook.com/pg/Meryl-Sarty-PPC-Candidate-for-NBSW-520588552018175",
+    "website": ""
+  },
+  {
+    "name": "Adam J. C. Salesse",
+    "image": "https://twitter.com/adam4sj/profile_image?size=original",
+    "riding": "Saint John-Rothesay",
+    "twitter": "https://twitter.com/adam4sj",
+    "facebook": "",
+    "website": "https://www.adam4sj.ca/"
+  },
+  {
+    "name": "Dominic Guay",
+    "image": "https://twitter.com/PPC_Guay/profile_image?size=original",
+    "riding": "Tobique-Mactaquac",
+    "twitter": "https://twitter.com/PPC_Guay",
+    "facebook": "https://www.facebook.com/groups/ppctobiquemactaquac/",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Avalon",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Bonavista-Burin-Trinity",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Coast of Bays-Central-Notre Dame",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Labrador",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Long Range Mountains",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "St. John's East",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ben Ruckpaul",
+    "image": "https://twitter.com/PPCBen/profile_image?size=original",
+    "riding": "St. John's South-Mount Pearl",
+    "twitter": "https://twitter.com/PPCBen",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Luke Quinlan",
+    "image": "https://twitter.com/LukeTQuinlan/profile_image?size=original",
+    "riding": "Northwest Territories",
+    "twitter": "https://twitter.com/LukeTQuinlan",
+    "facebook": "https://www.facebook.com/Luke-Quinlan-Peoples-Party-of-Canada-NWT-325276948391453/?__xts__%5B0%5D=68.ARB5iWKavEj5kROWAn4Nmx7m2UmcIs8J9GtdmZkR7QV8L9kOJstypvLRdMKzXxIMrhFS6RWGRwnTkzoVMDKFGyIlXszAAs4s78U3vWEBFTPYwNqgV0oSrzWy6FBjaLQVpo95ryKVroDcLjMtcRaRhwpB4uuwUuMmDeJgFtSiu1wUwbLRcCgif42hrOrcuotz1QwhbihKp4_cyTE7wzwT4UFcqgL9GMTub6D39fLZNYf2iG7mf91VPEcs4X37cNa_WVjR2HhENoyu0jnf1SUX1Ek0_rIJVxPZ6JA8TDo-C48tmtc329VYgiDoscJO5copySpeOqtlcnRqRtb_X-BmxZo&__xts__%5B1%5D=68.ARBm92XrZYkhJ6KmBFO7lvXy69DU06Uh6TQ4zvIFccP3NzOY_3SksS2m31IUDsNGCdqVtVNaqrLkJ3b4I-65_oeTIQ8Yte84coVGvcRvXF7AqYgXyaBg_wYlMUMjNv_UDwvtLp0rtNXR54m3IGXB5soa8Ijw8NktYbuOP3al5gfrNTlaw0nH42SWIFmMdBTxVJxrR6TVvzMtvBahLD4Xw6uiO71sOEJ9Yqokt05s-KHi2cVgmy9cIbA5_tPKa542mI3GEiE1kIPSARGpJrnFuECdawmGv0-IO5Tk3Ppr_t1MXstMFX-KUR_dIJ1d8avZkU-bFjyITKGBi_j0HOpLYZ6gQwy4zrLx&__tn__=kC-R&eid=ARCGDaW7gUavM1vHctcuvGixPEel5I1_SBVpMQEIqMQSlRYyWRUEne7FYw_YiOuJEVUSi_3C01OOZ4X3&hc_ref=ARR827eAA2Ri9G31UUuDAE2HYofVIM4mWTmrF9AtYKMyGai9H72IqVdcbnO0GK4OKeI&fref=nf",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Cape Breton-Canso",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Al Muir",
+    "image": "",
+    "riding": "Central Nova",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "William J. Archer",
+    "image": "https://twitter.com/BillArcher72/profile_image?size=original",
+    "riding": "Cumberland-Colchester",
+    "twitter": "https://twitter.com/BillArcher72",
+    "facebook": "https://www.facebook.com/BillArcherPPC/",
+    "website": "http://cumberland-colchester-ppc.com/"
+  },
+  {
+    "name": "Michelle A. M. Lindsay",
+    "image": "https://twitter.com/votemichelleppc/profile_image?size=original",
+    "riding": "Dartmouth-Cole Harbour",
+    "twitter": "https://twitter.com/votemichelleppc",
+    "facebook": "https://www.instagram.com/votemichellelindsayppc/",
+    "website": "http://votemichellelindsay.ca/"
+  },
+  {
+    "name": "Pavel Boubnov",
+    "image": "",
+    "riding": "Halifax",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Halifax West",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Matthew Southall",
+    "image": "https://twitter.com/TheMattSouthy/profile_image?size=original",
+    "riding": "Kings-Hants",
+    "twitter": "https://twitter.com/TheMattSouthy",
+    "facebook": "https://www.facebook.com/MattTSouthy",
+    "website": "https://www.mattsouthall.ca/"
+  },
+  {
+    "name": "Sybil Hogg",
+    "image": "https://twitter.com/sybilfortheppl/profile_image?size=original",
+    "riding": "Sackville-Preston-Chezzetcook",
+    "twitter": "https://twitter.com/sybilfortheppl",
+    "facebook": "",
+    "website": "https://votesybil.ca/"
+  },
+  {
+    "name": "Robert Monk",
+    "image": "",
+    "riding": "South Shore-St. Margarets",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Sydney-Victoria",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Announcement pending employer approval",
+    "image": "",
+    "riding": "West Nova",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Announcement pending employer approval",
+    "image": "",
+    "riding": "Nunavut",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Susanna Russo",
+    "image": "https://twitter.com/SusannarussoP/profile_image?size=original",
+    "riding": "Ajax",
+    "twitter": "https://twitter.com/SusannarussoP",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Dave De Lisle",
+    "image": "",
+    "riding": "Algoma-Manitoulin-Kapuskasing",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Anil Dasaratha",
+    "image": "",
+    "riding": "Aurora-Oak Ridges-Richmond Hill",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Stephanie Robinson",
+    "image": "https://twitter.com/stephan38337343/profile_image?size=original",
+    "riding": "Barrie-Innisfil",
+    "twitter": "https://twitter.com/stephan38337343",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "David Patterson",
+    "image": "https://twitter.com/NGIinsights/profile_image?size=original",
+    "riding": "Barrie-Springwater-Oro-Medonte",
+    "twitter": "https://twitter.com/NGIinsights",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Paul Bordonaro",
+    "image": "",
+    "riding": "Bay of Quinte",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Deborah McKenzie",
+    "image": "https://twitter.com/mckdeb4/profile_image?size=original",
+    "riding": "Beaches-East York",
+    "twitter": "https://twitter.com/mckdeb4",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Baljit Singh Bawa",
+    "image": "https://twitter.com/Bbawa/profile_image?size=original",
+    "riding": "Brampton Centre",
+    "twitter": "https://twitter.com/Bbawa",
+    "facebook": "https://www.facebook.com/baljit.bawa",
+    "website": "http://baljitbawa.ca/"
+  },
+  {
+    "name": "Gaurav Walia",
+    "image": "https://twitter.com/PoliticianWalia/profile_image?size=original",
+    "riding": "Brampton East",
+    "twitter": "https://twitter.com/PoliticianWalia",
+    "facebook": "",
+    "website": "https://gauravwalia.ca/"
+  },
+  {
+    "name": "Keith Frazer",
+    "image": "",
+    "riding": "Brampton North",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Rajwinder Ghuman",
+    "image": "",
+    "riding": "Brampton South",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ephraim Roger Sampson",
+    "image": "https://twitter.com/rogersampson13/profile_image?size=original",
+    "riding": "Brampton West",
+    "twitter": "https://twitter.com/rogersampson13",
+    "facebook": "https://www.facebook.com/vote4sampson",
+    "website": "https://www.instagram.com/ppc_brampton_west_candidate/"
+  },
+  {
+    "name": "Dave Wrobel",
+    "image": "",
+    "riding": "Brantford-Brant",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Bill Townsend",
+    "image": "https://twitter.com/Townsend_PPC/profile_image?size=original",
+    "riding": "Bruce-Grey-Owen Sound",
+    "twitter": "https://twitter.com/Townsend_PPC",
+    "facebook": "",
+    "website": "https://brucegreyowensoundppc.ca/"
+  },
+  {
+    "name": "Peter Smetana",
+    "image": "https://twitter.com/PWS4PPC/profile_image?size=original",
+    "riding": "Burlington",
+    "twitter": "https://twitter.com/PWS4PPC",
+    "facebook": "https://www.facebook.com/PWS4PPC",
+    "website": ""
+  },
+  {
+    "name": "Dr. David M. Haskell",
+    "image": "https://twitter.com/DMillardHaskell/profile_image?size=original",
+    "riding": "Cambridge",
+    "twitter": "https://twitter.com/DMillardHaskell",
+    "facebook": "https://www.youtube.com/channel/UCjHcUmnFatcsVvBJrIV8Aag",
+    "website": "https://www.davidmhaskell.com/"
+  },
+  {
+    "name": "Alain Musende",
+    "image": "",
+    "riding": "Carleton",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "John Balagtas",
+    "image": "",
+    "riding": "Chatham-Kent-Leamington",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Davenport",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "John Hendry",
+    "image": "https://twitter.com/johnhendryppc/profile_image?size=original",
+    "riding": "Don Valley East",
+    "twitter": "https://twitter.com/johnhendryppc",
+    "facebook": "",
+    "website": "https://www.johnhendry.ca/"
+  },
+  {
+    "name": "Jay Sobel",
+    "image": "",
+    "riding": "Don Valley North",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ian Prittie",
+    "image": "https://twitter.com/thereds8/profile_image?size=original",
+    "riding": "Don Valley West",
+    "twitter": "https://twitter.com/thereds8",
+    "facebook": "",
+    "website": "https://www.ppcdonvalleywest.ca/"
+  },
+  {
+    "name": "Chad Ransom",
+    "image": "https://twitter.com/ChadRansom3/profile_image?size=original",
+    "riding": "Dufferin-Caledon",
+    "twitter": "https://twitter.com/ChadRansom3",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Brenda Virtue",
+    "image": "https://twitter.com/bavirtue/profile_image?size=original",
+    "riding": "Durham",
+    "twitter": "https://twitter.com/bavirtue",
+    "facebook": "https://www.facebook.com/Vote-Brenda-Virtue-for-Durham-Riding-2267628686787937/",
+    "website": "http://brendavirtue.ca/"
+  },
+  {
+    "name": "Michael Staffieri",
+    "image": "https://twitter.com/Staff_ieri/profile_image?size=original",
+    "riding": "Eglinton-Lawrence",
+    "twitter": "https://twitter.com/Staff_ieri",
+    "facebook": "https://www.facebook.com/MichaelStaffieriCandidate",
+    "website": ""
+  },
+  {
+    "name": "Ken Gilpin",
+    "image": "",
+    "riding": "Elgin-Middlesex-London",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "William Capes",
+    "image": "https://twitter.com/BillCapes4Essex/profile_image?size=original",
+    "riding": "Essex",
+    "twitter": "https://twitter.com/BillCapes4Essex",
+    "facebook": "https://www.facebook.com/EssexPPC/",
+    "website": "https://www.essexppc.ca/candidate"
+  },
+  {
+    "name": "Nicholas Serdiuk",
+    "image": "",
+    "riding": "Etobicoke Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jude Sulejmani",
+    "image": "https://twitter.com/JudePPC/profile_image?size=original",
+    "riding": "Etobicoke-Lakeshore",
+    "twitter": "https://twitter.com/JudePPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Renata Ford",
+    "image": "https://twitter.com/RenataFordPPC/profile_image?size=original",
+    "riding": "Etobicoke North",
+    "twitter": "https://twitter.com/RenataFordPPC",
+    "facebook": "https://www.facebook.com/Renata-Ford-PPC-111553380194089/",
+    "website": "http://renataford.ca/"
+  },
+  {
+    "name": "David J. Tilden",
+    "image": "https://twitter.com/PpcTilden/profile_image?size=original",
+    "riding": "Flamborough-Glanbrook",
+    "twitter": "https://twitter.com/PpcTilden",
+    "facebook": "https://www.youtube.com/channel/UCZIVuWXKAIK6u5-q0-mavTw",
+    "website": "https://www.ppcflamglan.ca/our_candidate"
+  },
+  {
+    "name": "Jean-Jacques Desgranges",
+    "image": "",
+    "riding": "Glengarry-Prescott-Russell",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mark K. Paralovos",
+    "image": "https://twitter.com/MarkParalovos/profile_image?size=original",
+    "riding": "Guelph",
+    "twitter": "https://twitter.com/MarkParalovos",
+    "facebook": "https://www.youtube.com/user/Rivaflush/featured",
+    "website": "https://markparalovos.com/"
+  },
+  {
+    "name": "Robert Forbes",
+    "image": "https://twitter.com/FORBESPPC/profile_image?size=original",
+    "riding": "Haldimand-Norfolk",
+    "twitter": "https://twitter.com/FORBESPPC",
+    "facebook": "https://www.facebook.com/BobForbesPPCHN",
+    "website": "http://www.bobforbes.ca/"
+  },
+  {
+    "name": "Eugene C. Balfour",
+    "image": "https://twitter.com/GeneBalfourPPC/profile_image?size=original",
+    "riding": "Haliburton-Kawartha Lakes-Brock",
+    "twitter": "https://twitter.com/GeneBalfourPPC",
+    "facebook": "https://www.facebook.com/99.Gene.Balfour/",
+    "website": ""
+  },
+  {
+    "name": "Melina Mamone",
+    "image": "",
+    "riding": "Hamilton Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Charles Crocker",
+    "image": "https://twitter.com/Crownspect/profile_image?size=original",
+    "riding": "Hamilton East-Stoney Creek",
+    "twitter": "https://twitter.com/Crownspect",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Trevor Marshall Lee",
+    "image": "https://twitter.com/mrtrevorlee/profile_image?size=original",
+    "riding": "Hamilton Mountain",
+    "twitter": "https://twitter.com/mrtrevorlee",
+    "facebook": "https://www.facebook.com/Trevorleeppc/",
+    "website": ""
+  },
+  {
+    "name": "Daniel Ricottone",
+    "image": "https://twitter.com/DanielRicottone/profile_image?size=original",
+    "riding": "Hamilton West-Ancaster-Dundas",
+    "twitter": "https://twitter.com/DanielRicottone",
+    "facebook": "https://www.facebook.com/hwadppc/",
+    "website": ""
+  },
+  {
+    "name": "Adam Gray",
+    "image": "https://twitter.com/AdamLEGray1/profile_image?size=original",
+    "riding": "Hastings-Lennox and Addington",
+    "twitter": "https://twitter.com/AdamLEGray1",
+    "facebook": "https://www.facebook.com/HastingsPPC/",
+    "website": ""
+  },
+  {
+    "name": "Patrick Laflamme",
+    "image": "",
+    "riding": "Humber River-Black Creek",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Kevin M. Klerks",
+    "image": "https://twitter.com/HuronBrucePPCA/profile_image?size=original",
+    "riding": "Huron-Bruce",
+    "twitter": "https://twitter.com/HuronBrucePPCA",
+    "facebook": "https://www.facebook.com/ppc2019huronbruce/",
+    "website": "https://www.kevinmklerks.ca/"
+  },
+  {
+    "name": "Scott Miller",
+    "image": "https://twitter.com/ScottMillerPPC/profile_image?size=original",
+    "riding": "Kanata-Carleton",
+    "twitter": "https://twitter.com/ScottMillerPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Kenora",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Anton Strgacic",
+    "image": "",
+    "riding": "King-Vaughan",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Andrew F. Brooke",
+    "image": "https://twitter.com/AndyBrookeLmstn/profile_image?size=original",
+    "riding": "Kingston and the Islands",
+    "twitter": "https://twitter.com/AndyBrookeLmstn",
+    "facebook": "https://www.facebook.com/Andybrookelimestone/",
+    "website": "http://andybrooke.ca/"
+  },
+  {
+    "name": "Patrick Bernier",
+    "image": "https://twitter.com/ppcpatrick/profile_image?size=original",
+    "riding": "Kitchener Centre",
+    "twitter": "https://twitter.com/ppcpatrick",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Koltyn Wallar",
+    "image": "https://twitter.com/KWallarKitCon/profile_image?size=original",
+    "riding": "Kitchener-Conestoga",
+    "twitter": "https://twitter.com/KWallarKitCon",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Joseph Todd",
+    "image": "https://twitter.com/JosephToddPPC/profile_image?size=original",
+    "riding": "Kitchener South-Hespeler",
+    "twitter": "https://twitter.com/JosephToddPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Bria Lee Atkins",
+    "image": "https://twitter.com/i_heart_canada/profile_image?size=original",
+    "riding": "Lambton-Kent-Middlesex",
+    "twitter": "https://twitter.com/i_heart_canada",
+    "facebook": "",
+    "website": "https://www.ppclkm.ca/candidate"
+  },
+  {
+    "name": "Matthew Barton",
+    "image": "",
+    "riding": "Lanark-Frontenac-Kingston",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Evan Tennant-Hindle",
+    "image": "",
+    "riding": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Bela Kosoian",
+    "image": "",
+    "riding": "London-Fanshawe",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Dr. Salim Mansur",
+    "image": "https://twitter.com/SalimMansurLNC/profile_image?size=original",
+    "riding": "London North Centre",
+    "twitter": "https://twitter.com/SalimMansurLNC",
+    "facebook": "https://www.facebook.com/salimmansurlnc/",
+    "website": "https://ppclnc.nationbuilder.com/"
+  },
+  {
+    "name": "Michael T. J. McMullen",
+    "image": "https://twitter.com/ppclondonwest/profile_image?size=original",
+    "riding": "London West",
+    "twitter": "https://twitter.com/ppclondonwest",
+    "facebook": "",
+    "website": "http://londonppcwest.ca/"
+  },
+  {
+    "name": "Jeremy Lin",
+    "image": "",
+    "riding": "Markham-Stouffville",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Lianne Cheng",
+    "image": "",
+    "riding": "Markham-Thornhill",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sarah Chung",
+    "image": "https://twitter.com/SChungforCanada/profile_image?size=original",
+    "riding": "Markham-Unionville",
+    "twitter": "https://twitter.com/SChungforCanada",
+    "facebook": "https://www.facebook.com/electsarahchung",
+    "website": "https://sarahchungformp.ca/"
+  },
+  {
+    "name": "Percy Dastur",
+    "image": "https://twitter.com/VotePercyDastur/profile_image?size=original",
+    "riding": "Milton",
+    "twitter": "https://twitter.com/VotePercyDastur",
+    "facebook": "https://www.facebook.com/percydastur",
+    "website": "http://www.votepercydastur.ca/"
+  },
+  {
+    "name": "David Micalef",
+    "image": "https://twitter.com/DavidMicalef/profile_image?size=original",
+    "riding": "Mississauga Centre",
+    "twitter": "https://twitter.com/DavidMicalef",
+    "facebook": "",
+    "website": "https://www.davidmicalef.ca/"
+  },
+  {
+    "name": "Syed Rizvi",
+    "image": "",
+    "riding": "Mississauga East-Cooksville",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Hazar Alsabagh",
+    "image": "https://twitter.com/HazarVandermol1/profile_image?size=original",
+    "riding": "Mississauga-Erin Mills",
+    "twitter": "https://twitter.com/HazarVandermol1",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mark Kuziora",
+    "image": "",
+    "riding": "Mississauga-Lakeshore",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sheik Tahir Gora",
+    "image": "https://twitter.com/TahirGora/profile_image?size=original",
+    "riding": "Mississauga-Malton",
+    "twitter": "https://twitter.com/TahirGora",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Thomas McIver",
+    "image": "",
+    "riding": "Mississauga-Streetsville",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Azim Hooda",
+    "image": "",
+    "riding": "Nepean",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Andrew McCaughtrie",
+    "image": "https://twitter.com/mccaughtrieppc/profile_image?size=original",
+    "riding": "Newmarket-Aurora",
+    "twitter": "https://twitter.com/mccaughtrieppc",
+    "facebook": "",
+    "website": "https://www.paypal.me/ppcna"
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Niagara Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Alex Taylor",
+    "image": "",
+    "riding": "Niagara Falls",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Miles Morton",
+    "image": "https://twitter.com/ppcmorton/profile_image?size=original",
+    "riding": "Niagara West",
+    "twitter": "https://twitter.com/ppcmorton",
+    "facebook": "https://www.facebook.com/ppcmorton/",
+    "website": ""
+  },
+  {
+    "name": "Mikko Paavola",
+    "image": "https://twitter.com/paavola_mikko/profile_image?size=original",
+    "riding": "Nickel Belt",
+    "twitter": "https://twitter.com/paavola_mikko",
+    "facebook": "https://www.facebook.com/Nickelbeltppc/",
+    "website": ""
+  },
+  {
+    "name": "Mark King",
+    "image": "https://twitter.com/MarkKingPPC/profile_image?size=original",
+    "riding": "Nipissing-Timiskaming",
+    "twitter": "https://twitter.com/MarkKingPPC",
+    "facebook": "http://www.facebook.com/MarkKingPPC",
+    "website": "https://www.ppcniptim.com/candidate"
+  },
+  {
+    "name": "Frank Vaughan",
+    "image": "https://twitter.com/FPVaughanIII/profile_image?size=original",
+    "riding": "Northumberland-Peterborough South",
+    "twitter": "https://twitter.com/FPVaughanIII",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "JD Meaney",
+    "image": "https://twitter.com/Meaney4MP/profile_image?size=original",
+    "riding": "Oakville",
+    "twitter": "https://twitter.com/Meaney4MP",
+    "facebook": "https://www.facebook.com/Meaney4MPOakville/",
+    "website": "https://meaney4mpoakville.ca/"
+  },
+  {
+    "name": "Gilbert Jubinville",
+    "image": "https://twitter.com/VoteJubinville/profile_image?size=original",
+    "riding": "Oakville North-Burlington",
+    "twitter": "https://twitter.com/VoteJubinville",
+    "facebook": "https://www.facebook.com/InfraWorks",
+    "website": "http://www.votejubinville.ca/"
+  },
+  {
+    "name": "Roger Saint-Fleur",
+    "image": "https://twitter.com/DrRogerSaintFl1/profile_image?size=original",
+    "riding": "Orléans",
+    "twitter": "https://twitter.com/DrRogerSaintFl1",
+    "facebook": "https://www.facebook.com/danny.adam.18",
+    "website": ""
+  },
+  {
+    "name": "Greg Roy",
+    "image": "https://twitter.com/GregRoyPPC/profile_image?size=original",
+    "riding": "Oshawa",
+    "twitter": "https://twitter.com/GregRoyPPC",
+    "facebook": "https://www.facebook.com/GregRoyPPC",
+    "website": "https://www.gregroyppc-oshawa.ca/"
+  },
+  {
+    "name": "Merylee Sevilla",
+    "image": "https://twitter.com/MeryleeOTTCtr/profile_image?size=original",
+    "riding": "Ottawa Centre",
+    "twitter": "https://twitter.com/MeryleeOTTCtr",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Rodrigo Bolanos",
+    "image": "https://twitter.com/RodrigoAndrePPC/profile_image?size=original",
+    "riding": "Ottawa South",
+    "twitter": "https://twitter.com/RodrigoAndrePPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Paul Durst",
+    "image": "https://twitter.com/PaulGDurst/profile_image?size=original",
+    "riding": "Ottawa-Vanier",
+    "twitter": "https://twitter.com/PaulGDurst",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Serge Guevorkian",
+    "image": "https://twitter.com/PPCSerge/profile_image?size=original",
+    "riding": "Ottawa West-Nepean",
+    "twitter": "https://twitter.com/PPCSerge",
+    "facebook": "",
+    "website": "https://ppcown.000webhostapp.com/"
+  },
+  {
+    "name": "Wendy Martin",
+    "image": "https://twitter.com/rwtravellife/profile_image?size=original",
+    "riding": "Oxford",
+    "twitter": "https://twitter.com/rwtravellife",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Gregory Wycliffe",
+    "image": "https://twitter.com/gddub/profile_image?size=original",
+    "riding": "Parkdale-High Park",
+    "twitter": "https://twitter.com/gddub",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Michelle Smith",
+    "image": "https://twitter.com/mymuskokalife/profile_image?size=original",
+    "riding": "Parry Sound-Muskoka",
+    "twitter": "https://twitter.com/mymuskokalife",
+    "facebook": "https://www.facebook.com/michelleboasleylee",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Perth-Wellington",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Alexander Murphy",
+    "image": "https://twitter.com/AlexMurphyPPC/profile_image?size=original",
+    "riding": "Peterborough-Kawartha",
+    "twitter": "https://twitter.com/AlexMurphyPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Corneliu Chisu",
+    "image": "https://twitter.com/cchisu/profile_image?size=original",
+    "riding": "Pickering-Uxbridge",
+    "twitter": "https://twitter.com/cchisu",
+    "facebook": "http://www.facebook.com/corneliu.chisu",
+    "website": "http://www.electcorneliuchisu.com/"
+  },
+  {
+    "name": "David Ainsworth",
+    "image": "https://twitter.com/AinsworthPPC/profile_image?size=original",
+    "riding": "Renfrew-Nipissing-Pembroke",
+    "twitter": "https://twitter.com/AinsworthPPC",
+    "facebook": "https://www.facebook.com/PPCOfficialCandidateRNP/",
+    "website": "https://www.gofundme.com/f/renfrewnipissingpembroke-ppc?teamInvite=tM7qmDAuTPwwHjv6sBsEEcC3pue8Ca9aN81bvJM3VrD8dTLdyVeuGssxa11ty8sw&fbclid=IwAR2cx18WMO0J2RlXBuVijfOtlwG4lqD52HcohhIc6mr1-C9zbJzfPcyTm70"
+  },
+  {
+    "name": "Igor D. Tvorogov",
+    "image": "https://twitter.com/TvorogovIgor/profile_image?size=original",
+    "riding": "Richmond Hill",
+    "twitter": "https://twitter.com/TvorogovIgor",
+    "facebook": "https://www.facebook.com/igor.tvorogov",
+    "website": ""
+  },
+  {
+    "name": "Allan deRoo",
+    "image": "",
+    "riding": "St. Catharines",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Brian Everaert",
+    "image": "https://twitter.com/BrianeveraertP1/profile_image?size=original",
+    "riding": "Sarnia-Lambton",
+    "twitter": "https://twitter.com/BrianeveraertP1",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Amy Zuccato",
+    "image": "",
+    "riding": "Sault Ste. Marie",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Anthony Internicola",
+    "image": "https://twitter.com/Internicola2019/profile_image?size=original",
+    "riding": "Scarborough-Agincourt",
+    "twitter": "https://twitter.com/Internicola2019",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jeremiah Vijeyaratnam",
+    "image": "",
+    "riding": "Scarborough Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jigna Jani",
+    "image": "https://twitter.com/JIGNAJANI_PPC/profile_image?size=original",
+    "riding": "Scarborough-Guildwood",
+    "twitter": "https://twitter.com/JIGNAJANI_PPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jude Guerrier",
+    "image": "https://twitter.com/JudePPC2019/profile_image?size=original",
+    "riding": "Scarborough North",
+    "twitter": "https://twitter.com/JudePPC2019",
+    "facebook": "https://www.facebook.com/JudeforMP/",
+    "website": "https://votejude.ca/"
+  },
+  {
+    "name": "Dilano Sally",
+    "image": "https://twitter.com/SallyDilano/profile_image?size=original",
+    "riding": "Scarborough-Rouge Park",
+    "twitter": "https://twitter.com/SallyDilano",
+    "facebook": "https://www.facebook.com/DilanoSallyPPC",
+    "website": "https://dilanosally.ppcscarboroughrouge.ca/"
+  },
+  {
+    "name": "Italo Eratostene",
+    "image": "https://twitter.com/Italo4SSW/profile_image?size=original",
+    "riding": "Scarborough Southwest",
+    "twitter": "https://twitter.com/Italo4SSW",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jeff Harris",
+    "image": "https://twitter.com/TheVotersSay/profile_image?size=original",
+    "riding": "Simcoe-Grey",
+    "twitter": "https://twitter.com/TheVotersSay",
+    "facebook": "",
+    "website": "http://www.electjeff.ca/"
+  },
+  {
+    "name": "Stephen Makk",
+    "image": "https://twitter.com/MakkStephen/profile_image?size=original",
+    "riding": "Simcoe North",
+    "twitter": "https://twitter.com/MakkStephen",
+    "facebook": "",
+    "website": "https://www.ppcsimcoenorth.ca/"
+  },
+  {
+    "name": "Robert Stewart",
+    "image": "https://twitter.com/rstewartppc/profile_image?size=original",
+    "riding": "Spadina-Fort York",
+    "twitter": "https://twitter.com/rstewartppc",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sabile Trimm",
+    "image": "https://twitter.com/SabileTrimm/profile_image?size=original",
+    "riding": "Stormont-Dundas-South Glengarry",
+    "twitter": "https://twitter.com/SabileTrimm",
+    "facebook": "https://www.facebook.com/PPCSDSG/",
+    "website": "https://www.ppcsdsg.ca/"
+  },
+  {
+    "name": "Sean Paterson",
+    "image": "https://twitter.com/brokenboxpower/profile_image?size=original",
+    "riding": "Sudbury",
+    "twitter": "https://twitter.com/brokenboxpower",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Thornhill",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Andrew Hartnell",
+    "image": "https://twitter.com/andrewhartnell8/profile_image?size=original",
+    "riding": "Thunder Bay-Rainy River",
+    "twitter": "https://twitter.com/andrewhartnell8",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Youssef Khanjari",
+    "image": "",
+    "riding": "Thunder Bay-Superior North",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Renaud Roy",
+    "image": "https://twitter.com/rroytboh/profile_image?size=original",
+    "riding": "Timmins-James Bay",
+    "twitter": "https://twitter.com/rroytboh",
+    "facebook": "https://www.facebook.com/Renaud-Roy-PPC-Candidate-Timmins-James-Bay-673212216528186/",
+    "website": "http://ppctimminsjamesbay.ca/"
+  },
+  {
+    "name": "Jean-Simon Chénard",
+    "image": "https://twitter.com/masterjsc/profile_image?size=original",
+    "riding": "Toronto Centre",
+    "twitter": "https://twitter.com/masterjsc",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Tara Dos Remedios",
+    "image": "https://twitter.com/tara_dos/profile_image?size=original",
+    "riding": "Toronto-Danforth",
+    "twitter": "https://twitter.com/tara_dos",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "John Kellen",
+    "image": "",
+    "riding": "Toronto-St. Paul's",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Aran Lockwood",
+    "image": "https://twitter.com/AranLockwood/profile_image?size=original",
+    "riding": "University-Rosedale",
+    "twitter": "https://twitter.com/AranLockwood",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Domenic Montesano",
+    "image": "https://twitter.com/dmontesano_ppc/profile_image?size=original",
+    "riding": "Vaughan-Woodbridge",
+    "twitter": "https://twitter.com/dmontesano_ppc",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Erika Traub",
+    "image": "https://twitter.com/ErikaTraub1/profile_image?size=original",
+    "riding": "Waterloo",
+    "twitter": "https://twitter.com/ErikaTraub1",
+    "facebook": "https://www.facebook.com/erikatraubppc/",
+    "website": "http://www.erikatraub.ca/"
+  },
+  {
+    "name": "Sylvain Carle",
+    "image": "https://twitter.com/syl20carle/profile_image?size=original",
+    "riding": "Wellington-Halton Hills",
+    "twitter": "https://twitter.com/syl20carle",
+    "facebook": "https://www.facebook.com/Syl-Carle-Peoples-Party-candidate-for-Wellington-Halton-Hills-712504292518553/",
+    "website": "http://www.sylcarle.ca/"
+  },
+  {
+    "name": "Mirko Pejic",
+    "image": "https://twitter.com/PPCmirkopejic/profile_image?size=original",
+    "riding": "Whitby",
+    "twitter": "https://twitter.com/PPCmirkopejic",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Richard Hillier",
+    "image": "https://twitter.com/PPC_Willowdale/profile_image?size=original",
+    "riding": "Willowdale",
+    "twitter": "https://twitter.com/PPC_Willowdale",
+    "facebook": "",
+    "website": "https://ppcwillowdale.nationbuilder.com/"
+  },
+  {
+    "name": "Daniel Burr",
+    "image": "https://twitter.com/DDB66/profile_image?size=original",
+    "riding": "Windsor-Tecumseh",
+    "twitter": "https://twitter.com/DDB66",
+    "facebook": "",
+    "website": "https://windsortecumsehppc.ca/"
+  },
+  {
+    "name": "Darryl Burrell",
+    "image": "https://twitter.com/darryldoall/profile_image?size=original",
+    "riding": "Windsor West",
+    "twitter": "https://twitter.com/darryldoall",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Philip Hornak",
+    "image": "",
+    "riding": "York Centre",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "York-Simcoe",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Gerard Racine",
+    "image": "",
+    "riding": "York South-Weston",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Cardigan",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Charlottetown",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Egmont",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Malpeque",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Guillaume Lanouette",
+    "image": "",
+    "riding": "Abitibi-Baie-James-Nunavik-Eeyou",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jacques Girard",
+    "image": "",
+    "riding": "Abitibi-Témiscamingue",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Raymond Ayas",
+    "image": "https://twitter.com/RaymondAyas/profile_image?size=original",
+    "riding": "Ahuntsic-Cartierville",
+    "twitter": "https://twitter.com/RaymondAyas",
+    "facebook": "https://www.facebook.com/RaymondAyas",
+    "website": "https://ppcahuntsiccartierville.nationbuilder.com/"
+  },
+  {
+    "name": "Mathieu Couture",
+    "image": "",
+    "riding": "Alfred-Pellan",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sherwin Edwards",
+    "image": "https://twitter.com/2018Edwards/profile_image?size=original",
+    "riding": "Argenteuil-La Petite-Nation",
+    "twitter": "https://twitter.com/2018Edwards",
+    "facebook": "",
+    "website": "https://ppcapn.ca/"
+  },
+  {
+    "name": "Ross Carnahan",
+    "image": "",
+    "riding": "Avignon-La Mitis-Matane-Matapédia",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Maxime Bernier",
+    "image": "https://twitter.com/maximebernier/profile_image?size=original",
+    "riding": "Beauce",
+    "twitter": "https://twitter.com/maximebernier",
+    "facebook": "https://www.facebook.com/hon.maximebernier/",
+    "website": "https://www.peoplespartyofcanada.ca/"
+  },
+  {
+    "name": "Jean-Claude Parent Jr.",
+    "image": "",
+    "riding": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Alicia Bédard",
+    "image": "https://twitter.com/AlieBedard/profile_image?size=original",
+    "riding": "Beauport-Limoilou",
+    "twitter": "https://twitter.com/AlieBedard",
+    "facebook": "https://www.facebook.com/ABedardPPC/",
+    "website": ""
+  },
+  {
+    "name": "Richard Synnott",
+    "image": "",
+    "riding": "Bécancour-Nicolet-Saurel",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Marc Johnston",
+    "image": "",
+    "riding": "Bellechasse-Les Etchemins-Lévis",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Chloé Bernard",
+    "image": "https://twitter.com/ChloePpc/profile_image?size=original",
+    "riding": "Beloeil-Chambly",
+    "twitter": "https://twitter.com/ChloePpc",
+    "facebook": "https://www.facebook.com/chloe.bernard.319452",
+    "website": ""
+  },
+  {
+    "name": "Luc Massé",
+    "image": "",
+    "riding": "Berthier-Maskinongé",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Louis Léger",
+    "image": "https://twitter.com/LouisLger4/profile_image?size=original",
+    "riding": "Bourassa",
+    "twitter": "https://twitter.com/LouisLger4",
+    "facebook": "https://www.facebook.com/Louis-L%C3%A9ger-313576702930740/",
+    "website": ""
+  },
+  {
+    "name": "François Poulin",
+    "image": "https://twitter.com/FPoulinPPC/profile_image?size=original",
+    "riding": "Brome-Missisquoi",
+    "twitter": "https://twitter.com/FPoulinPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sam Nassif",
+    "image": "",
+    "riding": "Brossard-Saint-Lambert",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Joey Pronovost",
+    "image": "",
+    "riding": "Charlesbourg-Haute-Saint-Charles",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jeff Benoit",
+    "image": "https://twitter.com/jeffbenoitppc/profile_image?size=original",
+    "riding": "Châteauguay-Lacolle",
+    "twitter": "https://twitter.com/jeffbenoitppc",
+    "facebook": "https://www.facebook.com/profile.php?id=100028253953634",
+    "website": ""
+  },
+  {
+    "name": "Jimmy Voyer",
+    "image": "https://twitter.com/jimmyvoyer/profile_image?size=original",
+    "riding": "Chicoutimi-Le Fjord",
+    "twitter": "https://twitter.com/jimmyvoyer",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Paul Reed",
+    "image": "https://twitter.com/paul_d_reed/profile_image?size=original",
+    "riding": "Compton-Stanstead",
+    "twitter": "https://twitter.com/paul_d_reed",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Arash Torbati",
+    "image": "https://twitter.com/arashforppc/profile_image?size=original",
+    "riding": "Dorval-Lachine-LaSalle",
+    "twitter": "https://twitter.com/arashforppc",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Steeve Paquet",
+    "image": "https://twitter.com/steeve_paquet/profile_image?size=original",
+    "riding": "Drummond",
+    "twitter": "https://twitter.com/steeve_paquet",
+    "facebook": "https://www.facebook.com/SteevePaquetPPCDrummond",
+    "website": ""
+  },
+  {
+    "name": "Éric Hébert",
+    "image": "https://twitter.com/EricHbert5/profile_image?size=original",
+    "riding": "Gaspésie-Les Îles-de-la-Madeleine",
+    "twitter": "https://twitter.com/EricHbert5",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mario-Roberto Lam",
+    "image": "https://twitter.com/MarioLamPPC/profile_image?size=original",
+    "riding": "Gatineau",
+    "twitter": "https://twitter.com/MarioLamPPC",
+    "facebook": "https://www.facebook.com/mario.lam.75033",
+    "website": ""
+  },
+  {
+    "name": "Stepan Balatsko",
+    "image": "",
+    "riding": "Hochelaga",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Patrick St-Onge",
+    "image": "https://twitter.com/stonge_patrick/profile_image?size=original",
+    "riding": "Honoré-Mercier",
+    "twitter": "https://twitter.com/stonge_patrick",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Rowen Tanguay",
+    "image": "",
+    "riding": "Hull-Aylmer",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Sylvain Prescott",
+    "image": "https://twitter.com/sylvainprescott/profile_image?size=original",
+    "riding": "Joliette",
+    "twitter": "https://twitter.com/sylvainprescott",
+    "facebook": "https://www.facebook.com/sylvainprescottppc",
+    "website": ""
+  },
+  {
+    "name": "Sylvie Théodore",
+    "image": "",
+    "riding": "Jonquière",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Randy Manseau",
+    "image": "https://twitter.com/manseau_randy/profile_image?size=original",
+    "riding": "La Pointe-de-l'Île",
+    "twitter": "https://twitter.com/manseau_randy",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Anouk Benzacar",
+    "image": "",
+    "riding": "La Prairie",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Dany Boudreault",
+    "image": "",
+    "riding": "Lac-Saint-Jean",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Gary Charles",
+    "image": "https://twitter.com/garycharlesppc/profile_image?size=original",
+    "riding": "Lac-Saint-Louis",
+    "twitter": "https://twitter.com/garycharlesppc",
+    "facebook": "https://www.facebook.com/PPC-Lac-Saint-Louis-2283238101905368",
+    "website": "http://www.ppclacstlouis.com/"
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "LaSalle-Émard-Verdun",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Richard Evanko",
+    "image": "https://twitter.com/EvankoPpc/profile_image?size=original",
+    "riding": "Laurentides-Labelle",
+    "twitter": "https://twitter.com/EvankoPpc",
+    "facebook": "https://www.facebook.com/PPCLaurentidesLabelleRichardEvanko/",
+    "website": ""
+  },
+  {
+    "name": "François Lefebvre",
+    "image": "",
+    "riding": "Laurier-Sainte-Marie",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Marie-Louise Beauchamp",
+    "image": "",
+    "riding": "Laval-Les Îles",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Marc Fontaine",
+    "image": "https://twitter.com/MarcFontainePPC/profile_image?size=original",
+    "riding": "Lévis-Lotbinière",
+    "twitter": "https://twitter.com/MarcFontainePPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Henri Cousineau",
+    "image": "https://twitter.com/HenriCousineauP/profile_image?size=original",
+    "riding": "Longueuil-Charles-LeMoyne",
+    "twitter": "https://twitter.com/HenriCousineauP",
+    "facebook": "",
+    "website": "https://henricousineau.ca/"
+  },
+  {
+    "name": "Ellen Comeau",
+    "image": "",
+    "riding": "Longueuil-Saint-Hubert",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Daniel Brisson",
+    "image": "https://twitter.com/DanbQc/profile_image?size=original",
+    "riding": "Louis-Hébert",
+    "twitter": "https://twitter.com/DanbQc",
+    "facebook": "https://www.facebook.com/DanielBrissonPPC2019LouisHebert/",
+    "website": ""
+  },
+  {
+    "name": "Guillaume Labonté-Côté",
+    "image": "",
+    "riding": "Louis-Saint-Laurent",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Guillaume-Labont%C3%A9-C%C3%B4t%C3%A9-693538541104142/",
+    "website": ""
+  },
+  {
+    "name": "Jonathan Clavet",
+    "image": "",
+    "riding": "Manicouagan",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Émilio Migliozzi",
+    "image": "",
+    "riding": "Marc-Aurèle-Fortin",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Marie-Claude Lauzier",
+    "image": "",
+    "riding": "Mégantic-L'Érable",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Christian Montpetit",
+    "image": "https://twitter.com/chris_montpetit/profile_image?size=original",
+    "riding": "Mirabel",
+    "twitter": "https://twitter.com/chris_montpetit",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Julie Lavallée",
+    "image": "",
+    "riding": "Montarville",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Hugo Clenin",
+    "image": "https://twitter.com/clenin_hugo/profile_image?size=original",
+    "riding": "Montcalm",
+    "twitter": "https://twitter.com/clenin_hugo",
+    "facebook": "https://www.facebook.com/hugo.clenin",
+    "website": ""
+  },
+  {
+    "name": "Abdeljalli El-mimouni",
+    "image": "",
+    "riding": "Montmagny-L'Islet-Kamouraska-Rivière-du-Loup",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Zachary Lozoff",
+    "image": "",
+    "riding": "Mount Royal",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "André Valiquette",
+    "image": "",
+    "riding": "Notre-Dame-de-Grâce-Westmount",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/PeopleMontreal/",
+    "website": ""
+  },
+  {
+    "name": "Sabin Levesque",
+    "image": "",
+    "riding": "Outremont",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mark Sibthorpe",
+    "image": "",
+    "riding": "Papineau",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Clifford Albert",
+    "image": "",
+    "riding": "Pierre-Boucher-Les Patriotes-Verchères",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Lee Weishar",
+    "image": "https://twitter.com/LeeWeishar/profile_image?size=original",
+    "riding": "Pierrefonds-Dollard",
+    "twitter": "https://twitter.com/LeeWeishar",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mario Belec",
+    "image": "https://twitter.com/mario_belec/profile_image?size=original",
+    "riding": "Pontiac",
+    "twitter": "https://twitter.com/mario_belec",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ken Pereira",
+    "image": "https://twitter.com/kenpro11/profile_image?size=original",
+    "riding": "Portneuf-Jacques-Cartier",
+    "twitter": "https://twitter.com/kenpro11",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Bruno Dabiré",
+    "image": "https://twitter.com/gnouzaola/profile_image?size=original",
+    "riding": "Québec",
+    "twitter": "https://twitter.com/gnouzaola",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Samuel Saint-Laurent",
+    "image": "https://twitter.com/SamuelSaintLau1/profile_image?size=original",
+    "riding": "Repentigny",
+    "twitter": "https://twitter.com/SamuelSaintLau1",
+    "facebook": "https://www.facebook.com/Samuel-Saint-Laurent-641560243030366/",
+    "website": ""
+  },
+  {
+    "name": "Maximo Gytrerez Diaz",
+    "image": "",
+    "riding": "Richmond-Arthabaska",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Pierre Lacombe",
+    "image": "",
+    "riding": "Rimouski-Neigette-Témiscouata-Les Basques",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Hans Roker Jr.",
+    "image": "https://twitter.com/RokerHans/profile_image?size=original",
+    "riding": "Rivière-des-Mille-Îles",
+    "twitter": "https://twitter.com/RokerHans",
+    "facebook": "https://www.facebook.com/hans.roker",
+    "website": ""
+  },
+  {
+    "name": "Normand Michaud",
+    "image": "",
+    "riding": "Rivière-du-Nord",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Bobby Pellerin",
+    "image": "https://twitter.com/BobPellerinPPC/profile_image?size=original",
+    "riding": "Rosemont-La Petite-Patrie",
+    "twitter": "https://twitter.com/BobPellerinPPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Saint-Hyacinthe-Bagot",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Saint-Jean",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Christopher Mikus",
+    "image": "",
+    "riding": "Saint-Laurent",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/PPCSTL19/",
+    "website": ""
+  },
+  {
+    "name": "Tina Di Serio",
+    "image": "https://twitter.com/TinaDiSerio1/profile_image?size=original",
+    "riding": "Saint-Léonard-Saint-Michel",
+    "twitter": "https://twitter.com/TinaDiSerio1",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Nancy Brunelle",
+    "image": "",
+    "riding": "Saint-Maurice-Champlain",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Alain Savard",
+    "image": "",
+    "riding": "Salaberry-Suroît",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/alain.savardppc.1",
+    "website": ""
+  },
+  {
+    "name": "Mariam Sabbagh",
+    "image": "https://twitter.com/MariamSabbagh4/profile_image?size=original",
+    "riding": "Shefford",
+    "twitter": "https://twitter.com/MariamSabbagh4",
+    "facebook": "https://www.facebook.com/PPCShefford/",
+    "website": ""
+  },
+  {
+    "name": "Pierre Lanoux",
+    "image": "",
+    "riding": "Sherbrooke",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jeffrey Barnes",
+    "image": "",
+    "riding": "Terrebonne",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Désiré Mounanga",
+    "image": "",
+    "riding": "Thérèse-De Blainville",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/reverend.desire",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": "Trois-Rivières",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Kaylin Tam",
+    "image": "https://twitter.com/PpcTam/profile_image?size=original",
+    "riding": "Vaudreuil-Soulanges",
+    "twitter": "https://twitter.com/PpcTam",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Jean Langlais",
+    "image": "",
+    "riding": "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Suzanne Brunelle",
+    "image": "https://twitter.com/PpcVimy/profile_image?size=original",
+    "riding": "Vimy",
+    "twitter": "https://twitter.com/PpcVimy",
+    "facebook": "https://www.facebook.com/profile.php?id=100037497881589",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Jason MacInnis",
+    "image": "https://twitter.com/PPCJasonMac/profile_image?size=original",
+    "riding": "Battlefords-Lloydminster",
+    "twitter": "https://twitter.com/PPCJasonMac",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Cody Payant",
+    "image": "https://twitter.com/PayantCody/profile_image?size=original",
+    "riding": "Carlton Trail-Eagle Creek",
+    "twitter": "https://twitter.com/PayantCody",
+    "facebook": "https://www.facebook.com/CodyPayant/",
+    "website": "https://codypayant.ca/"
+  },
+  {
+    "name": "Lee Andrew Harding",
+    "image": "https://twitter.com/LeeHardingSK/profile_image?size=original",
+    "riding": "Cypress Hills-Grasslands",
+    "twitter": "https://twitter.com/LeeHardingSK",
+    "facebook": "https://www.facebook.com/Lee-Harding-PPC-686977178421490/",
+    "website": "https://sites.google.com/site/eternalee/"
+  },
+  {
+    "name": "Jerome Perrault",
+    "image": "",
+    "riding": "Desnethé-Missinippi-Churchill River",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Chey Craik",
+    "image": "https://twitter.com/cheycraik/profile_image?size=original",
+    "riding": "Moose Jaw-Lake Centre-Lanigan",
+    "twitter": "https://twitter.com/cheycraik",
+    "facebook": "https://www.facebook.com/Chey-Craik-Moose-Jaw-Lake-Centre-Lanigan-PPC-Candidate-312905622939649/",
+    "website": "http://www.cheycraik.ca/"
+  },
+  {
+    "name": "Kelly Day",
+    "image": "https://twitter.com/KellyRDay19/profile_image?size=original",
+    "riding": "Prince Albert",
+    "twitter": "https://twitter.com/KellyRDay19",
+    "facebook": "https://www.youtube.com/channel/UCmeZAal3f9_0h3LmYiqNCag",
+    "website": ""
+  },
+  {
+    "name": "Trevor Wowk",
+    "image": "https://twitter.com/ybitechnology/profile_image?size=original",
+    "riding": "Regina-Lewvan",
+    "twitter": "https://twitter.com/ybitechnology",
+    "facebook": "https://www.facebook.com/ReginaLewvanPPC/",
+    "website": "http://regina-lewvan.com/"
+  },
+  {
+    "name": "Tracey Sparrowhawk",
+    "image": "",
+    "riding": "Regina-Qu'Appelle",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Mario Milanovski",
+    "image": "https://twitter.com/MarioM007/profile_image?size=original",
+    "riding": "Regina-Wascana",
+    "twitter": "https://twitter.com/MarioM007",
+    "facebook": "https://www.facebook.com/PPCwascana/",
+    "website": "https://www.regina-wascana.com/regina-wascana/"
+  },
+  {
+    "name": "Mark Friesen",
+    "image": "https://twitter.com/MarkFriesen08/profile_image?size=original",
+    "riding": "Saskatoon-Grasswood",
+    "twitter": "https://twitter.com/MarkFriesen08",
+    "facebook": "https://www.youtube.com/channel/UCFOzeW9pRibydp0mWq7EtEQ",
+    "website": "https://markfriesen.ca/"
+  },
+  {
+    "name": "Guto Penteado",
+    "image": "https://twitter.com/gutopenteado/profile_image?size=original",
+    "riding": "Saskatoon-University",
+    "twitter": "https://twitter.com/gutopenteado",
+    "facebook": "https://www.facebook.com/gutopenteado/",
+    "website": "http://gutopenteado.ca/"
+  },
+  {
+    "name": "Isaac J. Hayes",
+    "image": "",
+    "riding": "Saskatoon West",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Phillip Zajac",
+    "image": "",
+    "riding": "Souris-Moose Mountain",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": "Ryan Schultz",
+    "image": "https://twitter.com/RyanSchultz_PPC/profile_image?size=original",
+    "riding": "Yorkton-Melville",
+    "twitter": "https://twitter.com/RyanSchultz_PPC",
+    "facebook": "",
+    "website": ""
+  },
+  {
+    "name": " ",
+    "image": "",
+    "riding": " ",
+    "twitter": "",
+    "facebook": "",
+    "website": ""
+  },
+  null,
+  {
+    "name": "Joseph Zelezny",
+    "image": "https://twitter.com/PpcYukon/profile_image?size=original",
+    "riding": "Yukon",
+    "twitter": "https://twitter.com/PpcYukon",
+    "facebook": "",
+    "website": "https://yukonppc.com/"
+  }
+]

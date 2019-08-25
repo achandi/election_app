@@ -1,0 +1,2693 @@
+{
+  "10001": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ken McDonald",
+      "Green Party": "Greg Malone",
+      "People's Party": "Darryl Kenney",
+      "Conservative": "Matthew Chapman"
+    }
+  },
+  "10002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Kelsey Reichel",
+      "Conservative": "Mike Windsor",
+      "Liberal": "Churence Rogers"
+    }
+  },
+  "10003": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Byron White",
+      "Liberal": "Scott Simms",
+      "Conservative": "Alex Bracci"
+    }
+  },
+  "10004": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Yvonne Jones",
+      "Conservative": "Larry Flemming"
+    }
+  },
+  "10005": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Gudie Hutchings",
+      "Green Party": "Lucas Knill"
+    }
+  },
+  "10006": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Nick Whalen",
+      "Conservative": "Joedy Wall",
+      "NDP": "Jack Harris"
+    }
+  },
+  "10007": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Terry Martin",
+      "Liberal": "Seamus O'Regan"
+    }
+  },
+  "11001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Wayne Phelan",
+      "Liberal": "Lawrence MacAulay"
+    }
+  },
+  "11002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Darcie Lanthier",
+      "Conservative": "Robert Campbell",
+      "Liberal": "Sean Casey"
+    }
+  },
+  "11003": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Logan McLellan",
+      "Liberal": "Robert Morrissey"
+    }
+  },
+  "11004": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Anna Keenan",
+      "Liberal": "Wayne Easter",
+      "Conservative": "Stephen Stewart"
+    }
+  },
+  "12001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Alfie MacLeod"
+    }
+  },
+  "12002": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Roger Mackay",
+      "Liberal": "Sean Fraser",
+      "NDP": "Betsy Macdonald",
+      "Green Party": "Barry Randle"
+    }
+  },
+  "12003": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Lenore Zann",
+      "Conservative": "Scott Armstrong",
+      "Green Party": "Jason Blanch"
+    }
+  },
+  "12004": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Emma Norton",
+      "Conservative": "Jason Cole",
+      "Liberal": "Darren Fisher",
+      "Green Party": "Lil MacPherson"
+    }
+  },
+  "12005": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Bruce Holland",
+      "NDP": "Christine Saulnier",
+      "Green Party": "Jo-Ann Roberts",
+      "Liberal": "Andy Fillmore"
+    }
+  },
+  "12006": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Fred Shuman",
+      "Liberal": "Geoff Regan",
+      "Green Party": "Richard Zurawski"
+    }
+  },
+  "12007": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Kody Blois",
+      "Green Party": "Brogan Anderson",
+      "Conservative": "Martha MacQuarrie",
+      "NDP": "Stephen Schneider"
+    }
+  },
+  "12008": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Matt Stickland",
+      "Green Party": "Anthony Edmonds",
+      "Liberal": "Darrell Samson",
+      "Conservative": "Kevin Copley"
+    }
+  },
+  "12009": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Thomas Trappenberg",
+      "Conservative": "Rick Perkins",
+      "NDP": "Jessica Hepburn",
+      "Liberal": "Bernadette Jordan"
+    }
+  },
+  "12010": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Eddie Orell",
+      "Liberal": "Jaime Battiste"
+    }
+  },
+  "12011": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Chris d'Entremont",
+      "Liberal": "Jason Deveau",
+      "Green Party": "Judy Green"
+    }
+  },
+  "13001": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Serge Cormier",
+      "Conservative": "Martine Savoie"
+    }
+  },
+  "13002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Laura Reinsborough",
+      "Liberal": "Dominic LeBlanc",
+      "People's Party": "Nancy Mercier"
+    }
+  },
+  "13003": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Matt DeCourcey",
+      "Green Party": "Jenica Atwin",
+      "Conservative": "Andrea Johnson"
+    }
+  },
+  "13004": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Alaina Lockhart",
+      "Green Party": "Timothy Thompson",
+      "Conservative": "Rob Moore"
+    }
+  },
+  "13005": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "René Arseneault",
+      "Conservative": "Nelson Fox"
+    }
+  },
+  "13006": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Pat Finnigan",
+      "Conservative": "Peggy McLean"
+    }
+  },
+  "13007": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ginette Petitpas Taylor",
+      "Conservative": "Sylvie Godin-Charest",
+      "Green Party": "Claire Kelly"
+    }
+  },
+  "13008": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "John Williamson",
+      "Green Party": "Susan Jonah",
+      "Liberal": "Karen Ludwig"
+    }
+  },
+  "13009": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Wayne Long",
+      "Conservative": "Rodney Weston"
+    }
+  },
+  "13010": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Rowan Miller",
+      "Conservative": "Richard Bragdon"
+    }
+  },
+  "24001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Martin Ferron",
+      "Bloc Québécois": "Sylvie Bérubé"
+    }
+  },
+  "24002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Aline Bégin",
+      "Bloc Québécois": "Sébastien Lemire",
+      "Conservative": "Mario Provencher",
+      "Liberal": "Claude Thibault"
+    }
+  },
+  "24003": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Jean-Michel Lavarenne",
+      "Conservative": "Kathy Laframboise",
+      "People's Party": "Raymond Ayas",
+      "Liberal": "Mélanie Joly",
+      "NDP": "Zahia El-Masri"
+    }
+  },
+  "24004": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Michel Lachance",
+      "Conservative": "Angelo Esposito",
+      "Liberal": "Angelo Iacono"
+    }
+  },
+  "24005": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Sherwin Edwards",
+      "Liberal": "Stéphane Lauzon",
+      "Bloc Québécois": "Yves Destroismaisons",
+      "Conservative": "Marie Louis-Seize"
+    }
+  },
+  "24006": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Rémi Massé",
+      "Green Party": "James Morrison",
+      "Bloc Québécois": "Kristina Michaud"
+    }
+  },
+  "24007": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Richard Lehoux",
+      "Green Party": "Josiane Fortin",
+      "People's Party": "Maxime Bernier"
+    }
+  },
+  "24008": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Antoine Bujold",
+      "People's Party": "Alicia Bédard",
+      "Bloc Québécois": "Julie Vignola",
+      "Green Party": "Dalila Elhak",
+      "Conservative": "Alupa Clarke"
+    }
+  },
+  "24009": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Pierre-André Émond",
+      "Green Party": "David Turcotte",
+      "NDP": "Nicolas Tabah"
+    }
+  },
+  "24010": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Marc Johnston",
+      "Liberal": "Laurence Harvey",
+      "Conservative": "Steven Blaney",
+      "Green Party": "André Voyer"
+    }
+  },
+  "24011": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Matthew Dubé",
+      "Bloc Québécois": "Yves-François Blanchet",
+      "Green Party": "Pierre Carrier",
+      "Liberal": "Marie-Chantal Hamel"
+    }
+  },
+  "24012": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Yves Perron",
+      "Conservative": "Josée Bélanger",
+      "Green Party": "Éric Laferrière",
+      "NDP": "Ruth Ellen Brosseau"
+    }
+  },
+  "24013": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ramez Ayoub",
+      "People's Party": "Désiré Mounanga",
+      "Conservative": "Marie Claude Fournier"
+    }
+  },
+  "24014": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Mathieu Daviault",
+      "Bloc Québécois": "Xavier Barsalou-Duval",
+      "Liberal": "Simon Chalifoux"
+    }
+  },
+  "24015": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Emmanuel Dubourg",
+      "Conservative": "Catherine Lefebvre",
+      "People's Party": "Louis Léger"
+    }
+  },
+  "24016": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "François Poulin",
+      "Conservative": "Bruno Côté",
+      "Bloc Québécois": "Monique Allard",
+      "NDP": "Sylvie Jetté"
+    }
+  },
+  "24017": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Glenn Hoa",
+      "Green Party": "Greg De Luca",
+      "People's Party": "Sam Nassif",
+      "Liberal": "Alexandra Mendès"
+    }
+  },
+  "24018": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Guy Caron",
+      "Liberal": "Chantal Pilon"
+    }
+  },
+  "24019": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Samuel Moisan-Domm",
+      "Bloc Québécois": "Alain D'Eer",
+      "Conservative": "Pierre Paul-Hus"
+    }
+  },
+  "24020": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Jean-Claude Parent",
+      "Conservative": "Sylvie Boucher"
+    }
+  },
+  "24021": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Brenda Shanahan",
+      "People's Party": "Jeff Benoit",
+      "Conservative": "Hugues Laplante"
+    }
+  },
+  "24022": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Valérie Tremblay",
+      "Green Party": "Lynda Youde",
+      "Conservative": "Richard Martel"
+    }
+  },
+  "24023": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jessy Mcneil",
+      "People's Party": "Paul Reed",
+      "Green Party": "Jean Rousseau",
+      "Liberal": "Marie-Claude Bibeau"
+    }
+  },
+  "24024": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Arash Torbati",
+      "Liberal": "Anju Dhillon",
+      "Bloc Québécois": "Jean-Frédérick Vaudry",
+      "Conservative": "Celine Laquerre",
+      "Green Party": "Réjean Malette"
+    }
+  },
+  "24025": {
+    "riding": "",
+    "candidate": {
+      "NDP": "François Choquette",
+      "People's Party": "Steeve Paquet",
+      "Bloc Québécois": "Martin Champoux",
+      "Conservative": "Jessica Ebacher"
+    }
+  },
+  "24026": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Denis Drainville",
+      "Bloc Québécois": "Guy Bernatchez",
+      "Conservative": "Jean-Pierre Pigeon",
+      "Liberal": "Diane Lebouthillier"
+    }
+  },
+  "24027": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Geneviève Nadeau",
+      "Liberal": "Steven MacKinnon",
+      "Green Party": "Guy Dostaler",
+      "Conservative": "Sylvie Goneau"
+    }
+  },
+  "24028": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Christine Marcoux",
+      "Liberal": "Soraya Martinez",
+      "NDP": "Marjolaine Boutin-Sweet",
+      "Green Party": "Robert D. Morais",
+      "Bloc Québécois": "Simon Marchand"
+    }
+  },
+  "24029": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Chu Anh Pham",
+      "Liberal": "Pablo Rodriguez",
+      "Conservative": "Guy Croteau"
+    }
+  },
+  "24030": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Greg Fergus",
+      "Conservative": "Mike Duggan"
+    }
+  },
+  "24031": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jean-Martin Masse",
+      "People's Party": "Sylvain Prescott",
+      "Liberal": "Michel Bourgeois",
+      "Bloc Québécois": "Gabriel Ste-Marie"
+    }
+  },
+  "24032": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Mario Simard",
+      "Conservative": "Philippe Gagnon",
+      "NDP": "Karine Trudel"
+    }
+  },
+  "24033": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Jonathan Plamondon",
+      "People's Party": "Randy Manseau",
+      "Conservative": "Robert Coutu"
+    }
+  },
+  "24034": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Jean-Claude Poissant",
+      "Conservative": "Isabelle Lapointe",
+      "Bloc Québécois": "Alain Therrien",
+      "Green Party": "Barbara Joanette"
+    }
+  },
+  "24035": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Richard Hébert",
+      "Bloc Québécois": "Alexis Brunelle-Duceppe",
+      "Conservative": "Jocelyn Fradette"
+    }
+  },
+  "24036": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Francis Scarpaleggia",
+      "Conservative": "Ann Francis",
+      "People's Party": "Gary Charles"
+    }
+  },
+  "24037": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Jency Mercier",
+      "Bloc Québécois": "Isabel Dion",
+      "Liberal": "David Lametti",
+      "Conservative": "Claudio Rocchi"
+    }
+  },
+  "24038": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Serge Gregoire",
+      "Liberal": "David de Burgh Graham",
+      "Bloc Québécois": "Marie-Hélène Gaudreau",
+      "People's Party": "Richard Evanko"
+    }
+  },
+  "24039": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Nimâ Machouf",
+      "Green Party": "Jamil Azzaoui",
+      "Bloc Québécois": "Michel Duchesne",
+      "Conservative": "Lise Des Grenier",
+      "Liberal": "Steven Guibeault"
+    }
+  },
+  "24040": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Nacera Bedad",
+      "Liberal": "Fayçal El-Khoury",
+      "Conservative": "Tom Pentefountas"
+    }
+  },
+  "24041": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Henri Cousineau",
+      "Conservative": "Stéphane Robichaud",
+      "Liberal": "Sherry Romanado"
+    }
+  },
+  "24042": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jacques Gourde"
+    }
+  },
+  "24043": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Patrick Clune",
+      "Green Party": "Casandra Poitras",
+      "Bloc Québécois": "Denis Trudel"
+    }
+  },
+  "24044": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Christian Hébert",
+      "Liberal": "Joël Lightbound",
+      "Green Party": "Macarena Diab",
+      "People's Party": "Daniel Brisson",
+      "Conservative": "Marie-Josée Guérette"
+    }
+  },
+  "24045": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Gérard Deltell",
+      "People's Party": "Guillaume Labonté-Côté"
+    }
+  },
+  "24046": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Marilène Gill",
+      "Green Party": "Jacques Gélineau",
+      "Liberal": "Dave Savard",
+      "Conservative": "Francois Corriveau"
+    }
+  },
+  "24047": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Luc Berthold"
+    }
+  },
+  "24048": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "François Derocher",
+      "Liberal": "Karl Trudel",
+      "People's Party": "Christian Montpetit",
+      "Bloc Québécois": "Simon Marcil"
+    }
+  },
+  "24049": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Jean-Charles Pelland",
+      "Liberal": "Michel Picard",
+      "Conservative": "Julie Sauvageau"
+    }
+  },
+  "24050": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Isabel Sayegh",
+      "Conservative": "Gisele DesRoches",
+      "Bloc Québécois": "Luc Thériault",
+      "People's Party": "Hugo Clenin"
+    }
+  },
+  "24051": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Bernard Généreux",
+      "Liberal": "Aladin Legault d'Auteuil"
+    }
+  },
+  "24052": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Clement Badra",
+      "Liberal": "Anthony Housefather",
+      "Conservative": "David Tordjam"
+    }
+  },
+  "24053": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "André Valiquette",
+      "Liberal": "Marc Garneau",
+      "Conservative": "Neil Drabkin",
+      "Green Party": "Robert Green"
+    }
+  },
+  "24054": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Daniel Green",
+      "Conservative": "Jasmine Louras",
+      "Liberal": "Rachel Bendayan"
+    }
+  },
+  "24055": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Sophie Veilleux",
+      "Liberal": "Justin Trudeau",
+      "Green Party": "Juan Vazquez"
+    }
+  },
+  "24056": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Lee Weishar",
+      "Conservative": "Mariam Ishak",
+      "Liberal": "Frank Baylis"
+    }
+  },
+  "24057": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Denise Giroux",
+      "Green Party": "Claude Bertrand",
+      "People's Party": "Mario Belec",
+      "Liberal": "William Amos",
+      "Conservative": "Dave Blackburn"
+    }
+  },
+  "24058": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Joël Godin",
+      "People's Party": "Ken Pereira"
+    }
+  },
+  "24059": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Bruno Dabiré",
+      "Liberal": "Jean-Yves Duclos",
+      "Conservative": "Bianca Boutin",
+      "Bloc Québécois": "Christiane Gagnon"
+    }
+  },
+  "24060": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Monique Pauzé",
+      "Conservative": "Pierre Branchaud",
+      "People's Party": "Samuel Saint-Laurent"
+    }
+  },
+  "24061": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Alain Rayes"
+    }
+  },
+  "24062": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Luc Desilets",
+      "People's Party": "Hans Roker Jr.",
+      "Conservative": "Maikel Mikhael",
+      "Liberal": "Linda Lapointe"
+    }
+  },
+  "24063": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Joey Leckman",
+      "Bloc Québécois": "Rhéal Fortin",
+      "Liberal": "Florence Gagnon"
+    }
+  },
+  "24064": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Claude André",
+      "Liberal": "Geneviève Hinse",
+      "NDP": "Alexandre Boulerice",
+      "Conservative": "Johanna Sarfati",
+      "Green Party": "Jean Désy"
+    }
+  },
+  "24065": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Lizabel Nitoi",
+      "Conservative": "Sonia Baudelot",
+      "Liberal": "Yves Robillard",
+      "Green Party": "Bao Tran Le"
+    }
+  },
+  "24066": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Simon-Pierre Savard-Tremblay",
+      "Liberal": "René Vincelette",
+      "Conservative": "Bernard Barré",
+      "NDP": "Brigitte Sansoucy"
+    }
+  },
+  "24067": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Jean Rioux",
+      "Conservative": "Martin Thibert",
+      "Bloc Québécois": "Christine Normandin"
+    }
+  },
+  "24068": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Emmanuella Lambropoulos",
+      "Conservative": "Richard Serour",
+      "Green Party": "Georgia Kokotsis"
+    }
+  },
+  "24069": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Tina Di Serio",
+      "Green Party": "Alessandra Szilagyi",
+      "Liberal": "Hassan Guillet",
+      "Conservative": "Ilario Maiolo"
+    }
+  },
+  "24070": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Stéphanie Dufresne",
+      "Conservative": "Bruno-Pier Courchesne",
+      "Liberal": "François-Philippe Champagne"
+    }
+  },
+  "24071": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Claude DeBellefeuille",
+      "NDP": "Joan Gottman",
+      "Liberal": "Marc Faubert",
+      "Conservative": "Cynthia Lariviere",
+      "People's Party": "Alain Savard"
+    }
+  },
+  "24072": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Pierre Breton",
+      "People's Party": "Mariam Sabbagh",
+      "NDP": "Raymonde Plamondon",
+      "Conservative": "Nathalie Clermont",
+      "Green Party": "Katherine Turgeon"
+    }
+  },
+  "24073": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Mathieu Morin",
+      "NDP": "Pierre-Luc Dusseault",
+      "Conservative": "Dany Sévigny"
+    }
+  },
+  "24074": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Cameron Stiff",
+      "Conservative": "Karen Cox",
+      "Liberal": "Peter Schiefke",
+      "NDP": "Amanda MacDonald"
+    }
+  },
+  "24075": {
+    "riding": "",
+    "candidate": {
+      "Bloc Québécois": "Michel Boudrias",
+      "Conservative": "Annie Trudel"
+    }
+  },
+  "24076": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Robert Aubin",
+      "Liberal": "Valérie Renaud-Martin",
+      "Conservative": "Yves Lévesque",
+      "Green Party": "Marie Duplessis"
+    }
+  },
+  "24077": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Michael Forian",
+      "Liberal": "Marc Miller"
+    }
+  },
+  "24078": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Rima El-Helou",
+      "Bloc Québécois": "Judi Beaulieu",
+      "People's Party": "Suzanne Brunelle"
+    }
+  },
+  "35001": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Mark Holland",
+      "Conservative": "Tom Dingwall"
+    }
+  },
+  "35002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Max Chapman",
+      "NDP": "Carol Hughes",
+      "Liberal": "Heather Wilson",
+      "Conservative": "Dave Williamson"
+    }
+  },
+  "35003": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Leah Taylor Roy",
+      "Conservative": "Leona Alleslev"
+    }
+  },
+  "35004": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "John Brassard",
+      "Green Party": "Bonnie North"
+    }
+  },
+  "35005": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Dan Janssen",
+      "Conservative": "Doug Shipley",
+      "Green Party": "Marty Lancaster"
+    }
+  },
+  "35006": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Timothy P. Durkin",
+      "People's Party": "Paul Bordonaro",
+      "NDP": "Stephanie Bell",
+      "Liberal": "Neil Ellis",
+      "Green Party": "Danny Celovsky"
+    }
+  },
+  "35007": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Mae J. Nam",
+      "Conservative": "Nadirah Nazeer",
+      "Liberal": "Nathaniel Erskine-Smith",
+      "Green Party": "Sean Manners"
+    }
+  },
+  "35008": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Pawanjit Gosal",
+      "Liberal": "Ramesh Sangha"
+    }
+  },
+  "35009": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Ramona Singh",
+      "NDP": "Saranjit Singh",
+      "Liberal": "Maninder Sidhu"
+    }
+  },
+  "35010": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Arpan Khanna",
+      "Liberal": "Ruby Sahota"
+    }
+  },
+  "35011": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Sonia Sidhu",
+      "NDP": "Mandeep Kaur",
+      "Conservative": "Ramandeep Brar"
+    }
+  },
+  "35012": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Navjit Kaur",
+      "Conservative": "Murarilal Thapliyal",
+      "Liberal": "Kamal Khera"
+    }
+  },
+  "35013": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Bob Jonkman",
+      "NDP": "Sabrina Sawyer",
+      "Conservative": "Phil McColeman",
+      "People's Party": "Rob Ferguson"
+    }
+  },
+  "35014": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Bill Townsend",
+      "NDP": "Chris Stephen",
+      "Green Party": "Danielle Valiquette",
+      "Liberal": "Michael Den Tandt",
+      "Conservative": "Alex Ruff"
+    }
+  },
+  "35015": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Gareth Williams",
+      "Liberal": "Karina Gould",
+      "NDP": "Lenaee Dupuis",
+      "Conservative": "Jane Michael"
+    }
+  },
+  "35016": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Michele Braniff",
+      "Conservative": "Sunny Attwal",
+      "NDP": "Scott Hamilton",
+      "Liberal": "Bryan May"
+    }
+  },
+  "35017": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "David Epp",
+      "Green Party": "Marc Vercouteren",
+      "Liberal": "Katie Omstead"
+    }
+  },
+  "35018": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Andrew Cash",
+      "Green Party": "Hannah Conover-Arthur",
+      "Conservative": "Sanjay Bhatia",
+      "Liberal": "Julie Dzerowicz"
+    }
+  },
+  "35019": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Nicholas Thompson",
+      "Green Party": "Dan Turcotte",
+      "Conservative": "Michael Ma",
+      "Liberal": "Yasmin Ratansi"
+    }
+  },
+  "35020": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Daniel Giavedoni",
+      "Conservative": "Sarah Fischer"
+    }
+  },
+  "35021": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Robert Oliphant",
+      "NDP": "Laurel MacDowell",
+      "Conservative": "Yvonne Robertson",
+      "Green Party": "Amanda Kistindey"
+    }
+  },
+  "35022": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Michele Fisher",
+      "Green Party": "Stefan Wiesen"
+    }
+  },
+  "35023": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Evan Price",
+      "NDP": "Sarah Whalen-Wright",
+      "Conservative": "Erin O'Toole"
+    }
+  },
+  "35024": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Alexandra Nash",
+      "Conservative": "Chani Aryeh",
+      "Liberal": "Marco Mendicino"
+    }
+  },
+  "35025": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Karen Vecchio"
+    }
+  },
+  "35026": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Chris Lewis",
+      "NDP": "Tracey Ramsey"
+    }
+  },
+  "35027": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Yvan Baker",
+      "Conservative": "Ted Opitz"
+    }
+  },
+  "35028": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Chris Caldwell",
+      "Liberal": "James Maloney",
+      "Conservative": "Barry O'Brien"
+    }
+  },
+  "35029": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Naiima Farah",
+      "Conservative": "Sarabjit Kaur",
+      "Liberal": "Kirsty Duncan"
+    }
+  },
+  "35030": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Dave Urquhart",
+      "NDP": "Allison Cillis",
+      "Liberal": "Jennifer Stebbing",
+      "Conservative": "David Sweet"
+    }
+  },
+  "35031": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Francis Drouin",
+      "Conservative": "Pierre Lemieux",
+      "NDP": "Konstantine Malakos"
+    }
+  },
+  "35032": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Aisha Jahangir",
+      "Liberal": "Lloyd Longfield",
+      "Green Party": "Steve Dyck",
+      "Conservative": "Ashish Sachan"
+    }
+  },
+  "35033": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Brooke Martin",
+      "Conservative": "Diane Finley"
+    }
+  },
+  "35034": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Barbara Doyle",
+      "Liberal": "Judi Forbes",
+      "Green Party": "Elizabeth Fraser",
+      "Conservative": "Jamie Schmale"
+    }
+  },
+  "35035": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Monica Ciriello",
+      "NDP": "Matthew Green"
+    }
+  },
+  "35036": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Bob Bratina",
+      "NDP": "Nick Milanovic",
+      "Green Party": "Peter Ormond",
+      "Conservative": "Nikki Kaur"
+    }
+  },
+  "35037": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Scott Duvall",
+      "Conservative": "Peter Dyakowski",
+      "Liberal": "Bruno Uggenti"
+    }
+  },
+  "35038": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Filomena Tassi",
+      "Green Party": "Victoria Galea",
+      "NDP": "Yousaf Malik",
+      "Conservative": "Bert Laranjo"
+    }
+  },
+  "35039": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Derek Sloan",
+      "Liberal": "Mike Bossio"
+    }
+  },
+  "35040": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Ben Lobb",
+      "Liberal": "Allan Thompson",
+      "Green Party": "Nicholas Wendler"
+    }
+  },
+  "35041": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Melissa Coenraad",
+      "Green Party": "Jennifer Purdy",
+      "Liberal": "Karen McCrimmon",
+      "Conservative": "Justina McCaffrey"
+    }
+  },
+  "35042": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Rudy Turtle",
+      "Conservative": "Eric Melillo"
+    }
+  },
+  "35043": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Deborah Schulte",
+      "Conservative": "Anna Roberts"
+    }
+  },
+  "35044": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Mark Gerretsen",
+      "Green Party": "Candice Christmas",
+      "Conservative": "Ruslan Yakoviychuk",
+      "NDP": "Barrington Walker"
+    }
+  },
+  "35045": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Mike Morrice",
+      "NDP": "Andrew Moraga",
+      "Conservative": "Stephen Woodworth",
+      "Liberal": "Raj Saini"
+    }
+  },
+  "35046": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Harold Albrecht",
+      "Liberal": "Tim Louis",
+      "Green Party": "Stephanie Goertz"
+    }
+  },
+  "35047": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Alan Keeso",
+      "Liberal": "Marwan Tabbara",
+      "Green Party": "David Weber",
+      "NDP": "Wasai Rahimi"
+    }
+  },
+  "35048": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Lianne Rood",
+      "Green Party": "Anthony Li"
+    }
+  },
+  "35049": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Scott Reid",
+      "Green Party": "Stephen Kotze",
+      "Liberal": "Kayley Kennedy"
+    }
+  },
+  "35050": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Lorraine Rekmans",
+      "Conservative": "Michael Barrett",
+      "NDP": "Michelle Taylor",
+      "Liberal": "Josh Bennett"
+    }
+  },
+  "35051": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Tom Cull",
+      "Conservative": "Michael Van Holst",
+      "NDP": "Lindsay Mathyssen"
+    }
+  },
+  "35052": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Peter Fragiskatos",
+      "NDP": "Dirka Prout",
+      "Conservative": "Sarah Bokhari",
+      "Green Party": "Carol Dyck"
+    }
+  },
+  "35053": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Liz Snelgrove",
+      "Liberal": "Kate Young",
+      "NDP": "Shawna Lewkowitz"
+    }
+  },
+  "35054": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Theodore Antony",
+      "Independent": "Jane Philpott"
+    }
+  },
+  "35055": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Mary Ng",
+      "Conservative": "Alex Yuan"
+    }
+  },
+  "35056": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Bob Saroya",
+      "Green Party": "Elvin Kao"
+    }
+  },
+  "35057": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Adam van Koeverden",
+      "Conservative": "Lisa Raitt",
+      "Green Party": "Eleanor Hayward"
+    }
+  },
+  "35058": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Hugo Reinoso",
+      "Conservative": "Milad Mikeal",
+      "Liberal": "Omar Alghabra"
+    }
+  },
+  "35059": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Wladyslaw Lizon",
+      "Liberal": "Peter Fonseca"
+    }
+  },
+  "35060": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Hani Tawfilis",
+      "Liberal": "Iqra Khalid"
+    }
+  },
+  "35061": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Cynthia Trentelman",
+      "Liberal": "Sven Spengemann",
+      "Conservative": "Stella Ambler"
+    }
+  },
+  "35062": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Tom Varughese",
+      "Liberal": "Navdeep Bains",
+      "NDP": "Nikki Clarke"
+    }
+  },
+  "35063": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Chris Hill",
+      "Conservative": "Ghada Melek",
+      "Liberal": "Gagan Sikand"
+    }
+  },
+  "35064": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Chandra Arya",
+      "Green Party": "Jean-Luc Cooke",
+      "Conservative": "Brian St. Louis"
+    }
+  },
+  "35065": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Tony Van Bynen",
+      "NDP": "Yvonne Kelly",
+      "Green Party": "Walter Bauer",
+      "Conservative": "Lois Brown"
+    }
+  },
+  "35066": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Malcom Allen",
+      "Green Party": "Michael Tomaino",
+      "Liberal": "Vance Badawey",
+      "Conservative": "April Jeffs"
+    }
+  },
+  "35067": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Brian Barker",
+      "Green Party": "Sandra O'Connor",
+      "Liberal": "Andrea Kaiser",
+      "Conservative": "Tony Baldinelli"
+    }
+  },
+  "35068": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ian Bingham",
+      "Green Party": "Terry Teather",
+      "Conservative": "Dean Allison"
+    }
+  },
+  "35069": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Aino Laamanen",
+      "NDP": "Stef Paquette",
+      "Liberal": "Marc Serré"
+    }
+  },
+  "35070": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Anthony Rota",
+      "Conservative": "Jordy Carr"
+    }
+  },
+  "35071": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Philip Lawrence",
+      "Liberal": "Kim Rudd",
+      "Green Party": "Jeff Wheeldon"
+    }
+  },
+  "35072": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Anita Anand",
+      "Conservative": "Terence Young",
+      "NDP": "Jerome Adamo"
+    }
+  },
+  "35073": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Mithu Valika",
+      "Liberal": "Pam Damoff",
+      "Conservative": "Sean Weir"
+    }
+  },
+  "35074": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Colin Carrie",
+      "Green Party": "Jovannah Ramsden"
+    }
+  },
+  "35075": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Carol Clemenhagen",
+      "Liberal": "Catherine McKenna",
+      "Green Party": "Angela Keller-Herzog",
+      "NDP": "Emilie Taman"
+    }
+  },
+  "35076": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Jacqueline Wiens",
+      "Conservative": "David Bertschi",
+      "Green Party": "Michelle Petersen"
+    }
+  },
+  "35077": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Morgan Gay",
+      "Green Party": "Leslie Schram",
+      "Conservative": "Eli Tannis",
+      "Liberal": "David McGuinty"
+    }
+  },
+  "35078": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Stéphanie Mercier",
+      "Liberal": "Mona Fortier",
+      "Conservative": "Joel Bernard"
+    }
+  },
+  "35079": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Dave Stibbe",
+      "NDP": "Angella MacEwen",
+      "Liberal": "Anita Vandenbeld"
+    }
+  },
+  "35080": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Dave MacKenzie",
+      "Green Party": "Lisa Birtch-Carriere",
+      "NDP": "Matthew Chambers"
+    }
+  },
+  "35081": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Adam Pham",
+      "NDP": "Paul Taylor",
+      "Liberal": "Arif Virani",
+      "Green Party": "Nick Capra"
+    }
+  },
+  "35082": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Tom Young",
+      "Green Party": "Gord Miller",
+      "Conservative": "Scott Aitchison",
+      "Liberal": "Trisha Cowie"
+    }
+  },
+  "35083": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Collan Simmons",
+      "Liberal": "Pirie Mitchell",
+      "NDP": "Geoff Krauter",
+      "Conservative": "John Nater"
+    }
+  },
+  "35084": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Candace Shaw",
+      "Conservative": "Michael Skinner",
+      "Liberal": "Maryam Monsef"
+    }
+  },
+  "35085": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Cyma Musarat",
+      "Liberal": "Jennifer O'Connell"
+    }
+  },
+  "35086": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Cheryl Gallant",
+      "Green Party": "Ian Pineau",
+      "Liberal": "Ruben Marini"
+    }
+  },
+  "35087": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Majid Jowhari",
+      "Conservative": "Costas Menegakis"
+    }
+  },
+  "35088": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Pierre Poilievre",
+      "NDP": "Kevin Hua",
+      "Liberal": "Chris Rogers",
+      "Green Party": "Gordon Kubanek"
+    }
+  },
+  "35089": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Krystina Waler",
+      "Liberal": "Chris Bittle",
+      "NDP": "Dennis Van Meer"
+    }
+  },
+  "35090": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jae Truesdell",
+      "Liberal": "Carolyn Bennett"
+    }
+  },
+  "35091": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Carmen Lemieux",
+      "Green Party": "Peter Smith",
+      "Conservative": "Marilyn Gladu",
+      "NDP": "Adam Kilner"
+    }
+  },
+  "35092": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Terry Sheehan",
+      "Conservative": "Sony Spina",
+      "NDP": "Sara McCleary"
+    }
+  },
+  "35093": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Jean Yip",
+      "Conservative": "Sean Hu"
+    }
+  },
+  "35094": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Irshad Chaudhry",
+      "Liberal": "Salma Zahid"
+    }
+  },
+  "35095": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Quintus Thuraisingham",
+      "Liberal": "John McKay"
+    }
+  },
+  "35096": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Shaun Chen",
+      "Conservative": "David Kong",
+      "NDP": "Yan Chen"
+    }
+  },
+  "35097": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Jessica Hamilton",
+      "Liberal": "Gary Anandasangaree",
+      "Conservative": "Bobby Singh"
+    }
+  },
+  "35098": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Kimberly Fawcett",
+      "Liberal": "Bill Blair",
+      "Green Party": "Amanda Cain"
+    }
+  },
+  "35099": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Terry Dowdall",
+      "Liberal": "Lorne Kenney",
+      "Green Party": "Sherri Jackson"
+    }
+  },
+  "35100": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Gerry Hawes",
+      "Conservative": "Bruce Stanton",
+      "Green Party": "Erik Schomann"
+    }
+  },
+  "35101": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Adam Vaughan",
+      "NDP": "Diana Yoon",
+      "Green Party": "Dean Maher",
+      "Conservative": "Frank Fang"
+    }
+  },
+  "35102": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Raheem Aman",
+      "Conservative": "Eric Duncan"
+    }
+  },
+  "35103": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Pierre St-Amant",
+      "Liberal": "Paul Lefebvre"
+    }
+  },
+  "35104": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Peter Kent",
+      "Liberal": "Gary Gladstone"
+    }
+  },
+  "35105": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Linda Rydholm",
+      "NDP": "Yuk-Sem Won",
+      "Liberal": "Marcus Powlowski"
+    }
+  },
+  "35106": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Anna Achneepineskum",
+      "Conservative": "Frank Pullia",
+      "Liberal": "Patty Hajdu"
+    }
+  },
+  "35107": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Charlie Angus",
+      "Liberal": "Michelle Boileau",
+      "Conservative": "Kraymr Grenke"
+    }
+  },
+  "35108": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Annamie Paul",
+      "Conservative": "Ryan Lester",
+      "NDP": "Brian Chang",
+      "Liberal": "Bill Morneau"
+    }
+  },
+  "35109": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Zia Choudhary",
+      "Liberal": "Julie Dabrusin",
+      "Green Party": "Chris Trolley",
+      "NDP": "Min Sook Lee"
+    }
+  },
+  "35110": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Chrystia Freeland",
+      "Green Party": "Tim Grant",
+      "Conservative": "Helen-Claire Tingling"
+    }
+  },
+  "35111": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Francesco Sorbara",
+      "Conservative": "Teresa Kruze",
+      "Green Party": "Raquel Fronte"
+    }
+  },
+  "35112": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Lori Campbell",
+      "Liberal": "Bardish Chagger",
+      "Conservative": "Jerry Zhang",
+      "Green Party": "Kirsten Wright"
+    }
+  },
+  "35113": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Michael Chong",
+      "Green Party": "Ralph Martin",
+      "Liberal": "Lesley Barron"
+    }
+  },
+  "35114": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Todd McCarthy"
+    }
+  },
+  "35115": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ali Ehsassi",
+      "Conservative": "Daniel Lee"
+    }
+  },
+  "35116": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Cheryl Hardcastle",
+      "Conservative": "Leo Demarce"
+    }
+  },
+  "35117": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Brian Masse",
+      "Conservative": "Henry Lau",
+      "Green Party": "Quinn Hunt"
+    }
+  },
+  "35118": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Romana Lyon",
+      "NDP": "Andrea Vásquez Jiménez",
+      "Conservative": "Rachel Willson",
+      "Liberal": "Michael Levitt"
+    }
+  },
+  "35119": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Jessa McLean",
+      "Conservative": "Scot Davidson"
+    }
+  },
+  "35120": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jasveen Rattan",
+      "Liberal": "Ahmed Hussen",
+      "NDP": "Yafet Tewelde"
+    }
+  },
+  "35121": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Iftikhar Choudry",
+      "Green Party": "Mike Schmitz",
+      "Liberal": "Judy A. Sgro"
+    }
+  },
+  "46001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Larry Maguire",
+      "People's Party": "Rebecca Hein",
+      "Green Party": "Bill Tiessen"
+    }
+  },
+  "46002": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Ken St. George",
+      "Liberal": "Doug Eyolfson",
+      "Conservative": "Marty Morantz",
+      "Green Party": "Kevin Nichols"
+    }
+  },
+  "46003": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Niki Ashton",
+      "Liberal": "Judy Klassen",
+      "Conservative": "Cyara Bird",
+      "Green Party": "Ralph McLean"
+    }
+  },
+  "46004": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Katharine Storey",
+      "Conservative": "Dan Mazier"
+    }
+  },
+  "46005": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Daniel Blaikie",
+      "Conservative": "Lawrence Toet",
+      "Liberal": "Jennifer Malabar"
+    }
+  },
+  "46006": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Raquel Dancho",
+      "NDP": "Evan Krosney",
+      "Liberal": "Maryann Mihychuk"
+    }
+  },
+  "46007": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Ken Werbiski",
+      "Green Party": "Beverley Eert",
+      "Conservative": "Candice Bergen"
+    }
+  },
+  "46008": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Janine Gibson",
+      "Conservative": "Ted Falk"
+    }
+  },
+  "46009": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Dan Vandal",
+      "Green Party": "Ben Linnick",
+      "Conservative": "Rejeanne Caron"
+    }
+  },
+  "46010": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "James Bezan",
+      "Green Party": "William James"
+    }
+  },
+  "46011": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Robert-Falcon Ouellette",
+      "Green Party": "Andrea Shalay",
+      "NDP": "Leah Gazan",
+      "Conservative": "Ryan Dyck"
+    }
+  },
+  "46012": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Cameron Ogilvie",
+      "NDP": "Kyle Mason",
+      "Liberal": "Kevin Lamoureux"
+    }
+  },
+  "46013": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Paul Bettess",
+      "Liberal": "Terry Duguid",
+      "Conservative": "Melanie Maher"
+    }
+  },
+  "46014": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "James Beddome",
+      "Liberal": "Jim Carr"
+    }
+  },
+  "47001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Rosemarie Falk"
+    }
+  },
+  "47002": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jeremy Patzer"
+    }
+  },
+  "47003": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Tammy Cook-Searson",
+      "Conservative": "Gary Vidal",
+      "NDP": "Georgina Jolibois",
+      "Green Party": "Sarah Kraynick"
+    }
+  },
+  "47004": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Kelly Block"
+    }
+  },
+  "47005": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Tom Lukiwski",
+      "NDP": "Talon Regent"
+    }
+  },
+  "47006": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Randy Hoback",
+      "Liberal": "Estelle Hjertaas"
+    }
+  },
+  "47007": {
+    "riding": "",
+    "candidate": {
+      "Independent": "Erin Weir",
+      "NDP": "Jigar Patel",
+      "Liberal": "Winter Fedyk",
+      "Conservative": "Warren Steinley",
+      "Green Party": "Naomi Hunter"
+    }
+  },
+  "47008": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Andrew Scheer",
+      "Green Party": "Dale Dewar"
+    }
+  },
+  "47009": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Michael Kram",
+      "Liberal": "Ralph Goodale"
+    }
+  },
+  "47010": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Tracy Muggli",
+      "Conservative": "Kevin Waugh"
+    }
+  },
+  "47011": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Susan Hayton",
+      "Conservative": "Corey Tochor",
+      "NDP": "Claire Card",
+      "Green Party": "Jan Norris"
+    }
+  },
+  "47012": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Brad Redekopp",
+      "NDP": "Sheri Benson",
+      "Green Party": "Shawn Setyo"
+    }
+  },
+  "47013": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Robert Kitchen"
+    }
+  },
+  "47014": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Cathay Wagantall"
+    }
+  },
+  "48001": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Nadine Wellwood",
+      "Green Party": "Austin Mullins",
+      "Independent": "Nick Flaumitsch",
+      "Conservative": "Blake Richards"
+    }
+  },
+  "48002": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Damien C. Kurek"
+    }
+  },
+  "48003": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Martin Shields"
+    }
+  },
+  "48004": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Thana Boonlert",
+      "Liberal": "Kent Hehr",
+      "Conservative": "Greg McLean"
+    }
+  },
+  "48005": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Len Webber",
+      "Liberal": "Jordan Stein",
+      "Green Party": "Natalie Odd"
+    }
+  },
+  "48006": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "William Carnegie"
+    }
+  },
+  "48007": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Bob Benzen"
+    }
+  },
+  "48008": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Stephanie Kusie"
+    }
+  },
+  "48009": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Michelle Rempel"
+    }
+  },
+  "48010": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Pat Kelly",
+      "Green Party": "Catriona Wright",
+      "Liberal": "Todd Kathol"
+    }
+  },
+  "48011": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Tom Kmiec"
+    }
+  },
+  "48012": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Ron Liepert"
+    }
+  },
+  "48013": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jagdeep Kaur Sahota",
+      "Independent": "Darshan Singh Kang"
+    }
+  },
+  "48014": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "James Cumming",
+      "NDP": "Katherine Swampy",
+      "Liberal": "Randy Boissonnault",
+      "Green Party": "Grad Murray"
+    }
+  },
+  "48015": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Kerry Diotte"
+    }
+  },
+  "48016": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Ziad Aboultaif",
+      "Liberal": "Kamal Elkadri"
+    }
+  },
+  "48017": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Tanya Herbert",
+      "Conservative": "Tim Uppal",
+      "Liberal": "Amarjeet Sohi"
+    }
+  },
+  "48018": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Valerie Kennedy",
+      "Conservative": "Matt Jeneroux"
+    }
+  },
+  "48019": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Eleanor Olszewski",
+      "Conservative": "Sam Lilly",
+      "NDP": "Heather McPherson"
+    }
+  },
+  "48020": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Patrick Steuber",
+      "Liberal": "Kerrie Johnston",
+      "Conservative": "Kelly McCauley"
+    }
+  },
+  "48021": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Mike Lake"
+    }
+  },
+  "48022": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "John Barlow"
+    }
+  },
+  "48023": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "David Yurdiga"
+    }
+  },
+  "48024": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Chris Warkentin"
+    }
+  },
+  "48025": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Shannon Stubbs"
+    }
+  },
+  "48026": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Amy Bronson",
+      "Conservative": "Rachael Harder",
+      "NDP": "Shandi Bleiken"
+    }
+  },
+  "48027": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Glen Motz"
+    }
+  },
+  "48028": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Arnold Viersen"
+    }
+  },
+  "48029": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Earl Dreeshen",
+      "Green Party": "Conner Borlé"
+    }
+  },
+  "48030": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Desmond Bull",
+      "Conservative": "Blaine Calkins"
+    }
+  },
+  "48031": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Michael Cooper"
+    }
+  },
+  "48032": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Garnett Genuis"
+    }
+  },
+  "48033": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Dane Lloyd",
+      "Green Party": "Cass Romyn"
+    }
+  },
+  "48034": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Garald Soroka"
+    }
+  },
+  "59001": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Ed Fast",
+      "NDP": "Madeleine Sauvé"
+    }
+  },
+  "59002": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Amita Kuttner",
+      "NDP": "Svend Robinson",
+      "Liberal": "Terry Beech"
+    }
+  },
+  "59003": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Jay Shin",
+      "Green Party": "Brennan Wauters",
+      "NDP": "Jagmeet Singh"
+    }
+  },
+  "59004": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Mackenzie Kerr",
+      "Conservative": "Todd Doherty",
+      "Liberal": "Tracy Calogheros"
+    }
+  },
+  "59005": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Mary Ann Murphy",
+      "People's Party": "Brynn Jones",
+      "Conservative": "Dan Albas",
+      "NDP": "Joan Philip",
+      "Green Party": "Robert Mellalieu"
+    }
+  },
+  "59006": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Mark Strahl",
+      "People's Party": "Rob Bogunovic",
+      "Green Party": "Arthur Green"
+    }
+  },
+  "59007": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Tamara Jansen",
+      "Liberal": "John Aldag"
+    }
+  },
+  "59008": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Nicholas Insley",
+      "NDP": "Christina Gower",
+      "Liberal": "Ron McKinnon",
+      "Green Party": "Brad Nickason"
+    }
+  },
+  "59009": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Sean Wood",
+      "Conservative": "Byron Horner",
+      "NDP": "Gord Johns"
+    }
+  },
+  "59010": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Alistair MacGregor",
+      "Green Party": "Lydia Hwitsum"
+    }
+  },
+  "59011": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Craig DeCraene",
+      "Liberal": "Carla Qualtrough",
+      "NDP": "Randy Anderson-Fennell"
+    }
+  },
+  "59012": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Annie Ohana",
+      "Green Party": "Tanya Baertl",
+      "Conservative": "Shinder Purewal",
+      "Liberal": "Ken Hardie"
+    }
+  },
+  "59013": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Terry Lake",
+      "NDP": "Gina Myhill-Jones",
+      "Conservative": "Cathy McLeod",
+      "Green Party": "Iain Currie"
+    }
+  },
+  "59014": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Stephen Fuhr",
+      "NDP": "Justin Kulik",
+      "Conservative": "Tracy Gray"
+    }
+  },
+  "59015": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Rob Morrison",
+      "Green Party": "Abra Brynne",
+      "People's Party": "Richard Stewart",
+      "NDP": "Wayne Stetski"
+    }
+  },
+  "59016": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Leon Jensen",
+      "Green Party": "Kaija Farstad",
+      "NDP": "Stacey Wakelin",
+      "Conservative": "Tako van Popta"
+    }
+  },
+  "59017": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Jati Sidhu",
+      "Green Party": "John Kidder",
+      "Conservative": "Brad Vis"
+    }
+  },
+  "59018": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "John Hirst",
+      "Green Party": "Paul Manly",
+      "Liberal": "Michelle Corfield",
+      "People's Party": "Jennifer Clarke",
+      "NDP": "Bob Chamberlin"
+    }
+  },
+  "59019": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Megan Veck",
+      "Green Party": "Suzanne De Montigny",
+      "NDP": "Peter Julian"
+    }
+  },
+  "59020": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Marc Reinarz",
+      "People's Party": "Kyle Delfing",
+      "Liberal": "Cindy Derkaz",
+      "NDP": "Harwinder Sandhu",
+      "Conservative": "Mel Arnold"
+    }
+  },
+  "59021": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "George Orr",
+      "Liberal": "Jonathan Wilkinson",
+      "NDP": "Justine Bell"
+    }
+  },
+  "59022": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Dan Ruimy",
+      "Conservative": "Marc Dalton"
+    }
+  },
+  "59023": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Bonita Zarrillo",
+      "Liberal": "Sara Badiei",
+      "Green Party": "Bryce Watts"
+    }
+  },
+  "59024": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Bob Zimmer"
+    }
+  },
+  "59025": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Ivan Pak",
+      "Conservative": "Alice Wong"
+    }
+  },
+  "59026": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "David Merner",
+      "Conservative": "Randall Pewarchuk",
+      "Liberal": "Jamie Hammond",
+      "NDP": "Randall Garrison",
+      "People's Party": "Josh Steffler"
+    }
+  },
+  "59027": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Sabina Singh",
+      "Conservative": "David Busch",
+      "Liberal": "Ryan Windsor",
+      "Green Party": "Elizabeth May"
+    }
+  },
+  "59028": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Rodney Taylor",
+      "Liberal": "Dave Birdi",
+      "NDP": "Taylor Bachrach",
+      "Conservative": "Claire Rattée"
+    }
+  },
+  "59029": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Helena Konanz",
+      "Green Party": "Tara Howse",
+      "NDP": "Richard Cannings",
+      "Liberal": "Connie Denesiuk"
+    }
+  },
+  "59030": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Gordie Hogg",
+      "Conservative": "Kerry-Lynne Findley",
+      "Green Party": "Beverly Hobby"
+    }
+  },
+  "59031": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Joe Peschisolido",
+      "Conservative": "Kenny Chiu"
+    }
+  },
+  "59032": {
+    "riding": "",
+    "candidate": {
+      "People's Party": "Jaswinder Dilawari",
+      "Conservative": "Tina Bains",
+      "Liberal": "Randeep Sarai",
+      "NDP": "Sarjit Saran"
+    }
+  },
+  "59033": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Sukh Dhaliwal",
+      "Conservative": "Harpreet Singh",
+      "NDP": "Harjit Singh Gill"
+    }
+  },
+  "59034": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Hedy Fry",
+      "Conservative": "David Cavey",
+      "Green Party": "Jesse Brown"
+    }
+  },
+  "59035": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Bridget Burns",
+      "NDP": "Jenny Kwan",
+      "People's Party": "Karin Litzcke"
+    }
+  },
+  "59036": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Zach Segal",
+      "Green Party": "Louise Boutin",
+      "Liberal": "Taleeb Noormohamed",
+      "NDP": "Yvonne Hanson",
+      "Independent": "Jody Wilson-Raybould"
+    }
+  },
+  "59037": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Rachel Blaney",
+      "Liberal": "Peter Schwarzhoff",
+      "Green Party": "Mark de Bruijn",
+      "People's Party": "Peter Marcin",
+      "Conservative": "Shelley Downey"
+    }
+  },
+  "59038": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Helen Quan",
+      "Liberal": "Tamara Taggart",
+      "NDP": "Don Davies",
+      "People's Party": "Ian Torn",
+      "Green Party": "Lawrence Taylor"
+    }
+  },
+  "59039": {
+    "riding": "",
+    "candidate": {
+      "Green Party": "Geoff Wright",
+      "NDP": "Leigh Kenny",
+      "Conservative": "Kathleen Dixon",
+      "Liberal": "Joyce Murray"
+    }
+  },
+  "59040": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Harjit S. Sajjan",
+      "Conservative": "Wai Young",
+      "Green Party": "Judith Zaichkowsky",
+      "People's Party": "Alain Deng"
+    }
+  },
+  "59041": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Richard Caron",
+      "NDP": "Laurel Collins",
+      "Green Party": "Racelle Kooy"
+    }
+  },
+  "59042": {
+    "riding": "",
+    "candidate": {
+      "Conservative": "Gabrielle Loren",
+      "People's Party": "Robert Bebb",
+      "Green Party": "Dana Taylor"
+    }
+  },
+  "60001": {
+    "riding": "",
+    "candidate": {
+      "NDP": "Justin Lemphers",
+      "Conservative": "Jonas Smith",
+      "Liberal": "Larry Bagnell"
+    }
+  },
+  "61001": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Michael McLeod",
+      "Conservative": "Yanik D'Aigle"
+    }
+  },
+  "62001": {
+    "riding": "",
+    "candidate": {
+      "Liberal": "Megan Pizzo Lyall",
+      "Independent": "Hunter Tootoo",
+      "Conservative": "Leona Aglukkaq"
+    }
+  }
+}

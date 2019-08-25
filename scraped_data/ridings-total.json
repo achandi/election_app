@@ -1,0 +1,1692 @@
+[
+  {
+    "id": 0,
+    "riding": "Abbotsford",
+    "province": "British Columbia"
+  },
+  {
+    "id": 1,
+    "riding": "Abitibi-Baie-James-Nunavik-Eeyou",
+    "province": "Quebec"
+  },
+  {
+    "id": 2,
+    "riding": "Abitibi-Témiscamingue",
+    "province": "Quebec"
+  },
+  {
+    "id": 3,
+    "riding": "Acadie-Bathurst",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 4,
+    "riding": "Ahuntsic-Cartierville",
+    "province": "Quebec"
+  },
+  {
+    "id": 5,
+    "riding": "Ajax",
+    "province": "Ontario"
+  },
+  {
+    "id": 6,
+    "riding": "Alfred-Pellan",
+    "province": "Quebec"
+  },
+  {
+    "id": 7,
+    "riding": "Algoma-Manitoulin-Kapuskasing",
+    "province": "Ontario"
+  },
+  {
+    "id": 8,
+    "riding": "Argenteuil-La Petite-Nation",
+    "province": "Quebec"
+  },
+  {
+    "id": 9,
+    "riding": "Aurora-Oak Ridges-Richmond Hill",
+    "province": "Ontario"
+  },
+  {
+    "id": 10,
+    "riding": "Avalon",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 11,
+    "riding": "Avignon-La Mitis-Matane-Matapédia",
+    "province": "Quebec"
+  },
+  {
+    "id": 12,
+    "riding": "Banff-Airdrie",
+    "province": "Alberta"
+  },
+  {
+    "id": 13,
+    "riding": "Barrie-Innisfil",
+    "province": "Ontario"
+  },
+  {
+    "id": 14,
+    "riding": "Barrie-Springwater-Oro-Medonte",
+    "province": "Ontario"
+  },
+  {
+    "id": 15,
+    "riding": "Battle River-Crowfoot",
+    "province": "Alberta"
+  },
+  {
+    "id": 16,
+    "riding": "Battlefords-Lloydminster",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 17,
+    "riding": "Bay of Quinte",
+    "province": "Ontario"
+  },
+  {
+    "id": 18,
+    "riding": "Beaches-East York",
+    "province": "Ontario"
+  },
+  {
+    "id": 19,
+    "riding": "Beauce",
+    "province": "Quebec"
+  },
+  {
+    "id": 20,
+    "riding": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+    "province": "Quebec"
+  },
+  {
+    "id": 21,
+    "riding": "Beauport-Limoilou",
+    "province": "Quebec"
+  },
+  {
+    "id": 22,
+    "riding": "Beauséjour",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 23,
+    "riding": "Bellechasse-Les Etchemins-Lévis",
+    "province": "Quebec"
+  },
+  {
+    "id": 24,
+    "riding": "Beloeil-Chambly",
+    "province": "Quebec"
+  },
+  {
+    "id": 25,
+    "riding": "Berthier-Maskinongé",
+    "province": "Quebec"
+  },
+  {
+    "id": 26,
+    "riding": "Bonavista-Burin-Trinity",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 27,
+    "riding": "Bourassa",
+    "province": "Quebec"
+  },
+  {
+    "id": 28,
+    "riding": "Bow River",
+    "province": "Alberta"
+  },
+  {
+    "id": 29,
+    "riding": "Brampton Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 30,
+    "riding": "Brampton East",
+    "province": "Ontario"
+  },
+  {
+    "id": 31,
+    "riding": "Brampton North",
+    "province": "Ontario"
+  },
+  {
+    "id": 32,
+    "riding": "Brampton South",
+    "province": "Ontario"
+  },
+  {
+    "id": 33,
+    "riding": "Brampton West",
+    "province": "Ontario"
+  },
+  {
+    "id": 34,
+    "riding": "Brandon-Souris",
+    "province": "Manitoba"
+  },
+  {
+    "id": 35,
+    "riding": "Brantford-Brant",
+    "province": "Ontario"
+  },
+  {
+    "id": 36,
+    "riding": "Brome-Missisquoi",
+    "province": "Quebec"
+  },
+  {
+    "id": 37,
+    "riding": "Brossard-Saint-Lambert",
+    "province": "Quebec"
+  },
+  {
+    "id": 38,
+    "riding": "Bruce-Grey-Owen Sound",
+    "province": "Ontario"
+  },
+  {
+    "id": 39,
+    "riding": "Burlington",
+    "province": "Ontario"
+  },
+  {
+    "id": 40,
+    "riding": "Burnaby North-Seymour",
+    "province": "British Columbia"
+  },
+  {
+    "id": 41,
+    "riding": "Burnaby South",
+    "province": "British Columbia"
+  },
+  {
+    "id": 42,
+    "riding": "Bécancour-Nicolet-Saurel",
+    "province": "Quebec"
+  },
+  {
+    "id": 43,
+    "riding": "Calgary Centre",
+    "province": "Alberta"
+  },
+  {
+    "id": 44,
+    "riding": "Calgary Confederation",
+    "province": "Alberta"
+  },
+  {
+    "id": 45,
+    "riding": "Calgary Forest Lawn",
+    "province": "Alberta"
+  },
+  {
+    "id": 46,
+    "riding": "Calgary Heritage",
+    "province": "Alberta"
+  },
+  {
+    "id": 47,
+    "riding": "Calgary Midnapore",
+    "province": "Alberta"
+  },
+  {
+    "id": 48,
+    "riding": "Calgary Nose Hill",
+    "province": "Alberta"
+  },
+  {
+    "id": 49,
+    "riding": "Calgary Rocky Ridge",
+    "province": "Alberta"
+  },
+  {
+    "id": 50,
+    "riding": "Calgary Shepard",
+    "province": "Alberta"
+  },
+  {
+    "id": 51,
+    "riding": "Calgary Signal Hill",
+    "province": "Alberta"
+  },
+  {
+    "id": 52,
+    "riding": "Calgary Skyview",
+    "province": "Alberta"
+  },
+  {
+    "id": 53,
+    "riding": "Cambridge",
+    "province": "Ontario"
+  },
+  {
+    "id": 54,
+    "riding": "Cape Breton-Canso",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 55,
+    "riding": "Cardigan",
+    "province": "Prince Edward Island"
+  },
+  {
+    "id": 56,
+    "riding": "Cariboo-Prince George",
+    "province": "British Columbia"
+  },
+  {
+    "id": 57,
+    "riding": "Carleton",
+    "province": "Ontario"
+  },
+  {
+    "id": 58,
+    "riding": "Carlton Trail-Eagle Creek",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 59,
+    "riding": "Central Nova",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 60,
+    "riding": "Central Okanagan-Similkameen-Nicola",
+    "province": "British Columbia"
+  },
+  {
+    "id": 61,
+    "riding": "Charlesbourg-Haute-Saint-Charles",
+    "province": "Quebec"
+  },
+  {
+    "id": 62,
+    "riding": "Charleswood-St. James-Assiniboia-Headingley",
+    "province": "Manitoba"
+  },
+  {
+    "id": 63,
+    "riding": "Charlottetown",
+    "province": "Prince Edward Island"
+  },
+  {
+    "id": 64,
+    "riding": "Chatham-Kent-Leamington",
+    "province": "Ontario"
+  },
+  {
+    "id": 65,
+    "riding": "Chicoutimi-Le Fjord",
+    "province": "Quebec"
+  },
+  {
+    "id": 66,
+    "riding": "Chilliwack-Hope",
+    "province": "British Columbia"
+  },
+  {
+    "id": 67,
+    "riding": "Churchill-Keewatinook Aski",
+    "province": "Manitoba"
+  },
+  {
+    "id": 68,
+    "riding": "Châteauguay-Lacolle",
+    "province": "Quebec"
+  },
+  {
+    "id": 69,
+    "riding": "Cloverdale-Langley City",
+    "province": "British Columbia"
+  },
+  {
+    "id": 70,
+    "riding": "Coast of Bays-Central-Notre Dame",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 71,
+    "riding": "Compton-Stanstead",
+    "province": "Quebec"
+  },
+  {
+    "id": 72,
+    "riding": "Coquitlam-Port Coquitlam",
+    "province": "British Columbia"
+  },
+  {
+    "id": 73,
+    "riding": "Courtenay-Alberni",
+    "province": "British Columbia"
+  },
+  {
+    "id": 74,
+    "riding": "Cowichan-Malahat-Langford",
+    "province": "British Columbia"
+  },
+  {
+    "id": 75,
+    "riding": "Cumberland-Colchester",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 76,
+    "riding": "Cypress Hills-Grasslands",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 77,
+    "riding": "Dartmouth-Cole Harbour",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 78,
+    "riding": "Dauphin-Swan River-Neepawa",
+    "province": "Manitoba"
+  },
+  {
+    "id": 79,
+    "riding": "Davenport",
+    "province": "Ontario"
+  },
+  {
+    "id": 80,
+    "riding": "Delta",
+    "province": "British Columbia"
+  },
+  {
+    "id": 81,
+    "riding": "Desnethé-Missinippi-Churchill River",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 82,
+    "riding": "Don Valley East",
+    "province": "Ontario"
+  },
+  {
+    "id": 83,
+    "riding": "Don Valley North",
+    "province": "Ontario"
+  },
+  {
+    "id": 84,
+    "riding": "Don Valley West",
+    "province": "Ontario"
+  },
+  {
+    "id": 85,
+    "riding": "Dorval-Lachine-LaSalle",
+    "province": "Quebec"
+  },
+  {
+    "id": 86,
+    "riding": "Drummond",
+    "province": "Quebec"
+  },
+  {
+    "id": 87,
+    "riding": "Dufferin-Caledon",
+    "province": "Ontario"
+  },
+  {
+    "id": 88,
+    "riding": "Durham",
+    "province": "Ontario"
+  },
+  {
+    "id": 89,
+    "riding": "Edmonton Centre",
+    "province": "Alberta"
+  },
+  {
+    "id": 90,
+    "riding": "Edmonton Griesbach",
+    "province": "Alberta"
+  },
+  {
+    "id": 91,
+    "riding": "Edmonton Manning",
+    "province": "Alberta"
+  },
+  {
+    "id": 92,
+    "riding": "Edmonton Mill Woods",
+    "province": "Alberta"
+  },
+  {
+    "id": 93,
+    "riding": "Edmonton Riverbend",
+    "province": "Alberta"
+  },
+  {
+    "id": 94,
+    "riding": "Edmonton Strathcona",
+    "province": "Alberta"
+  },
+  {
+    "id": 95,
+    "riding": "Edmonton West",
+    "province": "Alberta"
+  },
+  {
+    "id": 96,
+    "riding": "Edmonton-Wetaskiwin",
+    "province": "Alberta"
+  },
+  {
+    "id": 97,
+    "riding": "Eglinton-Lawrence",
+    "province": "Ontario"
+  },
+  {
+    "id": 98,
+    "riding": "Egmont",
+    "province": "Prince Edward Island"
+  },
+  {
+    "id": 99,
+    "riding": "Elgin-Middlesex-London",
+    "province": "Ontario"
+  },
+  {
+    "id": 100,
+    "riding": "Elmwood-Transcona",
+    "province": "Manitoba"
+  },
+  {
+    "id": 101,
+    "riding": "Esquimalt-Saanich-Sooke",
+    "province": "British Columbia"
+  },
+  {
+    "id": 102,
+    "riding": "Essex",
+    "province": "Ontario"
+  },
+  {
+    "id": 103,
+    "riding": "Etobicoke Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 104,
+    "riding": "Etobicoke-Lakeshore",
+    "province": "Ontario"
+  },
+  {
+    "id": 105,
+    "riding": "Etobicoke North",
+    "province": "Ontario"
+  },
+  {
+    "id": 106,
+    "riding": "Flamborough-Glanbrook",
+    "province": "Ontario"
+  },
+  {
+    "id": 107,
+    "riding": "Fleetwood-Port Kells",
+    "province": "British Columbia"
+  },
+  {
+    "id": 108,
+    "riding": "Foothills",
+    "province": "Alberta"
+  },
+  {
+    "id": 109,
+    "riding": "Fort McMurray-Cold Lake",
+    "province": "Alberta"
+  },
+  {
+    "id": 110,
+    "riding": "Fredericton",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 111,
+    "riding": "Fundy Royal",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 112,
+    "riding": "Gaspésie-Les Îles-de-la-Madeleine",
+    "province": "Quebec"
+  },
+  {
+    "id": 113,
+    "riding": "Gatineau",
+    "province": "Quebec"
+  },
+  {
+    "id": 114,
+    "riding": "Glengarry-Prescott-Russell",
+    "province": "Ontario"
+  },
+  {
+    "id": 115,
+    "riding": "Grande Prairie-Mackenzie",
+    "province": "Alberta"
+  },
+  {
+    "id": 116,
+    "riding": "Guelph",
+    "province": "Ontario"
+  },
+  {
+    "id": 117,
+    "riding": "Haldimand-Norfolk",
+    "province": "Ontario"
+  },
+  {
+    "id": 118,
+    "riding": "Haliburton-Kawartha Lakes-Brock",
+    "province": "Ontario"
+  },
+  {
+    "id": 119,
+    "riding": "Halifax",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 120,
+    "riding": "Halifax West",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 121,
+    "riding": "Hamilton Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 122,
+    "riding": "Hamilton East-Stoney Creek",
+    "province": "Ontario"
+  },
+  {
+    "id": 123,
+    "riding": "Hamilton Mountain",
+    "province": "Ontario"
+  },
+  {
+    "id": 124,
+    "riding": "Hamilton West-Ancaster-Dundas",
+    "province": "Ontario"
+  },
+  {
+    "id": 125,
+    "riding": "Hastings-Lennox and Addington",
+    "province": "Ontario"
+  },
+  {
+    "id": 126,
+    "riding": "Hochelaga",
+    "province": "Quebec"
+  },
+  {
+    "id": 127,
+    "riding": "Honoré-Mercier",
+    "province": "Quebec"
+  },
+  {
+    "id": 128,
+    "riding": "Hull-Aylmer",
+    "province": "Quebec"
+  },
+  {
+    "id": 129,
+    "riding": "Humber River-Black Creek",
+    "province": "Ontario"
+  },
+  {
+    "id": 130,
+    "riding": "Huron-Bruce",
+    "province": "Ontario"
+  },
+  {
+    "id": 131,
+    "riding": "Joliette",
+    "province": "Quebec"
+  },
+  {
+    "id": 132,
+    "riding": "Jonquière",
+    "province": "Quebec"
+  },
+  {
+    "id": 133,
+    "riding": "Kamloops-Thompson-Cariboo",
+    "province": "British Columbia"
+  },
+  {
+    "id": 134,
+    "riding": "Kanata-Carleton",
+    "province": "Ontario"
+  },
+  {
+    "id": 135,
+    "riding": "Kelowna-Lake Country",
+    "province": "British Columbia"
+  },
+  {
+    "id": 136,
+    "riding": "Kenora",
+    "province": "Ontario"
+  },
+  {
+    "id": 137,
+    "riding": "Kildonan-St. Paul",
+    "province": "Manitoba"
+  },
+  {
+    "id": 138,
+    "riding": "King-Vaughan",
+    "province": "Ontario"
+  },
+  {
+    "id": 139,
+    "riding": "Kings-Hants",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 140,
+    "riding": "Kingston and the Islands",
+    "province": "Ontario"
+  },
+  {
+    "id": 141,
+    "riding": "Kitchener Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 142,
+    "riding": "Kitchener-Conestoga",
+    "province": "Ontario"
+  },
+  {
+    "id": 143,
+    "riding": "Kitchener South-Hespeler",
+    "province": "Ontario"
+  },
+  {
+    "id": 144,
+    "riding": "Kootenay-Columbia",
+    "province": "British Columbia"
+  },
+  {
+    "id": 145,
+    "riding": "La Pointe-de-l'Île",
+    "province": "Quebec"
+  },
+  {
+    "id": 146,
+    "riding": "La Prairie",
+    "province": "Quebec"
+  },
+  {
+    "id": 147,
+    "riding": "Labrador",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 148,
+    "riding": "Lac-Saint-Jean",
+    "province": "Quebec"
+  },
+  {
+    "id": 149,
+    "riding": "Lac-Saint-Louis",
+    "province": "Quebec"
+  },
+  {
+    "id": 150,
+    "riding": "Lakeland",
+    "province": "Alberta"
+  },
+  {
+    "id": 151,
+    "riding": "Lambton-Kent-Middlesex",
+    "province": "Ontario"
+  },
+  {
+    "id": 152,
+    "riding": "Lanark-Frontenac-Kingston",
+    "province": "Ontario"
+  },
+  {
+    "id": 153,
+    "riding": "Langley-Aldergrove",
+    "province": "British Columbia"
+  },
+  {
+    "id": 154,
+    "riding": "LaSalle-Émard-Verdun",
+    "province": "Quebec"
+  },
+  {
+    "id": 155,
+    "riding": "Laurentides-Labelle",
+    "province": "Quebec"
+  },
+  {
+    "id": 156,
+    "riding": "Laurier-Sainte-Marie",
+    "province": "Quebec"
+  },
+  {
+    "id": 157,
+    "riding": "Laval-Les Îles",
+    "province": "Quebec"
+  },
+  {
+    "id": 158,
+    "riding": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+    "province": "Ontario"
+  },
+  {
+    "id": 159,
+    "riding": "Lethbridge",
+    "province": "Alberta"
+  },
+  {
+    "id": 160,
+    "riding": "London-Fanshawe",
+    "province": "Ontario"
+  },
+  {
+    "id": 161,
+    "riding": "London North Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 162,
+    "riding": "London West",
+    "province": "Ontario"
+  },
+  {
+    "id": 163,
+    "riding": "Long Range Mountains",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 164,
+    "riding": "Longueuil-Charles-LeMoyne",
+    "province": "Quebec"
+  },
+  {
+    "id": 165,
+    "riding": "Longueuil-Saint-Hubert",
+    "province": "Quebec"
+  },
+  {
+    "id": 166,
+    "riding": "Louis-Hébert",
+    "province": "Quebec"
+  },
+  {
+    "id": 167,
+    "riding": "Louis-Saint-Laurent",
+    "province": "Quebec"
+  },
+  {
+    "id": 168,
+    "riding": "Lévis-Lotbinière",
+    "province": "Quebec"
+  },
+  {
+    "id": 169,
+    "riding": "Madawaska-Restigouche",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 170,
+    "riding": "Malpeque",
+    "province": "Prince Edward Island"
+  },
+  {
+    "id": 171,
+    "riding": "Manicouagan",
+    "province": "Quebec"
+  },
+  {
+    "id": 172,
+    "riding": "Marc-Aurèle-Fortin",
+    "province": "Quebec"
+  },
+  {
+    "id": 173,
+    "riding": "Markham-Stouffville",
+    "province": "Ontario"
+  },
+  {
+    "id": 174,
+    "riding": "Markham-Thornhill",
+    "province": "Ontario"
+  },
+  {
+    "id": 175,
+    "riding": "Markham-Unionville",
+    "province": "Ontario"
+  },
+  {
+    "id": 176,
+    "riding": "Medicine Hat-Cardston-Warner",
+    "province": "Alberta"
+  },
+  {
+    "id": 177,
+    "riding": "Milton",
+    "province": "Ontario"
+  },
+  {
+    "id": 178,
+    "riding": "Mirabel",
+    "province": "Quebec"
+  },
+  {
+    "id": 179,
+    "riding": "Miramichi-Grand Lake",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 180,
+    "riding": "Mission-Matsqui-Fraser Canyon",
+    "province": "British Columbia"
+  },
+  {
+    "id": 181,
+    "riding": "Mississauga Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 182,
+    "riding": "Mississauga East-Cooksville",
+    "province": "Ontario"
+  },
+  {
+    "id": 183,
+    "riding": "Mississauga-Erin Mills",
+    "province": "Ontario"
+  },
+  {
+    "id": 184,
+    "riding": "Mississauga-Lakeshore",
+    "province": "Ontario"
+  },
+  {
+    "id": 185,
+    "riding": "Mississauga-Malton",
+    "province": "Ontario"
+  },
+  {
+    "id": 186,
+    "riding": "Mississauga-Streetsville",
+    "province": "Ontario"
+  },
+  {
+    "id": 187,
+    "riding": "Moncton-Riverview-Dieppe",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 188,
+    "riding": "Montarville",
+    "province": "Quebec"
+  },
+  {
+    "id": 189,
+    "riding": "Montcalm",
+    "province": "Quebec"
+  },
+  {
+    "id": 190,
+    "riding": "Montmagny-L'Islet-Kamouraska-Rivière-du-Loup",
+    "province": "Quebec"
+  },
+  {
+    "id": 191,
+    "riding": "Moose Jaw-Lake Centre-Lanigan",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 192,
+    "riding": "Mount Royal",
+    "province": "Quebec"
+  },
+  {
+    "id": 193,
+    "riding": "Mégantic-L'Érable",
+    "province": "Quebec"
+  },
+  {
+    "id": 194,
+    "riding": "Nanaimo-Ladysmith",
+    "province": "British Columbia"
+  },
+  {
+    "id": 195,
+    "riding": "Nepean",
+    "province": "Ontario"
+  },
+  {
+    "id": 196,
+    "riding": "New Brunswick Southwest",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 197,
+    "riding": "New Westminster-Burnaby",
+    "province": "British Columbia"
+  },
+  {
+    "id": 198,
+    "riding": "Newmarket-Aurora",
+    "province": "Ontario"
+  },
+  {
+    "id": 199,
+    "riding": "Niagara Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 200,
+    "riding": "Niagara Falls",
+    "province": "Ontario"
+  },
+  {
+    "id": 201,
+    "riding": "Niagara West",
+    "province": "Ontario"
+  },
+  {
+    "id": 202,
+    "riding": "Nickel Belt",
+    "province": "Ontario"
+  },
+  {
+    "id": 203,
+    "riding": "Nipissing-Timiskaming",
+    "province": "Ontario"
+  },
+  {
+    "id": 204,
+    "riding": "North Island-Powell River",
+    "province": "British Columbia"
+  },
+  {
+    "id": 205,
+    "riding": "North Okanagan-Shuswap",
+    "province": "British Columbia"
+  },
+  {
+    "id": 206,
+    "riding": "North Vancouver",
+    "province": "British Columbia"
+  },
+  {
+    "id": 207,
+    "riding": "Northumberland-Peterborough South",
+    "province": "Ontario"
+  },
+  {
+    "id": 208,
+    "riding": "Northwest Territories",
+    "province": "Northwest Territories"
+  },
+  {
+    "id": 209,
+    "riding": "Notre-Dame-de-Grâce-Westmount",
+    "province": "Quebec"
+  },
+  {
+    "id": 210,
+    "riding": "Nunavut",
+    "province": "Nunavut"
+  },
+  {
+    "id": 211,
+    "riding": "Oakville",
+    "province": "Ontario"
+  },
+  {
+    "id": 212,
+    "riding": "Oakville North-Burlington",
+    "province": "Ontario"
+  },
+  {
+    "id": 213,
+    "riding": "Orléans",
+    "province": "Ontario"
+  },
+  {
+    "id": 214,
+    "riding": "Oshawa",
+    "province": "Ontario"
+  },
+  {
+    "id": 215,
+    "riding": "Ottawa Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 216,
+    "riding": "Ottawa South",
+    "province": "Ontario"
+  },
+  {
+    "id": 217,
+    "riding": "Ottawa-Vanier",
+    "province": "Ontario"
+  },
+  {
+    "id": 218,
+    "riding": "Ottawa West-Nepean",
+    "province": "Ontario"
+  },
+  {
+    "id": 219,
+    "riding": "Outremont",
+    "province": "Quebec"
+  },
+  {
+    "id": 220,
+    "riding": "Oxford",
+    "province": "Ontario"
+  },
+  {
+    "id": 221,
+    "riding": "Papineau",
+    "province": "Quebec"
+  },
+  {
+    "id": 222,
+    "riding": "Parkdale-High Park",
+    "province": "Ontario"
+  },
+  {
+    "id": 223,
+    "riding": "Parry Sound-Muskoka",
+    "province": "Ontario"
+  },
+  {
+    "id": 224,
+    "riding": "Peace River-Westlock",
+    "province": "Alberta"
+  },
+  {
+    "id": 225,
+    "riding": "Perth-Wellington",
+    "province": "Ontario"
+  },
+  {
+    "id": 226,
+    "riding": "Peterborough-Kawartha",
+    "province": "Ontario"
+  },
+  {
+    "id": 227,
+    "riding": "Pickering-Uxbridge",
+    "province": "Ontario"
+  },
+  {
+    "id": 228,
+    "riding": "Pierre-Boucher-Les Patriotes-Verchères",
+    "province": "Quebec"
+  },
+  {
+    "id": 229,
+    "riding": "Pierrefonds-Dollard",
+    "province": "Quebec"
+  },
+  {
+    "id": 230,
+    "riding": "Pitt Meadows-Maple Ridge",
+    "province": "British Columbia"
+  },
+  {
+    "id": 231,
+    "riding": "Pontiac",
+    "province": "Quebec"
+  },
+  {
+    "id": 232,
+    "riding": "Port Moody-Coquitlam",
+    "province": "British Columbia"
+  },
+  {
+    "id": 233,
+    "riding": "Portage-Lisgar",
+    "province": "Manitoba"
+  },
+  {
+    "id": 234,
+    "riding": "Portneuf-Jacques-Cartier",
+    "province": "Quebec"
+  },
+  {
+    "id": 235,
+    "riding": "Prince Albert",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 236,
+    "riding": "Prince George-Peace River-Northern Rockies",
+    "province": "British Columbia"
+  },
+  {
+    "id": 237,
+    "riding": "Provencher",
+    "province": "Manitoba"
+  },
+  {
+    "id": 238,
+    "riding": "Québec",
+    "province": "Quebec"
+  },
+  {
+    "id": 239,
+    "riding": "Red Deer-Lacombe",
+    "province": "Alberta"
+  },
+  {
+    "id": 240,
+    "riding": "Red Deer-Mountain View",
+    "province": "Alberta"
+  },
+  {
+    "id": 241,
+    "riding": "Regina-Lewvan",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 242,
+    "riding": "Regina-Qu'Appelle",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 243,
+    "riding": "Regina-Wascana",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 244,
+    "riding": "Renfrew-Nipissing-Pembroke",
+    "province": "Ontario"
+  },
+  {
+    "id": 245,
+    "riding": "Repentigny",
+    "province": "Quebec"
+  },
+  {
+    "id": 246,
+    "riding": "Richmond-Arthabaska",
+    "province": "Quebec"
+  },
+  {
+    "id": 247,
+    "riding": "Richmond Centre",
+    "province": "British Columbia"
+  },
+  {
+    "id": 248,
+    "riding": "Richmond Hill",
+    "province": "Ontario"
+  },
+  {
+    "id": 249,
+    "riding": "Rimouski-Neigette-Témiscouata-Les Basques",
+    "province": "Quebec"
+  },
+  {
+    "id": 250,
+    "riding": "Rivière-des-Mille-Îles",
+    "province": "Quebec"
+  },
+  {
+    "id": 251,
+    "riding": "Rivière-du-Nord",
+    "province": "Quebec"
+  },
+  {
+    "id": 252,
+    "riding": "Rosemont-La Petite-Patrie",
+    "province": "Quebec"
+  },
+  {
+    "id": 253,
+    "riding": "Saanich-Gulf Islands",
+    "province": "British Columbia"
+  },
+  {
+    "id": 254,
+    "riding": "Sackville-Preston-Chezzetcook",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 255,
+    "riding": "Saint Boniface-Saint Vital",
+    "province": "Manitoba"
+  },
+  {
+    "id": 256,
+    "riding": "Saint-Hyacinthe-Bagot",
+    "province": "Quebec"
+  },
+  {
+    "id": 257,
+    "riding": "Saint-Jean",
+    "province": "Quebec"
+  },
+  {
+    "id": 258,
+    "riding": "Saint John-Rothesay",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 259,
+    "riding": "Saint-Laurent",
+    "province": "Quebec"
+  },
+  {
+    "id": 260,
+    "riding": "Saint-Léonard-Saint-Michel",
+    "province": "Quebec"
+  },
+  {
+    "id": 261,
+    "riding": "Saint-Maurice-Champlain",
+    "province": "Quebec"
+  },
+  {
+    "id": 262,
+    "riding": "Salaberry-Suroît",
+    "province": "Quebec"
+  },
+  {
+    "id": 263,
+    "riding": "Sarnia-Lambton",
+    "province": "Ontario"
+  },
+  {
+    "id": 264,
+    "riding": "Saskatoon-Grasswood",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 265,
+    "riding": "Saskatoon-University",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 266,
+    "riding": "Saskatoon West",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 267,
+    "riding": "Sault Ste. Marie",
+    "province": "Ontario"
+  },
+  {
+    "id": 268,
+    "riding": "Scarborough-Agincourt",
+    "province": "Ontario"
+  },
+  {
+    "id": 269,
+    "riding": "Scarborough Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 270,
+    "riding": "Scarborough-Guildwood",
+    "province": "Ontario"
+  },
+  {
+    "id": 271,
+    "riding": "Scarborough North",
+    "province": "Ontario"
+  },
+  {
+    "id": 272,
+    "riding": "Scarborough-Rouge Park",
+    "province": "Ontario"
+  },
+  {
+    "id": 273,
+    "riding": "Scarborough Southwest",
+    "province": "Ontario"
+  },
+  {
+    "id": 274,
+    "riding": "Selkirk-Interlake-Eastman",
+    "province": "Manitoba"
+  },
+  {
+    "id": 275,
+    "riding": "Shefford",
+    "province": "Quebec"
+  },
+  {
+    "id": 276,
+    "riding": "Sherbrooke",
+    "province": "Quebec"
+  },
+  {
+    "id": 277,
+    "riding": "Sherwood Park-Fort Saskatchewan",
+    "province": "Alberta"
+  },
+  {
+    "id": 278,
+    "riding": "Simcoe-Grey",
+    "province": "Ontario"
+  },
+  {
+    "id": 279,
+    "riding": "Simcoe North",
+    "province": "Ontario"
+  },
+  {
+    "id": 280,
+    "riding": "Skeena-Bulkley Valley",
+    "province": "British Columbia"
+  },
+  {
+    "id": 281,
+    "riding": "Souris-Moose Mountain",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 282,
+    "riding": "South Okanagan-West Kootenay",
+    "province": "British Columbia"
+  },
+  {
+    "id": 283,
+    "riding": "South Shore-St. Margarets",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 284,
+    "riding": "South Surrey-White Rock",
+    "province": "British Columbia"
+  },
+  {
+    "id": 285,
+    "riding": "Spadina-Fort York",
+    "province": "Ontario"
+  },
+  {
+    "id": 286,
+    "riding": "St. Albert-Edmonton",
+    "province": "Alberta"
+  },
+  {
+    "id": 287,
+    "riding": "St. Catharines",
+    "province": "Ontario"
+  },
+  {
+    "id": 288,
+    "riding": "St. John's East",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 289,
+    "riding": "St. John's South-Mount Pearl",
+    "province": "Newfoundland and Labrador"
+  },
+  {
+    "id": 290,
+    "riding": "Steveston-Richmond East",
+    "province": "British Columbia"
+  },
+  {
+    "id": 291,
+    "riding": "Stormont-Dundas-South Glengarry",
+    "province": "Ontario"
+  },
+  {
+    "id": 292,
+    "riding": "Sturgeon River-Parkland",
+    "province": "Alberta"
+  },
+  {
+    "id": 293,
+    "riding": "Sudbury",
+    "province": "Ontario"
+  },
+  {
+    "id": 294,
+    "riding": "Surrey Centre",
+    "province": "British Columbia"
+  },
+  {
+    "id": 295,
+    "riding": "Surrey-Newton",
+    "province": "British Columbia"
+  },
+  {
+    "id": 296,
+    "riding": "Sydney-Victoria",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 297,
+    "riding": "Terrebonne",
+    "province": "Quebec"
+  },
+  {
+    "id": 298,
+    "riding": "Thornhill",
+    "province": "Ontario"
+  },
+  {
+    "id": 299,
+    "riding": "Thunder Bay-Rainy River",
+    "province": "Ontario"
+  },
+  {
+    "id": 300,
+    "riding": "Thunder Bay-Superior North",
+    "province": "Ontario"
+  },
+  {
+    "id": 301,
+    "riding": "Thérèse-De Blainville",
+    "province": "Quebec"
+  },
+  {
+    "id": 302,
+    "riding": "Timmins-James Bay",
+    "province": "Ontario"
+  },
+  {
+    "id": 303,
+    "riding": "Tobique-Mactaquac",
+    "province": "New Brunswick"
+  },
+  {
+    "id": 304,
+    "riding": "Toronto Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 305,
+    "riding": "Toronto-Danforth",
+    "province": "Ontario"
+  },
+  {
+    "id": 306,
+    "riding": "Toronto-St. Paul's",
+    "province": "Ontario"
+  },
+  {
+    "id": 307,
+    "riding": "Trois-Rivières",
+    "province": "Quebec"
+  },
+  {
+    "id": 308,
+    "riding": "University-Rosedale",
+    "province": "Ontario"
+  },
+  {
+    "id": 309,
+    "riding": "Vancouver Centre",
+    "province": "British Columbia"
+  },
+  {
+    "id": 310,
+    "riding": "Vancouver East",
+    "province": "British Columbia"
+  },
+  {
+    "id": 311,
+    "riding": "Vancouver Granville",
+    "province": "British Columbia"
+  },
+  {
+    "id": 312,
+    "riding": "Vancouver Kingsway",
+    "province": "British Columbia"
+  },
+  {
+    "id": 313,
+    "riding": "Vancouver Quadra",
+    "province": "British Columbia"
+  },
+  {
+    "id": 314,
+    "riding": "Vancouver South",
+    "province": "British Columbia"
+  },
+  {
+    "id": 315,
+    "riding": "Vaudreuil-Soulanges",
+    "province": "Quebec"
+  },
+  {
+    "id": 316,
+    "riding": "Vaughan-Woodbridge",
+    "province": "Ontario"
+  },
+  {
+    "id": 317,
+    "riding": "Victoria",
+    "province": "British Columbia"
+  },
+  {
+    "id": 318,
+    "riding": "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+    "province": "Quebec"
+  },
+  {
+    "id": 319,
+    "riding": "Vimy",
+    "province": "Quebec"
+  },
+  {
+    "id": 320,
+    "riding": "Waterloo",
+    "province": "Ontario"
+  },
+  {
+    "id": 321,
+    "riding": "Wellington-Halton Hills",
+    "province": "Ontario"
+  },
+  {
+    "id": 322,
+    "riding": "West Nova",
+    "province": "Nova Scotia"
+  },
+  {
+    "id": 323,
+    "riding": "West Vancouver-Sunshine Coast-Sea to Sky Country",
+    "province": "British Columbia"
+  },
+  {
+    "id": 324,
+    "riding": "Whitby",
+    "province": "Ontario"
+  },
+  {
+    "id": 325,
+    "riding": "Willowdale",
+    "province": "Ontario"
+  },
+  {
+    "id": 326,
+    "riding": "Windsor-Tecumseh",
+    "province": "Ontario"
+  },
+  {
+    "id": 327,
+    "riding": "Windsor West",
+    "province": "Ontario"
+  },
+  {
+    "id": 328,
+    "riding": "Winnipeg Centre",
+    "province": "Manitoba"
+  },
+  {
+    "id": 329,
+    "riding": "Winnipeg North",
+    "province": "Manitoba"
+  },
+  {
+    "id": 330,
+    "riding": "Winnipeg South",
+    "province": "Manitoba"
+  },
+  {
+    "id": 331,
+    "riding": "Winnipeg South Centre",
+    "province": "Manitoba"
+  },
+  {
+    "id": 332,
+    "riding": "Yellowhead",
+    "province": "Alberta"
+  },
+  {
+    "id": 333,
+    "riding": "York Centre",
+    "province": "Ontario"
+  },
+  {
+    "id": 334,
+    "riding": "York-Simcoe",
+    "province": "Ontario"
+  },
+  {
+    "id": 335,
+    "riding": "York South-Weston",
+    "province": "Ontario"
+  },
+  {
+    "id": 336,
+    "riding": "Yorkton-Melville",
+    "province": "Saskatchewan"
+  },
+  {
+    "id": 337,
+    "riding": "Yukon",
+    "province": "Yukon"
+  }
+]
