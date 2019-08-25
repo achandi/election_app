@@ -26,7 +26,7 @@ const qSel = (parent, child) => (Array.isArray(child) ? child.map(el => parent.q
 const getAttr = (el, attr) => el ? el[attr] || '' : '';  //for single element, get single attribute
 const mapAttr = (arr, attr) => arr.map((el, i) => (el && (el[attr[i]] || el[attr]) ? el[attr[i]] || el[attr] : '')); //for multiple elements, get single attribute (supports array of attributes)
 
-//For Main(), refactor conservative, liberal and ndp, using callObj and singleRequest() below, (like your newer green, peoples, and bloc functions)
+//For associted Main() functions, refactor conservative, liberal and ndp, using callObj and singleRequest() below, (like your newer green, peoples, and bloc functions)
 const callObj = {
     // conservative: (data) => conservativeMain(data),
     // liberal: (data) => liberalMain(data),
@@ -264,7 +264,7 @@ const openApiCreate = async () => {
     const response = await Promise.all([axios.get(openUrl), axios.get(openUrl2)]);
     const openJson = response[0].data.objects.concat(response[1].data.objects);
     const finalArrJSON = JSON.stringify(openJson, null, 2);
-   await fs.writeFile('openapi.json', finalArrJSON);
+   await fs.writeFile('./scraped_data/openapi.json', finalArrJSON);
   } catch (err) {
     console.log(err);
   }
@@ -272,7 +272,7 @@ const openApiCreate = async () => {
 
 const openApiRead = async () => {
   try {
-    const toRead = await readFile('openapi.json');
+    const toRead = await readFile('./scraped_data/openapi.json');
     const returnValue = JSON.parse(toRead);
     return returnValue;
   } catch (err) {
@@ -290,26 +290,27 @@ const openApiUpdate = async () => {
     const name = member.name;
     const party = member.party_name;
     member.riding = riding;
-    delete member.district_name;
     let ridingIdFind = member.related.boundary_url.split('/');
     const ridingId = ridingIdFind.slice('-2', '-1')[0];
     member.ridingId = ridingId;
     if (ridingObj[ridingId]) {
       ridingObj[ridingId].candidate[party] = name;
     } else {
-      ridingObj[ridingId] = { riding, candidate: { [party]: name } };
+      ridingObj[ridingId] = { riding: riding, 
+                              candidate: { [party]: name } };
     }
+    delete member.district_name;
     return member;
   });
 
   let finalArrJSON = JSON.stringify(updates, null, 2);
   let finalArrJSON2 = JSON.stringify(ridingObj, null, 2);
 
-  return await Promise.all(writeFile('openapi.json', finalArrJSON), writeFile('riding-table.json', finalArrJSON2));
+  return await Promise.all(writeFile('./scraped_data/openapi.json', finalArrJSON), writeFile('./scraped_data/riding-table.json', finalArrJSON2));
 
 };
 router.get('/', function(req, res) {
-  //TODO set up cron job chained scraping once app set up
+  //TODO set up cron job + chained scraping once app set up
   //openApiCreate().catch(err => console.log(err));
   openApiUpdate().catch(err => console.log(err));
   // singleRequest('https://www.greenparty.ca/en/candidates', '.candidate-card', 'green', './scraped_data/green-main.json');
@@ -322,9 +323,9 @@ router.get('/', function(req, res) {
 });
 
 app.use('/', router);
-app.listen(process.env.port || 3000);
+app.listen(process.env.port || 3500);
 
-console.log('Running at Port 3000');
+console.log('Running at Port 3500');
 
 //for descriptions later
 // const oneMemberInfo = memberArr => {

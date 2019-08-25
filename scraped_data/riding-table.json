@@ -1,6 +1,6 @@
 {
   "10001": {
-    "riding": "",
+    "riding": "Avalon",
     "candidate": {
       "Liberal": "Ken McDonald",
       "Green Party": "Greg Malone",
@@ -9,7 +9,7 @@
     }
   },
   "10002": {
-    "riding": "",
+    "riding": "Bonavista-Burin-Trinity",
     "candidate": {
       "Green Party": "Kelsey Reichel",
       "Conservative": "Mike Windsor",
@@ -17,7 +17,7 @@
     }
   },
   "10003": {
-    "riding": "",
+    "riding": "Coast of Bays-Central-Notre Dame",
     "candidate": {
       "Green Party": "Byron White",
       "Liberal": "Scott Simms",
@@ -25,21 +25,21 @@
     }
   },
   "10004": {
-    "riding": "",
+    "riding": "Labrador",
     "candidate": {
       "Liberal": "Yvonne Jones",
       "Conservative": "Larry Flemming"
     }
   },
   "10005": {
-    "riding": "",
+    "riding": "Long Range Mountains",
     "candidate": {
       "Liberal": "Gudie Hutchings",
       "Green Party": "Lucas Knill"
     }
   },
   "10006": {
-    "riding": "",
+    "riding": "St. John's East",
     "candidate": {
       "Liberal": "Nick Whalen",
       "Conservative": "Joedy Wall",
@@ -47,21 +47,21 @@
     }
   },
   "10007": {
-    "riding": "",
+    "riding": "St. John's South-Mount Pearl",
     "candidate": {
       "Conservative": "Terry Martin",
       "Liberal": "Seamus O'Regan"
     }
   },
   "11001": {
-    "riding": "",
+    "riding": "Cardigan",
     "candidate": {
       "Conservative": "Wayne Phelan",
       "Liberal": "Lawrence MacAulay"
     }
   },
   "11002": {
-    "riding": "",
+    "riding": "Charlottetown",
     "candidate": {
       "Green Party": "Darcie Lanthier",
       "Conservative": "Robert Campbell",
@@ -69,14 +69,14 @@
     }
   },
   "11003": {
-    "riding": "",
+    "riding": "Egmont",
     "candidate": {
       "Conservative": "Logan McLellan",
       "Liberal": "Robert Morrissey"
     }
   },
   "11004": {
-    "riding": "",
+    "riding": "Malpeque",
     "candidate": {
       "Green Party": "Anna Keenan",
       "Liberal": "Wayne Easter",
@@ -84,13 +84,13 @@
     }
   },
   "12001": {
-    "riding": "",
+    "riding": "Cape Breton-Canso",
     "candidate": {
       "Conservative": "Alfie MacLeod"
     }
   },
   "12002": {
-    "riding": "",
+    "riding": "Central Nova",
     "candidate": {
       "Conservative": "Roger Mackay",
       "Liberal": "Sean Fraser",
@@ -99,7 +99,7 @@
     }
   },
   "12003": {
-    "riding": "",
+    "riding": "Cumberland-Colchester",
     "candidate": {
       "Liberal": "Lenore Zann",
       "Conservative": "Scott Armstrong",
@@ -107,7 +107,7 @@
     }
   },
   "12004": {
-    "riding": "",
+    "riding": "Dartmouth-Cole Harbour",
     "candidate": {
       "NDP": "Emma Norton",
       "Conservative": "Jason Cole",
@@ -116,7 +116,7 @@
     }
   },
   "12005": {
-    "riding": "",
+    "riding": "Halifax",
     "candidate": {
       "Conservative": "Bruce Holland",
       "NDP": "Christine Saulnier",
@@ -125,7 +125,7 @@
     }
   },
   "12006": {
-    "riding": "",
+    "riding": "Halifax West",
     "candidate": {
       "Conservative": "Fred Shuman",
       "Liberal": "Geoff Regan",
@@ -133,7 +133,7 @@
     }
   },
   "12007": {
-    "riding": "",
+    "riding": "Kings-Hants",
     "candidate": {
       "Liberal": "Kody Blois",
       "Green Party": "Brogan Anderson",
@@ -142,7 +142,7 @@
     }
   },
   "12008": {
-    "riding": "",
+    "riding": "Sackville-Preston-Chezzetcook",
     "candidate": {
       "NDP": "Matt Stickland",
       "Green Party": "Anthony Edmonds",
@@ -151,7 +151,7 @@
     }
   },
   "12009": {
-    "riding": "",
+    "riding": "South Shore-St. Margarets",
     "candidate": {
       "Green Party": "Thomas Trappenberg",
       "Conservative": "Rick Perkins",
@@ -160,14 +160,14 @@
     }
   },
   "12010": {
-    "riding": "",
+    "riding": "Sydney-Victoria",
     "candidate": {
       "Conservative": "Eddie Orell",
       "Liberal": "Jaime Battiste"
     }
   },
   "12011": {
-    "riding": "",
+    "riding": "West Nova",
     "candidate": {
       "Conservative": "Chris d'Entremont",
       "Liberal": "Jason Deveau",
@@ -175,14 +175,14 @@
     }
   },
   "13001": {
-    "riding": "",
+    "riding": "Acadie-Bathurst",
     "candidate": {
       "Liberal": "Serge Cormier",
       "Conservative": "Martine Savoie"
     }
   },
   "13002": {
-    "riding": "",
+    "riding": "Beauséjour",
     "candidate": {
       "Green Party": "Laura Reinsborough",
       "Liberal": "Dominic LeBlanc",
@@ -190,7 +190,7 @@
     }
   },
   "13003": {
-    "riding": "",
+    "riding": "Fredericton",
     "candidate": {
       "Liberal": "Matt DeCourcey",
       "Green Party": "Jenica Atwin",
@@ -198,7 +198,7 @@
     }
   },
   "13004": {
-    "riding": "",
+    "riding": "Fundy Royal",
     "candidate": {
       "Liberal": "Alaina Lockhart",
       "Green Party": "Timothy Thompson",
@@ -206,21 +206,21 @@
     }
   },
   "13005": {
-    "riding": "",
+    "riding": "Madawaska-Restigouche",
     "candidate": {
       "Liberal": "René Arseneault",
       "Conservative": "Nelson Fox"
     }
   },
   "13006": {
-    "riding": "",
+    "riding": "Miramichi-Grand Lake",
     "candidate": {
       "Liberal": "Pat Finnigan",
       "Conservative": "Peggy McLean"
     }
   },
   "13007": {
-    "riding": "",
+    "riding": "Moncton-Riverview-Dieppe",
     "candidate": {
       "Liberal": "Ginette Petitpas Taylor",
       "Conservative": "Sylvie Godin-Charest",
@@ -228,7 +228,7 @@
     }
   },
   "13008": {
-    "riding": "",
+    "riding": "New Brunswick Southwest",
     "candidate": {
       "Conservative": "John Williamson",
       "Green Party": "Susan Jonah",
@@ -236,28 +236,28 @@
     }
   },
   "13009": {
-    "riding": "",
+    "riding": "Saint John-Rothesay",
     "candidate": {
       "Liberal": "Wayne Long",
       "Conservative": "Rodney Weston"
     }
   },
   "13010": {
-    "riding": "",
+    "riding": "Tobique-Mactaquac",
     "candidate": {
       "Green Party": "Rowan Miller",
       "Conservative": "Richard Bragdon"
     }
   },
   "24001": {
-    "riding": "",
+    "riding": "Abitibi-Baie-James-Nunavik-Eeyou",
     "candidate": {
       "Conservative": "Martin Ferron",
       "Bloc Québécois": "Sylvie Bérubé"
     }
   },
   "24002": {
-    "riding": "",
+    "riding": "Abitibi-Témiscamingue",
     "candidate": {
       "Green Party": "Aline Bégin",
       "Bloc Québécois": "Sébastien Lemire",
@@ -266,7 +266,7 @@
     }
   },
   "24003": {
-    "riding": "",
+    "riding": "Ahuntsic-Cartierville",
     "candidate": {
       "Green Party": "Jean-Michel Lavarenne",
       "Conservative": "Kathy Laframboise",
@@ -276,7 +276,7 @@
     }
   },
   "24004": {
-    "riding": "",
+    "riding": "Alfred-Pellan",
     "candidate": {
       "Bloc Québécois": "Michel Lachance",
       "Conservative": "Angelo Esposito",
@@ -284,7 +284,7 @@
     }
   },
   "24005": {
-    "riding": "",
+    "riding": "Argenteuil-La Petite-Nation",
     "candidate": {
       "People's Party": "Sherwin Edwards",
       "Liberal": "Stéphane Lauzon",
@@ -293,7 +293,7 @@
     }
   },
   "24006": {
-    "riding": "",
+    "riding": "Avignon-La Mitis-Matane-Matapédia",
     "candidate": {
       "Liberal": "Rémi Massé",
       "Green Party": "James Morrison",
@@ -301,7 +301,7 @@
     }
   },
   "24007": {
-    "riding": "",
+    "riding": "Beauce",
     "candidate": {
       "Conservative": "Richard Lehoux",
       "Green Party": "Josiane Fortin",
@@ -309,7 +309,7 @@
     }
   },
   "24008": {
-    "riding": "",
+    "riding": "Beauport-Limoilou",
     "candidate": {
       "Liberal": "Antoine Bujold",
       "People's Party": "Alicia Bédard",
@@ -319,7 +319,7 @@
     }
   },
   "24009": {
-    "riding": "",
+    "riding": "Bécancour-Nicolet-Saurel",
     "candidate": {
       "Conservative": "Pierre-André Émond",
       "Green Party": "David Turcotte",
@@ -327,7 +327,7 @@
     }
   },
   "24010": {
-    "riding": "",
+    "riding": "Bellechasse-Les Etchemins-Lévis",
     "candidate": {
       "People's Party": "Marc Johnston",
       "Liberal": "Laurence Harvey",
@@ -336,7 +336,7 @@
     }
   },
   "24011": {
-    "riding": "",
+    "riding": "Beloeil-Chambly",
     "candidate": {
       "NDP": "Matthew Dubé",
       "Bloc Québécois": "Yves-François Blanchet",
@@ -345,7 +345,7 @@
     }
   },
   "24012": {
-    "riding": "",
+    "riding": "Berthier-Maskinongé",
     "candidate": {
       "Bloc Québécois": "Yves Perron",
       "Conservative": "Josée Bélanger",
@@ -354,7 +354,7 @@
     }
   },
   "24013": {
-    "riding": "",
+    "riding": "Thérèse-De Blainville",
     "candidate": {
       "Liberal": "Ramez Ayoub",
       "People's Party": "Désiré Mounanga",
@@ -362,7 +362,7 @@
     }
   },
   "24014": {
-    "riding": "",
+    "riding": "Pierre-Boucher-Les Patriotes-Verchères",
     "candidate": {
       "Conservative": "Mathieu Daviault",
       "Bloc Québécois": "Xavier Barsalou-Duval",
@@ -370,7 +370,7 @@
     }
   },
   "24015": {
-    "riding": "",
+    "riding": "Bourassa",
     "candidate": {
       "Liberal": "Emmanuel Dubourg",
       "Conservative": "Catherine Lefebvre",
@@ -378,7 +378,7 @@
     }
   },
   "24016": {
-    "riding": "",
+    "riding": "Brome-Missisquoi",
     "candidate": {
       "People's Party": "François Poulin",
       "Conservative": "Bruno Côté",
@@ -387,7 +387,7 @@
     }
   },
   "24017": {
-    "riding": "",
+    "riding": "Brossard-Saint-Lambert",
     "candidate": {
       "Conservative": "Glenn Hoa",
       "Green Party": "Greg De Luca",
@@ -396,14 +396,14 @@
     }
   },
   "24018": {
-    "riding": "",
+    "riding": "Rimouski-Neigette-Témiscouata-Les Basques",
     "candidate": {
       "NDP": "Guy Caron",
       "Liberal": "Chantal Pilon"
     }
   },
   "24019": {
-    "riding": "",
+    "riding": "Charlesbourg-Haute-Saint-Charles",
     "candidate": {
       "Green Party": "Samuel Moisan-Domm",
       "Bloc Québécois": "Alain D'Eer",
@@ -411,14 +411,14 @@
     }
   },
   "24020": {
-    "riding": "",
+    "riding": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
     "candidate": {
       "People's Party": "Jean-Claude Parent",
       "Conservative": "Sylvie Boucher"
     }
   },
   "24021": {
-    "riding": "",
+    "riding": "Châteauguay-Lacolle",
     "candidate": {
       "Liberal": "Brenda Shanahan",
       "People's Party": "Jeff Benoit",
@@ -426,7 +426,7 @@
     }
   },
   "24022": {
-    "riding": "",
+    "riding": "Chicoutimi-Le Fjord",
     "candidate": {
       "Bloc Québécois": "Valérie Tremblay",
       "Green Party": "Lynda Youde",
@@ -434,7 +434,7 @@
     }
   },
   "24023": {
-    "riding": "",
+    "riding": "Compton-Stanstead",
     "candidate": {
       "Conservative": "Jessy Mcneil",
       "People's Party": "Paul Reed",
@@ -443,7 +443,7 @@
     }
   },
   "24024": {
-    "riding": "",
+    "riding": "Dorval-Lachine-LaSalle",
     "candidate": {
       "People's Party": "Arash Torbati",
       "Liberal": "Anju Dhillon",
@@ -453,7 +453,7 @@
     }
   },
   "24025": {
-    "riding": "",
+    "riding": "Drummond",
     "candidate": {
       "NDP": "François Choquette",
       "People's Party": "Steeve Paquet",
@@ -462,7 +462,7 @@
     }
   },
   "24026": {
-    "riding": "",
+    "riding": "Gaspésie-Les Îles-de-la-Madeleine",
     "candidate": {
       "Green Party": "Denis Drainville",
       "Bloc Québécois": "Guy Bernatchez",
@@ -471,7 +471,7 @@
     }
   },
   "24027": {
-    "riding": "",
+    "riding": "Gatineau",
     "candidate": {
       "Bloc Québécois": "Geneviève Nadeau",
       "Liberal": "Steven MacKinnon",
@@ -480,7 +480,7 @@
     }
   },
   "24028": {
-    "riding": "",
+    "riding": "Hochelaga",
     "candidate": {
       "Conservative": "Christine Marcoux",
       "Liberal": "Soraya Martinez",
@@ -490,7 +490,7 @@
     }
   },
   "24029": {
-    "riding": "",
+    "riding": "Honoré-Mercier",
     "candidate": {
       "NDP": "Chu Anh Pham",
       "Liberal": "Pablo Rodriguez",
@@ -498,14 +498,14 @@
     }
   },
   "24030": {
-    "riding": "",
+    "riding": "Hull-Aylmer",
     "candidate": {
       "Liberal": "Greg Fergus",
       "Conservative": "Mike Duggan"
     }
   },
   "24031": {
-    "riding": "",
+    "riding": "Joliette",
     "candidate": {
       "Conservative": "Jean-Martin Masse",
       "People's Party": "Sylvain Prescott",
@@ -514,7 +514,7 @@
     }
   },
   "24032": {
-    "riding": "",
+    "riding": "Jonquière",
     "candidate": {
       "Bloc Québécois": "Mario Simard",
       "Conservative": "Philippe Gagnon",
@@ -522,7 +522,7 @@
     }
   },
   "24033": {
-    "riding": "",
+    "riding": "La Pointe-de-l'Île",
     "candidate": {
       "Liberal": "Jonathan Plamondon",
       "People's Party": "Randy Manseau",
@@ -530,7 +530,7 @@
     }
   },
   "24034": {
-    "riding": "",
+    "riding": "La Prairie",
     "candidate": {
       "Liberal": "Jean-Claude Poissant",
       "Conservative": "Isabelle Lapointe",
@@ -539,7 +539,7 @@
     }
   },
   "24035": {
-    "riding": "",
+    "riding": "Lac-Saint-Jean",
     "candidate": {
       "Liberal": "Richard Hébert",
       "Bloc Québécois": "Alexis Brunelle-Duceppe",
@@ -547,7 +547,7 @@
     }
   },
   "24036": {
-    "riding": "",
+    "riding": "Lac-Saint-Louis",
     "candidate": {
       "Liberal": "Francis Scarpaleggia",
       "Conservative": "Ann Francis",
@@ -555,7 +555,7 @@
     }
   },
   "24037": {
-    "riding": "",
+    "riding": "LaSalle-Émard-Verdun",
     "candidate": {
       "Green Party": "Jency Mercier",
       "Bloc Québécois": "Isabel Dion",
@@ -564,7 +564,7 @@
     }
   },
   "24038": {
-    "riding": "",
+    "riding": "Laurentides-Labelle",
     "candidate": {
       "Conservative": "Serge Gregoire",
       "Liberal": "David de Burgh Graham",
@@ -573,7 +573,7 @@
     }
   },
   "24039": {
-    "riding": "",
+    "riding": "Laurier-Sainte-Marie",
     "candidate": {
       "NDP": "Nimâ Machouf",
       "Green Party": "Jamil Azzaoui",
@@ -583,7 +583,7 @@
     }
   },
   "24040": {
-    "riding": "",
+    "riding": "Laval-Les Îles",
     "candidate": {
       "Bloc Québécois": "Nacera Bedad",
       "Liberal": "Fayçal El-Khoury",
@@ -591,7 +591,7 @@
     }
   },
   "24041": {
-    "riding": "",
+    "riding": "Longueuil-Charles-LeMoyne",
     "candidate": {
       "People's Party": "Henri Cousineau",
       "Conservative": "Stéphane Robichaud",
@@ -599,13 +599,13 @@
     }
   },
   "24042": {
-    "riding": "",
+    "riding": "Lévis-Lotbinière",
     "candidate": {
       "Conservative": "Jacques Gourde"
     }
   },
   "24043": {
-    "riding": "",
+    "riding": "Longueuil-Saint-Hubert",
     "candidate": {
       "Conservative": "Patrick Clune",
       "Green Party": "Casandra Poitras",
@@ -613,7 +613,7 @@
     }
   },
   "24044": {
-    "riding": "",
+    "riding": "Louis-Hébert",
     "candidate": {
       "Bloc Québécois": "Christian Hébert",
       "Liberal": "Joël Lightbound",
@@ -623,14 +623,14 @@
     }
   },
   "24045": {
-    "riding": "",
+    "riding": "Louis-Saint-Laurent",
     "candidate": {
       "Conservative": "Gérard Deltell",
       "People's Party": "Guillaume Labonté-Côté"
     }
   },
   "24046": {
-    "riding": "",
+    "riding": "Manicouagan",
     "candidate": {
       "Bloc Québécois": "Marilène Gill",
       "Green Party": "Jacques Gélineau",
@@ -639,13 +639,13 @@
     }
   },
   "24047": {
-    "riding": "",
+    "riding": "Mégantic-L'Érable",
     "candidate": {
       "Conservative": "Luc Berthold"
     }
   },
   "24048": {
-    "riding": "",
+    "riding": "Mirabel",
     "candidate": {
       "Conservative": "François Derocher",
       "Liberal": "Karl Trudel",
@@ -654,7 +654,7 @@
     }
   },
   "24049": {
-    "riding": "",
+    "riding": "Montarville",
     "candidate": {
       "Green Party": "Jean-Charles Pelland",
       "Liberal": "Michel Picard",
@@ -662,7 +662,7 @@
     }
   },
   "24050": {
-    "riding": "",
+    "riding": "Montcalm",
     "candidate": {
       "Liberal": "Isabel Sayegh",
       "Conservative": "Gisele DesRoches",
@@ -671,14 +671,14 @@
     }
   },
   "24051": {
-    "riding": "",
+    "riding": "Montmagny-L'Islet-Kamouraska-Rivière-du-Loup",
     "candidate": {
       "Conservative": "Bernard Généreux",
       "Liberal": "Aladin Legault d'Auteuil"
     }
   },
   "24052": {
-    "riding": "",
+    "riding": "Mount Royal",
     "candidate": {
       "Green Party": "Clement Badra",
       "Liberal": "Anthony Housefather",
@@ -686,7 +686,7 @@
     }
   },
   "24053": {
-    "riding": "",
+    "riding": "Notre-Dame-de-Grâce-Westmount",
     "candidate": {
       "People's Party": "André Valiquette",
       "Liberal": "Marc Garneau",
@@ -695,7 +695,7 @@
     }
   },
   "24054": {
-    "riding": "",
+    "riding": "Outremont",
     "candidate": {
       "Green Party": "Daniel Green",
       "Conservative": "Jasmine Louras",
@@ -703,7 +703,7 @@
     }
   },
   "24055": {
-    "riding": "",
+    "riding": "Papineau",
     "candidate": {
       "Conservative": "Sophie Veilleux",
       "Liberal": "Justin Trudeau",
@@ -711,7 +711,7 @@
     }
   },
   "24056": {
-    "riding": "",
+    "riding": "Pierrefonds-Dollard",
     "candidate": {
       "People's Party": "Lee Weishar",
       "Conservative": "Mariam Ishak",
@@ -719,7 +719,7 @@
     }
   },
   "24057": {
-    "riding": "",
+    "riding": "Pontiac",
     "candidate": {
       "NDP": "Denise Giroux",
       "Green Party": "Claude Bertrand",
@@ -729,14 +729,14 @@
     }
   },
   "24058": {
-    "riding": "",
+    "riding": "Portneuf-Jacques-Cartier",
     "candidate": {
       "Conservative": "Joël Godin",
       "People's Party": "Ken Pereira"
     }
   },
   "24059": {
-    "riding": "",
+    "riding": "Québec",
     "candidate": {
       "People's Party": "Bruno Dabiré",
       "Liberal": "Jean-Yves Duclos",
@@ -745,7 +745,7 @@
     }
   },
   "24060": {
-    "riding": "",
+    "riding": "Repentigny",
     "candidate": {
       "Bloc Québécois": "Monique Pauzé",
       "Conservative": "Pierre Branchaud",
@@ -753,13 +753,13 @@
     }
   },
   "24061": {
-    "riding": "",
+    "riding": "Richmond-Arthabaska",
     "candidate": {
       "Conservative": "Alain Rayes"
     }
   },
   "24062": {
-    "riding": "",
+    "riding": "Rivière-des-Mille-Îles",
     "candidate": {
       "Bloc Québécois": "Luc Desilets",
       "People's Party": "Hans Roker Jr.",
@@ -768,7 +768,7 @@
     }
   },
   "24063": {
-    "riding": "",
+    "riding": "Rivière-du-Nord",
     "candidate": {
       "Green Party": "Joey Leckman",
       "Bloc Québécois": "Rhéal Fortin",
@@ -776,7 +776,7 @@
     }
   },
   "24064": {
-    "riding": "",
+    "riding": "Rosemont-La Petite-Patrie",
     "candidate": {
       "Bloc Québécois": "Claude André",
       "Liberal": "Geneviève Hinse",
@@ -786,7 +786,7 @@
     }
   },
   "24065": {
-    "riding": "",
+    "riding": "Marc-Aurèle-Fortin",
     "candidate": {
       "Bloc Québécois": "Lizabel Nitoi",
       "Conservative": "Sonia Baudelot",
@@ -795,7 +795,7 @@
     }
   },
   "24066": {
-    "riding": "",
+    "riding": "Saint-Hyacinthe-Bagot",
     "candidate": {
       "Bloc Québécois": "Simon-Pierre Savard-Tremblay",
       "Liberal": "René Vincelette",
@@ -804,7 +804,7 @@
     }
   },
   "24067": {
-    "riding": "",
+    "riding": "Saint-Jean",
     "candidate": {
       "Liberal": "Jean Rioux",
       "Conservative": "Martin Thibert",
@@ -812,7 +812,7 @@
     }
   },
   "24068": {
-    "riding": "",
+    "riding": "Saint-Laurent",
     "candidate": {
       "Liberal": "Emmanuella Lambropoulos",
       "Conservative": "Richard Serour",
@@ -820,7 +820,7 @@
     }
   },
   "24069": {
-    "riding": "",
+    "riding": "Saint-Léonard-Saint-Michel",
     "candidate": {
       "People's Party": "Tina Di Serio",
       "Green Party": "Alessandra Szilagyi",
@@ -829,7 +829,7 @@
     }
   },
   "24070": {
-    "riding": "",
+    "riding": "Saint-Maurice-Champlain",
     "candidate": {
       "Green Party": "Stéphanie Dufresne",
       "Conservative": "Bruno-Pier Courchesne",
@@ -837,7 +837,7 @@
     }
   },
   "24071": {
-    "riding": "",
+    "riding": "Salaberry-Suroît",
     "candidate": {
       "Bloc Québécois": "Claude DeBellefeuille",
       "NDP": "Joan Gottman",
@@ -847,7 +847,7 @@
     }
   },
   "24072": {
-    "riding": "",
+    "riding": "Shefford",
     "candidate": {
       "Liberal": "Pierre Breton",
       "People's Party": "Mariam Sabbagh",
@@ -857,7 +857,7 @@
     }
   },
   "24073": {
-    "riding": "",
+    "riding": "Sherbrooke",
     "candidate": {
       "Green Party": "Mathieu Morin",
       "NDP": "Pierre-Luc Dusseault",
@@ -865,7 +865,7 @@
     }
   },
   "24074": {
-    "riding": "",
+    "riding": "Vaudreuil-Soulanges",
     "candidate": {
       "Green Party": "Cameron Stiff",
       "Conservative": "Karen Cox",
@@ -874,14 +874,14 @@
     }
   },
   "24075": {
-    "riding": "",
+    "riding": "Terrebonne",
     "candidate": {
       "Bloc Québécois": "Michel Boudrias",
       "Conservative": "Annie Trudel"
     }
   },
   "24076": {
-    "riding": "",
+    "riding": "Trois-Rivières",
     "candidate": {
       "NDP": "Robert Aubin",
       "Liberal": "Valérie Renaud-Martin",
@@ -890,14 +890,14 @@
     }
   },
   "24077": {
-    "riding": "",
+    "riding": "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
     "candidate": {
       "Conservative": "Michael Forian",
       "Liberal": "Marc Miller"
     }
   },
   "24078": {
-    "riding": "",
+    "riding": "Vimy",
     "candidate": {
       "Conservative": "Rima El-Helou",
       "Bloc Québécois": "Judi Beaulieu",
@@ -905,14 +905,14 @@
     }
   },
   "35001": {
-    "riding": "",
+    "riding": "Ajax",
     "candidate": {
       "Liberal": "Mark Holland",
       "Conservative": "Tom Dingwall"
     }
   },
   "35002": {
-    "riding": "",
+    "riding": "Algoma-Manitoulin-Kapuskasing",
     "candidate": {
       "Green Party": "Max Chapman",
       "NDP": "Carol Hughes",
@@ -921,21 +921,21 @@
     }
   },
   "35003": {
-    "riding": "",
+    "riding": "Aurora-Oak Ridges-Richmond Hill",
     "candidate": {
       "Liberal": "Leah Taylor Roy",
       "Conservative": "Leona Alleslev"
     }
   },
   "35004": {
-    "riding": "",
+    "riding": "Barrie-Innisfil",
     "candidate": {
       "Conservative": "John Brassard",
       "Green Party": "Bonnie North"
     }
   },
   "35005": {
-    "riding": "",
+    "riding": "Barrie-Springwater-Oro-Medonte",
     "candidate": {
       "NDP": "Dan Janssen",
       "Conservative": "Doug Shipley",
@@ -943,7 +943,7 @@
     }
   },
   "35006": {
-    "riding": "",
+    "riding": "Bay of Quinte",
     "candidate": {
       "Conservative": "Timothy P. Durkin",
       "People's Party": "Paul Bordonaro",
@@ -953,7 +953,7 @@
     }
   },
   "35007": {
-    "riding": "",
+    "riding": "Beaches-East York",
     "candidate": {
       "NDP": "Mae J. Nam",
       "Conservative": "Nadirah Nazeer",
@@ -962,14 +962,14 @@
     }
   },
   "35008": {
-    "riding": "",
+    "riding": "Brampton Centre",
     "candidate": {
       "Conservative": "Pawanjit Gosal",
       "Liberal": "Ramesh Sangha"
     }
   },
   "35009": {
-    "riding": "",
+    "riding": "Brampton East",
     "candidate": {
       "Conservative": "Ramona Singh",
       "NDP": "Saranjit Singh",
@@ -977,14 +977,14 @@
     }
   },
   "35010": {
-    "riding": "",
+    "riding": "Brampton North",
     "candidate": {
       "Conservative": "Arpan Khanna",
       "Liberal": "Ruby Sahota"
     }
   },
   "35011": {
-    "riding": "",
+    "riding": "Brampton South",
     "candidate": {
       "Liberal": "Sonia Sidhu",
       "NDP": "Mandeep Kaur",
@@ -992,7 +992,7 @@
     }
   },
   "35012": {
-    "riding": "",
+    "riding": "Brampton West",
     "candidate": {
       "NDP": "Navjit Kaur",
       "Conservative": "Murarilal Thapliyal",
@@ -1000,7 +1000,7 @@
     }
   },
   "35013": {
-    "riding": "",
+    "riding": "Brantford-Brant",
     "candidate": {
       "Green Party": "Bob Jonkman",
       "NDP": "Sabrina Sawyer",
@@ -1009,7 +1009,7 @@
     }
   },
   "35014": {
-    "riding": "",
+    "riding": "Bruce-Grey-Owen Sound",
     "candidate": {
       "People's Party": "Bill Townsend",
       "NDP": "Chris Stephen",
@@ -1019,7 +1019,7 @@
     }
   },
   "35015": {
-    "riding": "",
+    "riding": "Burlington",
     "candidate": {
       "Green Party": "Gareth Williams",
       "Liberal": "Karina Gould",
@@ -1028,7 +1028,7 @@
     }
   },
   "35016": {
-    "riding": "",
+    "riding": "Cambridge",
     "candidate": {
       "Green Party": "Michele Braniff",
       "Conservative": "Sunny Attwal",
@@ -1037,7 +1037,7 @@
     }
   },
   "35017": {
-    "riding": "",
+    "riding": "Chatham-Kent-Leamington",
     "candidate": {
       "Conservative": "David Epp",
       "Green Party": "Marc Vercouteren",
@@ -1045,7 +1045,7 @@
     }
   },
   "35018": {
-    "riding": "",
+    "riding": "Davenport",
     "candidate": {
       "NDP": "Andrew Cash",
       "Green Party": "Hannah Conover-Arthur",
@@ -1054,7 +1054,7 @@
     }
   },
   "35019": {
-    "riding": "",
+    "riding": "Don Valley East",
     "candidate": {
       "NDP": "Nicholas Thompson",
       "Green Party": "Dan Turcotte",
@@ -1063,14 +1063,14 @@
     }
   },
   "35020": {
-    "riding": "",
+    "riding": "Don Valley North",
     "candidate": {
       "Green Party": "Daniel Giavedoni",
       "Conservative": "Sarah Fischer"
     }
   },
   "35021": {
-    "riding": "",
+    "riding": "Don Valley West",
     "candidate": {
       "Liberal": "Robert Oliphant",
       "NDP": "Laurel MacDowell",
@@ -1079,14 +1079,14 @@
     }
   },
   "35022": {
-    "riding": "",
+    "riding": "Dufferin-Caledon",
     "candidate": {
       "Liberal": "Michele Fisher",
       "Green Party": "Stefan Wiesen"
     }
   },
   "35023": {
-    "riding": "",
+    "riding": "Durham",
     "candidate": {
       "Green Party": "Evan Price",
       "NDP": "Sarah Whalen-Wright",
@@ -1094,7 +1094,7 @@
     }
   },
   "35024": {
-    "riding": "",
+    "riding": "Eglinton-Lawrence",
     "candidate": {
       "NDP": "Alexandra Nash",
       "Conservative": "Chani Aryeh",
@@ -1102,27 +1102,27 @@
     }
   },
   "35025": {
-    "riding": "",
+    "riding": "Elgin-Middlesex-London",
     "candidate": {
       "Conservative": "Karen Vecchio"
     }
   },
   "35026": {
-    "riding": "",
+    "riding": "Essex",
     "candidate": {
       "Conservative": "Chris Lewis",
       "NDP": "Tracey Ramsey"
     }
   },
   "35027": {
-    "riding": "",
+    "riding": "Etobicoke Centre",
     "candidate": {
       "Liberal": "Yvan Baker",
       "Conservative": "Ted Opitz"
     }
   },
   "35028": {
-    "riding": "",
+    "riding": "Etobicoke-Lakeshore",
     "candidate": {
       "Green Party": "Chris Caldwell",
       "Liberal": "James Maloney",
@@ -1130,7 +1130,7 @@
     }
   },
   "35029": {
-    "riding": "",
+    "riding": "Etobicoke North",
     "candidate": {
       "NDP": "Naiima Farah",
       "Conservative": "Sarabjit Kaur",
@@ -1138,7 +1138,7 @@
     }
   },
   "35030": {
-    "riding": "",
+    "riding": "Flamborough-Glanbrook",
     "candidate": {
       "Green Party": "Dave Urquhart",
       "NDP": "Allison Cillis",
@@ -1147,7 +1147,7 @@
     }
   },
   "35031": {
-    "riding": "",
+    "riding": "Glengarry-Prescott-Russell",
     "candidate": {
       "Liberal": "Francis Drouin",
       "Conservative": "Pierre Lemieux",
@@ -1155,7 +1155,7 @@
     }
   },
   "35032": {
-    "riding": "",
+    "riding": "Guelph",
     "candidate": {
       "NDP": "Aisha Jahangir",
       "Liberal": "Lloyd Longfield",
@@ -1164,14 +1164,14 @@
     }
   },
   "35033": {
-    "riding": "",
+    "riding": "Haldimand-Norfolk",
     "candidate": {
       "Green Party": "Brooke Martin",
       "Conservative": "Diane Finley"
     }
   },
   "35034": {
-    "riding": "",
+    "riding": "Haliburton-Kawartha Lakes-Brock",
     "candidate": {
       "NDP": "Barbara Doyle",
       "Liberal": "Judi Forbes",
@@ -1180,14 +1180,14 @@
     }
   },
   "35035": {
-    "riding": "",
+    "riding": "Hamilton Centre",
     "candidate": {
       "Conservative": "Monica Ciriello",
       "NDP": "Matthew Green"
     }
   },
   "35036": {
-    "riding": "",
+    "riding": "Hamilton East-Stoney Creek",
     "candidate": {
       "Liberal": "Bob Bratina",
       "NDP": "Nick Milanovic",
@@ -1196,7 +1196,7 @@
     }
   },
   "35037": {
-    "riding": "",
+    "riding": "Hamilton Mountain",
     "candidate": {
       "NDP": "Scott Duvall",
       "Conservative": "Peter Dyakowski",
@@ -1204,7 +1204,7 @@
     }
   },
   "35038": {
-    "riding": "",
+    "riding": "Hamilton West-Ancaster-Dundas",
     "candidate": {
       "Liberal": "Filomena Tassi",
       "Green Party": "Victoria Galea",
@@ -1213,14 +1213,14 @@
     }
   },
   "35039": {
-    "riding": "",
+    "riding": "Hastings-Lennox and Addington",
     "candidate": {
       "Conservative": "Derek Sloan",
       "Liberal": "Mike Bossio"
     }
   },
   "35040": {
-    "riding": "",
+    "riding": "Huron-Bruce",
     "candidate": {
       "Conservative": "Ben Lobb",
       "Liberal": "Allan Thompson",
@@ -1228,7 +1228,7 @@
     }
   },
   "35041": {
-    "riding": "",
+    "riding": "Kanata-Carleton",
     "candidate": {
       "NDP": "Melissa Coenraad",
       "Green Party": "Jennifer Purdy",
@@ -1237,21 +1237,21 @@
     }
   },
   "35042": {
-    "riding": "",
+    "riding": "Kenora",
     "candidate": {
       "NDP": "Rudy Turtle",
       "Conservative": "Eric Melillo"
     }
   },
   "35043": {
-    "riding": "",
+    "riding": "King-Vaughan",
     "candidate": {
       "Liberal": "Deborah Schulte",
       "Conservative": "Anna Roberts"
     }
   },
   "35044": {
-    "riding": "",
+    "riding": "Kingston and the Islands",
     "candidate": {
       "Liberal": "Mark Gerretsen",
       "Green Party": "Candice Christmas",
@@ -1260,7 +1260,7 @@
     }
   },
   "35045": {
-    "riding": "",
+    "riding": "Kitchener Centre",
     "candidate": {
       "Green Party": "Mike Morrice",
       "NDP": "Andrew Moraga",
@@ -1269,7 +1269,7 @@
     }
   },
   "35046": {
-    "riding": "",
+    "riding": "Kitchener-Conestoga",
     "candidate": {
       "Conservative": "Harold Albrecht",
       "Liberal": "Tim Louis",
@@ -1277,7 +1277,7 @@
     }
   },
   "35047": {
-    "riding": "",
+    "riding": "Kitchener South-Hespeler",
     "candidate": {
       "Conservative": "Alan Keeso",
       "Liberal": "Marwan Tabbara",
@@ -1286,14 +1286,14 @@
     }
   },
   "35048": {
-    "riding": "",
+    "riding": "Lambton-Kent-Middlesex",
     "candidate": {
       "Conservative": "Lianne Rood",
       "Green Party": "Anthony Li"
     }
   },
   "35049": {
-    "riding": "",
+    "riding": "Lanark-Frontenac-Kingston",
     "candidate": {
       "Conservative": "Scott Reid",
       "Green Party": "Stephen Kotze",
@@ -1301,7 +1301,7 @@
     }
   },
   "35050": {
-    "riding": "",
+    "riding": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
     "candidate": {
       "Green Party": "Lorraine Rekmans",
       "Conservative": "Michael Barrett",
@@ -1310,7 +1310,7 @@
     }
   },
   "35051": {
-    "riding": "",
+    "riding": "London-Fanshawe",
     "candidate": {
       "Green Party": "Tom Cull",
       "Conservative": "Michael Van Holst",
@@ -1318,7 +1318,7 @@
     }
   },
   "35052": {
-    "riding": "",
+    "riding": "London North Centre",
     "candidate": {
       "Liberal": "Peter Fragiskatos",
       "NDP": "Dirka Prout",
@@ -1327,7 +1327,7 @@
     }
   },
   "35053": {
-    "riding": "",
+    "riding": "London West",
     "candidate": {
       "Conservative": "Liz Snelgrove",
       "Liberal": "Kate Young",
@@ -1335,28 +1335,28 @@
     }
   },
   "35054": {
-    "riding": "",
+    "riding": "Markham-Stouffville",
     "candidate": {
       "Conservative": "Theodore Antony",
       "Independent": "Jane Philpott"
     }
   },
   "35055": {
-    "riding": "",
+    "riding": "Markham-Thornhill",
     "candidate": {
       "Liberal": "Mary Ng",
       "Conservative": "Alex Yuan"
     }
   },
   "35056": {
-    "riding": "",
+    "riding": "Markham-Unionville",
     "candidate": {
       "Conservative": "Bob Saroya",
       "Green Party": "Elvin Kao"
     }
   },
   "35057": {
-    "riding": "",
+    "riding": "Milton",
     "candidate": {
       "Liberal": "Adam van Koeverden",
       "Conservative": "Lisa Raitt",
@@ -1364,7 +1364,7 @@
     }
   },
   "35058": {
-    "riding": "",
+    "riding": "Mississauga Centre",
     "candidate": {
       "Green Party": "Hugo Reinoso",
       "Conservative": "Milad Mikeal",
@@ -1372,21 +1372,21 @@
     }
   },
   "35059": {
-    "riding": "",
+    "riding": "Mississauga East-Cooksville",
     "candidate": {
       "Conservative": "Wladyslaw Lizon",
       "Liberal": "Peter Fonseca"
     }
   },
   "35060": {
-    "riding": "",
+    "riding": "Mississauga-Erin Mills",
     "candidate": {
       "Conservative": "Hani Tawfilis",
       "Liberal": "Iqra Khalid"
     }
   },
   "35061": {
-    "riding": "",
+    "riding": "Mississauga-Lakeshore",
     "candidate": {
       "Green Party": "Cynthia Trentelman",
       "Liberal": "Sven Spengemann",
@@ -1394,7 +1394,7 @@
     }
   },
   "35062": {
-    "riding": "",
+    "riding": "Mississauga-Malton",
     "candidate": {
       "Conservative": "Tom Varughese",
       "Liberal": "Navdeep Bains",
@@ -1402,7 +1402,7 @@
     }
   },
   "35063": {
-    "riding": "",
+    "riding": "Mississauga-Streetsville",
     "candidate": {
       "Green Party": "Chris Hill",
       "Conservative": "Ghada Melek",
@@ -1410,7 +1410,7 @@
     }
   },
   "35064": {
-    "riding": "",
+    "riding": "Nepean",
     "candidate": {
       "Liberal": "Chandra Arya",
       "Green Party": "Jean-Luc Cooke",
@@ -1418,7 +1418,7 @@
     }
   },
   "35065": {
-    "riding": "",
+    "riding": "Newmarket-Aurora",
     "candidate": {
       "Liberal": "Tony Van Bynen",
       "NDP": "Yvonne Kelly",
@@ -1427,7 +1427,7 @@
     }
   },
   "35066": {
-    "riding": "",
+    "riding": "Niagara Centre",
     "candidate": {
       "NDP": "Malcom Allen",
       "Green Party": "Michael Tomaino",
@@ -1436,7 +1436,7 @@
     }
   },
   "35067": {
-    "riding": "",
+    "riding": "Niagara Falls",
     "candidate": {
       "NDP": "Brian Barker",
       "Green Party": "Sandra O'Connor",
@@ -1445,7 +1445,7 @@
     }
   },
   "35068": {
-    "riding": "",
+    "riding": "Niagara West",
     "candidate": {
       "Liberal": "Ian Bingham",
       "Green Party": "Terry Teather",
@@ -1453,7 +1453,7 @@
     }
   },
   "35069": {
-    "riding": "",
+    "riding": "Nickel Belt",
     "candidate": {
       "Conservative": "Aino Laamanen",
       "NDP": "Stef Paquette",
@@ -1461,14 +1461,14 @@
     }
   },
   "35070": {
-    "riding": "",
+    "riding": "Nipissing-Timiskaming",
     "candidate": {
       "Liberal": "Anthony Rota",
       "Conservative": "Jordy Carr"
     }
   },
   "35071": {
-    "riding": "",
+    "riding": "Northumberland-Peterborough South",
     "candidate": {
       "Conservative": "Philip Lawrence",
       "Liberal": "Kim Rudd",
@@ -1476,7 +1476,7 @@
     }
   },
   "35072": {
-    "riding": "",
+    "riding": "Oakville",
     "candidate": {
       "Liberal": "Anita Anand",
       "Conservative": "Terence Young",
@@ -1484,7 +1484,7 @@
     }
   },
   "35073": {
-    "riding": "",
+    "riding": "Oakville North-Burlington",
     "candidate": {
       "Green Party": "Mithu Valika",
       "Liberal": "Pam Damoff",
@@ -1492,14 +1492,14 @@
     }
   },
   "35074": {
-    "riding": "",
+    "riding": "Oshawa",
     "candidate": {
       "Conservative": "Colin Carrie",
       "Green Party": "Jovannah Ramsden"
     }
   },
   "35075": {
-    "riding": "",
+    "riding": "Ottawa Centre",
     "candidate": {
       "Conservative": "Carol Clemenhagen",
       "Liberal": "Catherine McKenna",
@@ -1508,7 +1508,7 @@
     }
   },
   "35076": {
-    "riding": "",
+    "riding": "Orléans",
     "candidate": {
       "NDP": "Jacqueline Wiens",
       "Conservative": "David Bertschi",
@@ -1516,7 +1516,7 @@
     }
   },
   "35077": {
-    "riding": "",
+    "riding": "Ottawa South",
     "candidate": {
       "NDP": "Morgan Gay",
       "Green Party": "Leslie Schram",
@@ -1525,7 +1525,7 @@
     }
   },
   "35078": {
-    "riding": "",
+    "riding": "Ottawa-Vanier",
     "candidate": {
       "NDP": "Stéphanie Mercier",
       "Liberal": "Mona Fortier",
@@ -1533,7 +1533,7 @@
     }
   },
   "35079": {
-    "riding": "",
+    "riding": "Ottawa West-Nepean",
     "candidate": {
       "Green Party": "Dave Stibbe",
       "NDP": "Angella MacEwen",
@@ -1541,7 +1541,7 @@
     }
   },
   "35080": {
-    "riding": "",
+    "riding": "Oxford",
     "candidate": {
       "Conservative": "Dave MacKenzie",
       "Green Party": "Lisa Birtch-Carriere",
@@ -1549,7 +1549,7 @@
     }
   },
   "35081": {
-    "riding": "",
+    "riding": "Parkdale-High Park",
     "candidate": {
       "Conservative": "Adam Pham",
       "NDP": "Paul Taylor",
@@ -1558,7 +1558,7 @@
     }
   },
   "35082": {
-    "riding": "",
+    "riding": "Parry Sound-Muskoka",
     "candidate": {
       "NDP": "Tom Young",
       "Green Party": "Gord Miller",
@@ -1567,7 +1567,7 @@
     }
   },
   "35083": {
-    "riding": "",
+    "riding": "Perth-Wellington",
     "candidate": {
       "Green Party": "Collan Simmons",
       "Liberal": "Pirie Mitchell",
@@ -1576,7 +1576,7 @@
     }
   },
   "35084": {
-    "riding": "",
+    "riding": "Peterborough-Kawartha",
     "candidate": {
       "NDP": "Candace Shaw",
       "Conservative": "Michael Skinner",
@@ -1584,14 +1584,14 @@
     }
   },
   "35085": {
-    "riding": "",
+    "riding": "Pickering-Uxbridge",
     "candidate": {
       "Conservative": "Cyma Musarat",
       "Liberal": "Jennifer O'Connell"
     }
   },
   "35086": {
-    "riding": "",
+    "riding": "Renfrew-Nipissing-Pembroke",
     "candidate": {
       "Conservative": "Cheryl Gallant",
       "Green Party": "Ian Pineau",
@@ -1599,14 +1599,14 @@
     }
   },
   "35087": {
-    "riding": "",
+    "riding": "Richmond Hill",
     "candidate": {
       "Liberal": "Majid Jowhari",
       "Conservative": "Costas Menegakis"
     }
   },
   "35088": {
-    "riding": "",
+    "riding": "Carleton",
     "candidate": {
       "Conservative": "Pierre Poilievre",
       "NDP": "Kevin Hua",
@@ -1615,7 +1615,7 @@
     }
   },
   "35089": {
-    "riding": "",
+    "riding": "St. Catharines",
     "candidate": {
       "Conservative": "Krystina Waler",
       "Liberal": "Chris Bittle",
@@ -1623,14 +1623,14 @@
     }
   },
   "35090": {
-    "riding": "",
+    "riding": "Toronto-St. Paul's",
     "candidate": {
       "Conservative": "Jae Truesdell",
       "Liberal": "Carolyn Bennett"
     }
   },
   "35091": {
-    "riding": "",
+    "riding": "Sarnia-Lambton",
     "candidate": {
       "Liberal": "Carmen Lemieux",
       "Green Party": "Peter Smith",
@@ -1639,7 +1639,7 @@
     }
   },
   "35092": {
-    "riding": "",
+    "riding": "Sault Ste. Marie",
     "candidate": {
       "Liberal": "Terry Sheehan",
       "Conservative": "Sony Spina",
@@ -1647,28 +1647,28 @@
     }
   },
   "35093": {
-    "riding": "",
+    "riding": "Scarborough-Agincourt",
     "candidate": {
       "Liberal": "Jean Yip",
       "Conservative": "Sean Hu"
     }
   },
   "35094": {
-    "riding": "",
+    "riding": "Scarborough Centre",
     "candidate": {
       "Conservative": "Irshad Chaudhry",
       "Liberal": "Salma Zahid"
     }
   },
   "35095": {
-    "riding": "",
+    "riding": "Scarborough-Guildwood",
     "candidate": {
       "Conservative": "Quintus Thuraisingham",
       "Liberal": "John McKay"
     }
   },
   "35096": {
-    "riding": "",
+    "riding": "Scarborough North",
     "candidate": {
       "Liberal": "Shaun Chen",
       "Conservative": "David Kong",
@@ -1676,7 +1676,7 @@
     }
   },
   "35097": {
-    "riding": "",
+    "riding": "Scarborough-Rouge Park",
     "candidate": {
       "Green Party": "Jessica Hamilton",
       "Liberal": "Gary Anandasangaree",
@@ -1684,7 +1684,7 @@
     }
   },
   "35098": {
-    "riding": "",
+    "riding": "Scarborough Southwest",
     "candidate": {
       "Conservative": "Kimberly Fawcett",
       "Liberal": "Bill Blair",
@@ -1692,7 +1692,7 @@
     }
   },
   "35099": {
-    "riding": "",
+    "riding": "Simcoe-Grey",
     "candidate": {
       "Conservative": "Terry Dowdall",
       "Liberal": "Lorne Kenney",
@@ -1700,7 +1700,7 @@
     }
   },
   "35100": {
-    "riding": "",
+    "riding": "Simcoe North",
     "candidate": {
       "Liberal": "Gerry Hawes",
       "Conservative": "Bruce Stanton",
@@ -1708,7 +1708,7 @@
     }
   },
   "35101": {
-    "riding": "",
+    "riding": "Spadina-Fort York",
     "candidate": {
       "Liberal": "Adam Vaughan",
       "NDP": "Diana Yoon",
@@ -1717,28 +1717,28 @@
     }
   },
   "35102": {
-    "riding": "",
+    "riding": "Stormont-Dundas-South Glengarry",
     "candidate": {
       "Green Party": "Raheem Aman",
       "Conservative": "Eric Duncan"
     }
   },
   "35103": {
-    "riding": "",
+    "riding": "Sudbury",
     "candidate": {
       "Conservative": "Pierre St-Amant",
       "Liberal": "Paul Lefebvre"
     }
   },
   "35104": {
-    "riding": "",
+    "riding": "Thornhill",
     "candidate": {
       "Conservative": "Peter Kent",
       "Liberal": "Gary Gladstone"
     }
   },
   "35105": {
-    "riding": "",
+    "riding": "Thunder Bay-Rainy River",
     "candidate": {
       "Conservative": "Linda Rydholm",
       "NDP": "Yuk-Sem Won",
@@ -1746,7 +1746,7 @@
     }
   },
   "35106": {
-    "riding": "",
+    "riding": "Thunder Bay-Superior North",
     "candidate": {
       "NDP": "Anna Achneepineskum",
       "Conservative": "Frank Pullia",
@@ -1754,7 +1754,7 @@
     }
   },
   "35107": {
-    "riding": "",
+    "riding": "Timmins-James Bay",
     "candidate": {
       "NDP": "Charlie Angus",
       "Liberal": "Michelle Boileau",
@@ -1762,7 +1762,7 @@
     }
   },
   "35108": {
-    "riding": "",
+    "riding": "Toronto Centre",
     "candidate": {
       "Green Party": "Annamie Paul",
       "Conservative": "Ryan Lester",
@@ -1771,7 +1771,7 @@
     }
   },
   "35109": {
-    "riding": "",
+    "riding": "Toronto-Danforth",
     "candidate": {
       "Conservative": "Zia Choudhary",
       "Liberal": "Julie Dabrusin",
@@ -1780,7 +1780,7 @@
     }
   },
   "35110": {
-    "riding": "",
+    "riding": "University-Rosedale",
     "candidate": {
       "Liberal": "Chrystia Freeland",
       "Green Party": "Tim Grant",
@@ -1788,7 +1788,7 @@
     }
   },
   "35111": {
-    "riding": "",
+    "riding": "Vaughan-Woodbridge",
     "candidate": {
       "Liberal": "Francesco Sorbara",
       "Conservative": "Teresa Kruze",
@@ -1796,7 +1796,7 @@
     }
   },
   "35112": {
-    "riding": "",
+    "riding": "Waterloo",
     "candidate": {
       "NDP": "Lori Campbell",
       "Liberal": "Bardish Chagger",
@@ -1805,7 +1805,7 @@
     }
   },
   "35113": {
-    "riding": "",
+    "riding": "Wellington-Halton Hills",
     "candidate": {
       "Conservative": "Michael Chong",
       "Green Party": "Ralph Martin",
@@ -1813,27 +1813,27 @@
     }
   },
   "35114": {
-    "riding": "",
+    "riding": "Whitby",
     "candidate": {
       "Conservative": "Todd McCarthy"
     }
   },
   "35115": {
-    "riding": "",
+    "riding": "Willowdale",
     "candidate": {
       "Liberal": "Ali Ehsassi",
       "Conservative": "Daniel Lee"
     }
   },
   "35116": {
-    "riding": "",
+    "riding": "Windsor-Tecumseh",
     "candidate": {
       "NDP": "Cheryl Hardcastle",
       "Conservative": "Leo Demarce"
     }
   },
   "35117": {
-    "riding": "",
+    "riding": "Windsor West",
     "candidate": {
       "NDP": "Brian Masse",
       "Conservative": "Henry Lau",
@@ -1841,7 +1841,7 @@
     }
   },
   "35118": {
-    "riding": "",
+    "riding": "York Centre",
     "candidate": {
       "Green Party": "Romana Lyon",
       "NDP": "Andrea Vásquez Jiménez",
@@ -1850,14 +1850,14 @@
     }
   },
   "35119": {
-    "riding": "",
+    "riding": "York-Simcoe",
     "candidate": {
       "NDP": "Jessa McLean",
       "Conservative": "Scot Davidson"
     }
   },
   "35120": {
-    "riding": "",
+    "riding": "York South-Weston",
     "candidate": {
       "Conservative": "Jasveen Rattan",
       "Liberal": "Ahmed Hussen",
@@ -1865,7 +1865,7 @@
     }
   },
   "35121": {
-    "riding": "",
+    "riding": "Humber River-Black Creek",
     "candidate": {
       "Conservative": "Iftikhar Choudry",
       "Green Party": "Mike Schmitz",
@@ -1873,7 +1873,7 @@
     }
   },
   "46001": {
-    "riding": "",
+    "riding": "Brandon-Souris",
     "candidate": {
       "Conservative": "Larry Maguire",
       "People's Party": "Rebecca Hein",
@@ -1881,7 +1881,7 @@
     }
   },
   "46002": {
-    "riding": "",
+    "riding": "Charleswood-St. James-Assiniboia-Headingley",
     "candidate": {
       "NDP": "Ken St. George",
       "Liberal": "Doug Eyolfson",
@@ -1890,7 +1890,7 @@
     }
   },
   "46003": {
-    "riding": "",
+    "riding": "Churchill-Keewatinook Aski",
     "candidate": {
       "NDP": "Niki Ashton",
       "Liberal": "Judy Klassen",
@@ -1899,14 +1899,14 @@
     }
   },
   "46004": {
-    "riding": "",
+    "riding": "Dauphin-Swan River-Neepawa",
     "candidate": {
       "Green Party": "Katharine Storey",
       "Conservative": "Dan Mazier"
     }
   },
   "46005": {
-    "riding": "",
+    "riding": "Elmwood-Transcona",
     "candidate": {
       "NDP": "Daniel Blaikie",
       "Conservative": "Lawrence Toet",
@@ -1914,7 +1914,7 @@
     }
   },
   "46006": {
-    "riding": "",
+    "riding": "Kildonan-St. Paul",
     "candidate": {
       "Conservative": "Raquel Dancho",
       "NDP": "Evan Krosney",
@@ -1922,7 +1922,7 @@
     }
   },
   "46007": {
-    "riding": "",
+    "riding": "Portage-Lisgar",
     "candidate": {
       "Liberal": "Ken Werbiski",
       "Green Party": "Beverley Eert",
@@ -1930,14 +1930,14 @@
     }
   },
   "46008": {
-    "riding": "",
+    "riding": "Provencher",
     "candidate": {
       "Green Party": "Janine Gibson",
       "Conservative": "Ted Falk"
     }
   },
   "46009": {
-    "riding": "",
+    "riding": "Saint Boniface-Saint Vital",
     "candidate": {
       "Liberal": "Dan Vandal",
       "Green Party": "Ben Linnick",
@@ -1945,14 +1945,14 @@
     }
   },
   "46010": {
-    "riding": "",
+    "riding": "Selkirk-Interlake-Eastman",
     "candidate": {
       "Conservative": "James Bezan",
       "Green Party": "William James"
     }
   },
   "46011": {
-    "riding": "",
+    "riding": "Winnipeg Centre",
     "candidate": {
       "Liberal": "Robert-Falcon Ouellette",
       "Green Party": "Andrea Shalay",
@@ -1961,7 +1961,7 @@
     }
   },
   "46012": {
-    "riding": "",
+    "riding": "Winnipeg North",
     "candidate": {
       "Conservative": "Cameron Ogilvie",
       "NDP": "Kyle Mason",
@@ -1969,7 +1969,7 @@
     }
   },
   "46013": {
-    "riding": "",
+    "riding": "Winnipeg South",
     "candidate": {
       "Green Party": "Paul Bettess",
       "Liberal": "Terry Duguid",
@@ -1977,26 +1977,26 @@
     }
   },
   "46014": {
-    "riding": "",
+    "riding": "Winnipeg South Centre",
     "candidate": {
       "Green Party": "James Beddome",
       "Liberal": "Jim Carr"
     }
   },
   "47001": {
-    "riding": "",
+    "riding": "Battlefords-Lloydminster",
     "candidate": {
       "Conservative": "Rosemarie Falk"
     }
   },
   "47002": {
-    "riding": "",
+    "riding": "Cypress Hills-Grasslands",
     "candidate": {
       "Conservative": "Jeremy Patzer"
     }
   },
   "47003": {
-    "riding": "",
+    "riding": "Desnethé-Missinippi-Churchill River",
     "candidate": {
       "Liberal": "Tammy Cook-Searson",
       "Conservative": "Gary Vidal",
@@ -2005,27 +2005,27 @@
     }
   },
   "47004": {
-    "riding": "",
+    "riding": "Carlton Trail-Eagle Creek",
     "candidate": {
       "Conservative": "Kelly Block"
     }
   },
   "47005": {
-    "riding": "",
+    "riding": "Moose Jaw-Lake Centre-Lanigan",
     "candidate": {
       "Conservative": "Tom Lukiwski",
       "NDP": "Talon Regent"
     }
   },
   "47006": {
-    "riding": "",
+    "riding": "Prince Albert",
     "candidate": {
       "Conservative": "Randy Hoback",
       "Liberal": "Estelle Hjertaas"
     }
   },
   "47007": {
-    "riding": "",
+    "riding": "Regina-Lewvan",
     "candidate": {
       "Independent": "Erin Weir",
       "NDP": "Jigar Patel",
@@ -2035,28 +2035,28 @@
     }
   },
   "47008": {
-    "riding": "",
+    "riding": "Regina-Qu'Appelle",
     "candidate": {
       "Conservative": "Andrew Scheer",
       "Green Party": "Dale Dewar"
     }
   },
   "47009": {
-    "riding": "",
+    "riding": "Regina-Wascana",
     "candidate": {
       "Conservative": "Michael Kram",
       "Liberal": "Ralph Goodale"
     }
   },
   "47010": {
-    "riding": "",
+    "riding": "Saskatoon-Grasswood",
     "candidate": {
       "Liberal": "Tracy Muggli",
       "Conservative": "Kevin Waugh"
     }
   },
   "47011": {
-    "riding": "",
+    "riding": "Saskatoon-University",
     "candidate": {
       "Liberal": "Susan Hayton",
       "Conservative": "Corey Tochor",
@@ -2065,7 +2065,7 @@
     }
   },
   "47012": {
-    "riding": "",
+    "riding": "Saskatoon West",
     "candidate": {
       "Conservative": "Brad Redekopp",
       "NDP": "Sheri Benson",
@@ -2073,19 +2073,19 @@
     }
   },
   "47013": {
-    "riding": "",
+    "riding": "Souris-Moose Mountain",
     "candidate": {
       "Conservative": "Robert Kitchen"
     }
   },
   "47014": {
-    "riding": "",
+    "riding": "Yorkton-Melville",
     "candidate": {
       "Conservative": "Cathay Wagantall"
     }
   },
   "48001": {
-    "riding": "",
+    "riding": "Banff-Airdrie",
     "candidate": {
       "People's Party": "Nadine Wellwood",
       "Green Party": "Austin Mullins",
@@ -2094,19 +2094,19 @@
     }
   },
   "48002": {
-    "riding": "",
+    "riding": "Battle River-Crowfoot",
     "candidate": {
       "Conservative": "Damien C. Kurek"
     }
   },
   "48003": {
-    "riding": "",
+    "riding": "Bow River",
     "candidate": {
       "Conservative": "Martin Shields"
     }
   },
   "48004": {
-    "riding": "",
+    "riding": "Calgary Centre",
     "candidate": {
       "Green Party": "Thana Boonlert",
       "Liberal": "Kent Hehr",
@@ -2114,7 +2114,7 @@
     }
   },
   "48005": {
-    "riding": "",
+    "riding": "Calgary Confederation",
     "candidate": {
       "Conservative": "Len Webber",
       "Liberal": "Jordan Stein",
@@ -2122,31 +2122,31 @@
     }
   },
   "48006": {
-    "riding": "",
+    "riding": "Calgary Forest Lawn",
     "candidate": {
       "Green Party": "William Carnegie"
     }
   },
   "48007": {
-    "riding": "",
+    "riding": "Calgary Heritage",
     "candidate": {
       "Conservative": "Bob Benzen"
     }
   },
   "48008": {
-    "riding": "",
+    "riding": "Calgary Midnapore",
     "candidate": {
       "Conservative": "Stephanie Kusie"
     }
   },
   "48009": {
-    "riding": "",
+    "riding": "Calgary Nose Hill",
     "candidate": {
       "Conservative": "Michelle Rempel"
     }
   },
   "48010": {
-    "riding": "",
+    "riding": "Calgary Rocky Ridge",
     "candidate": {
       "Conservative": "Pat Kelly",
       "Green Party": "Catriona Wright",
@@ -2154,26 +2154,26 @@
     }
   },
   "48011": {
-    "riding": "",
+    "riding": "Calgary Shepard",
     "candidate": {
       "Conservative": "Tom Kmiec"
     }
   },
   "48012": {
-    "riding": "",
+    "riding": "Calgary Signal Hill",
     "candidate": {
       "Conservative": "Ron Liepert"
     }
   },
   "48013": {
-    "riding": "",
+    "riding": "Calgary Skyview",
     "candidate": {
       "Conservative": "Jagdeep Kaur Sahota",
       "Independent": "Darshan Singh Kang"
     }
   },
   "48014": {
-    "riding": "",
+    "riding": "Edmonton Centre",
     "candidate": {
       "Conservative": "James Cumming",
       "NDP": "Katherine Swampy",
@@ -2182,20 +2182,20 @@
     }
   },
   "48015": {
-    "riding": "",
+    "riding": "Edmonton Griesbach",
     "candidate": {
       "Conservative": "Kerry Diotte"
     }
   },
   "48016": {
-    "riding": "",
+    "riding": "Edmonton Manning",
     "candidate": {
       "Conservative": "Ziad Aboultaif",
       "Liberal": "Kamal Elkadri"
     }
   },
   "48017": {
-    "riding": "",
+    "riding": "Edmonton Mill Woods",
     "candidate": {
       "Green Party": "Tanya Herbert",
       "Conservative": "Tim Uppal",
@@ -2203,14 +2203,14 @@
     }
   },
   "48018": {
-    "riding": "",
+    "riding": "Edmonton Riverbend",
     "candidate": {
       "Green Party": "Valerie Kennedy",
       "Conservative": "Matt Jeneroux"
     }
   },
   "48019": {
-    "riding": "",
+    "riding": "Edmonton Strathcona",
     "candidate": {
       "Liberal": "Eleanor Olszewski",
       "Conservative": "Sam Lilly",
@@ -2218,7 +2218,7 @@
     }
   },
   "48020": {
-    "riding": "",
+    "riding": "Edmonton West",
     "candidate": {
       "NDP": "Patrick Steuber",
       "Liberal": "Kerrie Johnston",
@@ -2226,37 +2226,37 @@
     }
   },
   "48021": {
-    "riding": "",
+    "riding": "Edmonton-Wetaskiwin",
     "candidate": {
       "Conservative": "Mike Lake"
     }
   },
   "48022": {
-    "riding": "",
+    "riding": "Foothills",
     "candidate": {
       "Conservative": "John Barlow"
     }
   },
   "48023": {
-    "riding": "",
+    "riding": "Fort McMurray-Cold Lake",
     "candidate": {
       "Conservative": "David Yurdiga"
     }
   },
   "48024": {
-    "riding": "",
+    "riding": "Grande Prairie-Mackenzie",
     "candidate": {
       "Conservative": "Chris Warkentin"
     }
   },
   "48025": {
-    "riding": "",
+    "riding": "Lakeland",
     "candidate": {
       "Conservative": "Shannon Stubbs"
     }
   },
   "48026": {
-    "riding": "",
+    "riding": "Lethbridge",
     "candidate": {
       "Liberal": "Amy Bronson",
       "Conservative": "Rachael Harder",
@@ -2264,65 +2264,65 @@
     }
   },
   "48027": {
-    "riding": "",
+    "riding": "Medicine Hat-Cardston-Warner",
     "candidate": {
       "Conservative": "Glen Motz"
     }
   },
   "48028": {
-    "riding": "",
+    "riding": "Peace River-Westlock",
     "candidate": {
       "Conservative": "Arnold Viersen"
     }
   },
   "48029": {
-    "riding": "",
+    "riding": "Red Deer-Mountain View",
     "candidate": {
       "Conservative": "Earl Dreeshen",
       "Green Party": "Conner Borlé"
     }
   },
   "48030": {
-    "riding": "",
+    "riding": "Red Deer-Lacombe",
     "candidate": {
       "Green Party": "Desmond Bull",
       "Conservative": "Blaine Calkins"
     }
   },
   "48031": {
-    "riding": "",
+    "riding": "St. Albert-Edmonton",
     "candidate": {
       "Conservative": "Michael Cooper"
     }
   },
   "48032": {
-    "riding": "",
+    "riding": "Sherwood Park-Fort Saskatchewan",
     "candidate": {
       "Conservative": "Garnett Genuis"
     }
   },
   "48033": {
-    "riding": "",
+    "riding": "Sturgeon River-Parkland",
     "candidate": {
       "Conservative": "Dane Lloyd",
       "Green Party": "Cass Romyn"
     }
   },
   "48034": {
-    "riding": "",
+    "riding": "Yellowhead",
     "candidate": {
       "Conservative": "Garald Soroka"
     }
   },
   "59001": {
-    "riding": "",
+    "riding": "Abbotsford",
     "candidate": {
       "Conservative": "Ed Fast",
       "NDP": "Madeleine Sauvé"
     }
   },
   "59002": {
-    "riding": "",
+    "riding": "Burnaby North-Seymour",
     "candidate": {
       "Green Party": "Amita Kuttner",
       "NDP": "Svend Robinson",
@@ -2330,7 +2330,7 @@
     }
   },
   "59003": {
-    "riding": "",
+    "riding": "Burnaby South",
     "candidate": {
       "Conservative": "Jay Shin",
       "Green Party": "Brennan Wauters",
@@ -2338,7 +2338,7 @@
     }
   },
   "59004": {
-    "riding": "",
+    "riding": "Cariboo-Prince George",
     "candidate": {
       "Green Party": "Mackenzie Kerr",
       "Conservative": "Todd Doherty",
@@ -2346,7 +2346,7 @@
     }
   },
   "59005": {
-    "riding": "",
+    "riding": "Central Okanagan-Similkameen-Nicola",
     "candidate": {
       "Liberal": "Mary Ann Murphy",
       "People's Party": "Brynn Jones",
@@ -2356,7 +2356,7 @@
     }
   },
   "59006": {
-    "riding": "",
+    "riding": "Chilliwack-Hope",
     "candidate": {
       "Conservative": "Mark Strahl",
       "People's Party": "Rob Bogunovic",
@@ -2364,14 +2364,14 @@
     }
   },
   "59007": {
-    "riding": "",
+    "riding": "Cloverdale-Langley City",
     "candidate": {
       "Conservative": "Tamara Jansen",
       "Liberal": "John Aldag"
     }
   },
   "59008": {
-    "riding": "",
+    "riding": "Coquitlam-Port Coquitlam",
     "candidate": {
       "Conservative": "Nicholas Insley",
       "NDP": "Christina Gower",
@@ -2380,7 +2380,7 @@
     }
   },
   "59009": {
-    "riding": "",
+    "riding": "Courtenay-Alberni",
     "candidate": {
       "Green Party": "Sean Wood",
       "Conservative": "Byron Horner",
@@ -2388,14 +2388,14 @@
     }
   },
   "59010": {
-    "riding": "",
+    "riding": "Cowichan-Malahat-Langford",
     "candidate": {
       "NDP": "Alistair MacGregor",
       "Green Party": "Lydia Hwitsum"
     }
   },
   "59011": {
-    "riding": "",
+    "riding": "Delta",
     "candidate": {
       "Green Party": "Craig DeCraene",
       "Liberal": "Carla Qualtrough",
@@ -2403,7 +2403,7 @@
     }
   },
   "59012": {
-    "riding": "",
+    "riding": "Fleetwood-Port Kells",
     "candidate": {
       "NDP": "Annie Ohana",
       "Green Party": "Tanya Baertl",
@@ -2412,7 +2412,7 @@
     }
   },
   "59013": {
-    "riding": "",
+    "riding": "Kamloops-Thompson-Cariboo",
     "candidate": {
       "Liberal": "Terry Lake",
       "NDP": "Gina Myhill-Jones",
@@ -2421,7 +2421,7 @@
     }
   },
   "59014": {
-    "riding": "",
+    "riding": "Kelowna-Lake Country",
     "candidate": {
       "Liberal": "Stephen Fuhr",
       "NDP": "Justin Kulik",
@@ -2429,7 +2429,7 @@
     }
   },
   "59015": {
-    "riding": "",
+    "riding": "Kootenay-Columbia",
     "candidate": {
       "Conservative": "Rob Morrison",
       "Green Party": "Abra Brynne",
@@ -2438,7 +2438,7 @@
     }
   },
   "59016": {
-    "riding": "",
+    "riding": "Langley-Aldergrove",
     "candidate": {
       "Liberal": "Leon Jensen",
       "Green Party": "Kaija Farstad",
@@ -2447,7 +2447,7 @@
     }
   },
   "59017": {
-    "riding": "",
+    "riding": "Mission-Matsqui-Fraser Canyon",
     "candidate": {
       "Liberal": "Jati Sidhu",
       "Green Party": "John Kidder",
@@ -2455,7 +2455,7 @@
     }
   },
   "59018": {
-    "riding": "",
+    "riding": "Nanaimo-Ladysmith",
     "candidate": {
       "Conservative": "John Hirst",
       "Green Party": "Paul Manly",
@@ -2465,7 +2465,7 @@
     }
   },
   "59019": {
-    "riding": "",
+    "riding": "New Westminster-Burnaby",
     "candidate": {
       "Conservative": "Megan Veck",
       "Green Party": "Suzanne De Montigny",
@@ -2473,7 +2473,7 @@
     }
   },
   "59020": {
-    "riding": "",
+    "riding": "North Okanagan-Shuswap",
     "candidate": {
       "Green Party": "Marc Reinarz",
       "People's Party": "Kyle Delfing",
@@ -2483,7 +2483,7 @@
     }
   },
   "59021": {
-    "riding": "",
+    "riding": "North Vancouver",
     "candidate": {
       "Green Party": "George Orr",
       "Liberal": "Jonathan Wilkinson",
@@ -2491,14 +2491,14 @@
     }
   },
   "59022": {
-    "riding": "",
+    "riding": "Pitt Meadows-Maple Ridge",
     "candidate": {
       "Liberal": "Dan Ruimy",
       "Conservative": "Marc Dalton"
     }
   },
   "59023": {
-    "riding": "",
+    "riding": "Port Moody-Coquitlam",
     "candidate": {
       "NDP": "Bonita Zarrillo",
       "Liberal": "Sara Badiei",
@@ -2506,20 +2506,20 @@
     }
   },
   "59024": {
-    "riding": "",
+    "riding": "Prince George-Peace River-Northern Rockies",
     "candidate": {
       "Conservative": "Bob Zimmer"
     }
   },
   "59025": {
-    "riding": "",
+    "riding": "Richmond Centre",
     "candidate": {
       "People's Party": "Ivan Pak",
       "Conservative": "Alice Wong"
     }
   },
   "59026": {
-    "riding": "",
+    "riding": "Esquimalt-Saanich-Sooke",
     "candidate": {
       "Green Party": "David Merner",
       "Conservative": "Randall Pewarchuk",
@@ -2529,7 +2529,7 @@
     }
   },
   "59027": {
-    "riding": "",
+    "riding": "Saanich-Gulf Islands",
     "candidate": {
       "NDP": "Sabina Singh",
       "Conservative": "David Busch",
@@ -2538,7 +2538,7 @@
     }
   },
   "59028": {
-    "riding": "",
+    "riding": "Skeena-Bulkley Valley",
     "candidate": {
       "People's Party": "Rodney Taylor",
       "Liberal": "Dave Birdi",
@@ -2547,7 +2547,7 @@
     }
   },
   "59029": {
-    "riding": "",
+    "riding": "South Okanagan-West Kootenay",
     "candidate": {
       "Conservative": "Helena Konanz",
       "Green Party": "Tara Howse",
@@ -2556,7 +2556,7 @@
     }
   },
   "59030": {
-    "riding": "",
+    "riding": "South Surrey-White Rock",
     "candidate": {
       "Liberal": "Gordie Hogg",
       "Conservative": "Kerry-Lynne Findley",
@@ -2564,14 +2564,14 @@
     }
   },
   "59031": {
-    "riding": "",
+    "riding": "Steveston-Richmond East",
     "candidate": {
       "Liberal": "Joe Peschisolido",
       "Conservative": "Kenny Chiu"
     }
   },
   "59032": {
-    "riding": "",
+    "riding": "Surrey Centre",
     "candidate": {
       "People's Party": "Jaswinder Dilawari",
       "Conservative": "Tina Bains",
@@ -2580,7 +2580,7 @@
     }
   },
   "59033": {
-    "riding": "",
+    "riding": "Surrey-Newton",
     "candidate": {
       "Liberal": "Sukh Dhaliwal",
       "Conservative": "Harpreet Singh",
@@ -2588,7 +2588,7 @@
     }
   },
   "59034": {
-    "riding": "",
+    "riding": "Vancouver Centre",
     "candidate": {
       "Liberal": "Hedy Fry",
       "Conservative": "David Cavey",
@@ -2596,7 +2596,7 @@
     }
   },
   "59035": {
-    "riding": "",
+    "riding": "Vancouver East",
     "candidate": {
       "Green Party": "Bridget Burns",
       "NDP": "Jenny Kwan",
@@ -2604,7 +2604,7 @@
     }
   },
   "59036": {
-    "riding": "",
+    "riding": "Vancouver Granville",
     "candidate": {
       "Conservative": "Zach Segal",
       "Green Party": "Louise Boutin",
@@ -2614,7 +2614,7 @@
     }
   },
   "59037": {
-    "riding": "",
+    "riding": "North Island-Powell River",
     "candidate": {
       "NDP": "Rachel Blaney",
       "Liberal": "Peter Schwarzhoff",
@@ -2624,7 +2624,7 @@
     }
   },
   "59038": {
-    "riding": "",
+    "riding": "Vancouver Kingsway",
     "candidate": {
       "Conservative": "Helen Quan",
       "Liberal": "Tamara Taggart",
@@ -2634,7 +2634,7 @@
     }
   },
   "59039": {
-    "riding": "",
+    "riding": "Vancouver Quadra",
     "candidate": {
       "Green Party": "Geoff Wright",
       "NDP": "Leigh Kenny",
@@ -2643,7 +2643,7 @@
     }
   },
   "59040": {
-    "riding": "",
+    "riding": "Vancouver South",
     "candidate": {
       "Liberal": "Harjit S. Sajjan",
       "Conservative": "Wai Young",
@@ -2652,7 +2652,7 @@
     }
   },
   "59041": {
-    "riding": "",
+    "riding": "Victoria",
     "candidate": {
       "Conservative": "Richard Caron",
       "NDP": "Laurel Collins",
@@ -2660,7 +2660,7 @@
     }
   },
   "59042": {
-    "riding": "",
+    "riding": "West Vancouver-Sunshine Coast-Sea to Sky Country",
     "candidate": {
       "Conservative": "Gabrielle Loren",
       "People's Party": "Robert Bebb",
@@ -2668,7 +2668,7 @@
     }
   },
   "60001": {
-    "riding": "",
+    "riding": "Yukon",
     "candidate": {
       "NDP": "Justin Lemphers",
       "Conservative": "Jonas Smith",
@@ -2676,14 +2676,14 @@
     }
   },
   "61001": {
-    "riding": "",
+    "riding": "Northwest Territories",
     "candidate": {
       "Liberal": "Michael McLeod",
       "Conservative": "Yanik D'Aigle"
     }
   },
   "62001": {
-    "riding": "",
+    "riding": "Nunavut",
     "candidate": {
       "Liberal": "Megan Pizzo Lyall",
       "Independent": "Hunter Tootoo",
