@@ -1,0 +1,122 @@
+Scraping Documentation (each url is a party section) 
+
+//Conservative
+https://www.conservative.ca/team/2019-candidates/ 
+
+<div class="cabinet-member">	
+	<div class="cabinet-avatar">
+	<img src="https://cpcassets.conservative.ca/wp-content/uploads/2019/04/03155223/18a9cb5d2e37e61-150x150.png">
+	</div>
+	<div class="cabinet-flex-content">
+	<h3>Theodore Antony</h3>
+	<p class="riding-title">Markham?�?Stouffville</p>
+	</div>
+	<a href="https://www.conservative.ca/team-member/theodore-antony/"class="button button--blue">Learn More</a>
+	</div>
+
+document.querySelector('.team-bio-image').nextElementSibling
+document.querySelector('.social-nav').querySelectorAll('a').forEach((item) => console.log(item.dataset.type, item.href))
+
+
+document.querySelectorAll(".cabinet-member");
+.querySelector ->
+	('h3').textContent for name
+	img.src  for image
+	.riding-title for riding
+	a     for website
+           
+		   
+//Liberal
+https://www.liberal.ca/team-trudeau-2019-candidates/ 
+t.querySelectorAll(".candidate-card");
+  ->querySelecto('.photo') +
+           '.riding' + 
+           .candidate-social-link--[facebook,twitter,instagram, OR website] +
+          .link-container-left).nextElementSibling if .textContent === donate 
+ 
+class="bio-paragraph-container"
+
+note: missing some liberal logic after failed to save
+
+
+https://www.greenparty.ca/en/candidates 
+
+.querySelectorAll('.candidate-card'
+      queryselector( 
+            .candidate-name 
+            .riding-name
+             .candidate-image.dataset.src  --> .match(/ src="([^"]*)"/)[1]
+             (https://www.greenparty.ca) +  (.modal-bio a).href 
+	querySelector('.candidate-contact > [title=Facebook]') and title=Twitter, Instagram
+	 https://www.greenparty.ca + .btn-donate 
+             
+
+
+//Peoples
+https://www.peoplespartyofcanada.ca/our_candidates 
+
+querySelectAll(.canidatetable > tr) 
+	->
+	map 
+	if (!.querySelect(strong)   (this is the heading they use :/ ) )
+		.querySelectorAll(td)
+		    -> [0] = riding,
+		   ->[1]  =  name
+		   -> [2].querySelector(a) = twitter
+		  -> [3].querySelector(a) = facebook
+		   -> [4].querySelector(a) = website
+
+no images, if twitter can generate from twitter like so:
+https://twitter.com/[screen_name]/profile_image?size=original
+e.g.  nadinewellwood
+https://twitter.com/nadinewellwood/profile_image?size=original
+			
+
+
+//NDP
+https://www.ndp.ca/candidates 
+
+querySelectorAll(".campaign-civics-list-inner")
+
+querySelector(".civic-image")
+<img class="campaign-civics-list-image civic-image" src="https://www.ndp.ca/sites/default/files/headshots/35072-adamoj-candidatepage-400x480_0.png" data-img-src="https://www.ndp.ca/sites/default/files/headshots/35072-adamoj-candidatepage-400x480_0.png" alt="Jerome  Adamo" data-img-src-loaded="1">
+
+
+querySelector(".civic-data")
+
+<div class="civic-data" data-fullname="Jerome  Adamo" data-firstname="Jerome" data-lastname="Adamo" data-cabinet-position="" data-riding-code="35072" data-riding-name="Oakville" data-tag-line="Oakville" data-donate-link="/donate/35072?source=2019_35072_DON_EN" data-volunteer-link="https://www.ndp.ca/volunteer?source=2019_35072_VOL_EN" data-website-link="https://jeromeadamo.ndp.ca" data-twitter-link="https://twitter.com/Jerome4Oakville" data-facebook-link="https://www.facebook.com/Jerome4Oakville" data-instagram-link="https://www.instagram.com/jermone_adamo4oakville/" data-bio=""></div>
+
+
+
+//Bloc
+http://www.blocquebecois.org/candidats/  (may paginate)
+
+paginate so copied and pasted whole html
+
+querySelctorAll('article')
+	-> queryselector(image a) 
+			.href = website
+			.title.split(':')[0] = riding
+			.src https://www.blocquebecois.org + src for image
+			.alt = name
+	
+	let facebook = "";
+	let twitter = ""
+	let 
+  	.queryselectorAll(.fb).forEach
+		let test = .href 
+		facebook =  test.match('facebook') || facebook
+		twitter = test.match('twitter') || twitter;
+		instagram = test.match('instagram') || instagram;
+
+		
+
+
+
+
+
+
+https://www.blocquebecois.org/candidats/?full_name=22959
+
+
+
